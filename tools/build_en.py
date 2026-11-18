@@ -35,7 +35,7 @@ if funil:  # ids dos produtos no funil não são traduzidos
         e_en['produtos'] = [({'id': x['id'], 'rotulo': MAP.get(x['rotulo'], x['rotulo'])} if isinstance(x, dict) else x) for x in e_pt['produtos']]
 en['meta']['idioma'] = 'en'
 # Produtos que não rodam fora do Brasil: ficam inativos só na versão em inglês (somem do menu, mandala e funil)
-EN_INATIVOS = ['tnt-sports', 'globo', 'pluto-tv', 'webedia', 'telecom', 'canais-impacto', 'tinder', 'uber', 'dooh']
+EN_INATIVOS = ['tnt-sports', 'globo', 'pluto-tv', 'webedia', 'telecom', 'canais-impacto', 'tinder', 'uber', 'dooh', 'ctv-cultura-asiatica']
 for p in en['produtos']:
     if p['id'] in EN_INATIVOS:
         p['status'] = 'inativo'

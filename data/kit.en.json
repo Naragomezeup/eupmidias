@@ -1,7 +1,7 @@
 {
  "meta": {
-  "versao": "0.4.2",
-  "atualizadoEm": "2026-11-17",
+  "versao": "0.4.3",
+  "atualizadoEm": "2026-11-18",
   "status": "prototipo-em-avaliacao",
   "fontes": [
    "MIDIA_KIT_2026_CLIENTES (10).pdf — export do Canva, 273 páginas",
@@ -11,7 +11,8 @@
    "EUP_Media_Kit_PT.docx",
    "EUP_MediaKit_Layout_PT.docx",
    "EUP_Cards_Lancamento_Simplesmente_Diferente.docx",
-   "Material1_NaoPareDeAnunciar_EUP 3.pdf — nomes das seis frentes"
+   "Material1_NaoPareDeAnunciar_EUP 3.pdf — nomes das seis frentes",
+   "EUP_Lancamento_CTV_Cultura_Asiatica.pdf — novo produto (só PT)"
   ],
   "idioma": "en"
  },
@@ -1032,10 +1033,130 @@
    "arte": "circulo"
   },
   {
+   "id": "ctv-cultura-asiatica",
+   "nome": "CTV Cultura Asiática",
+   "frente": "streaming-ctv",
+   "ordem": 8,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-18",
+   "paginasOrigem": "EUP_Lancamento_CTV_Cultura_Asiatica.pdf (lançamento, 9 páginas)",
+   "chamada": "A onda asiática agora está no seu plano de mídia.",
+   "descricao": "Doramas, K-pop e animes na tela grande da sala. Um novo deal de Connected TV, agora disponível para anunciantes E.UP.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "O segmento",
+     "titulo": "A cultura asiática saiu do nicho e virou mainstream.",
+     "paragrafos": [
+      "Doramas coreanos, K-pop e animes japoneses deixaram de ser comunidade de fã para ocupar o topo dos rankings de streaming, música e entretenimento, no mundo e no Brasil."
+     ],
+     "listaTitulo": "In practice",
+     "lista": [
+      "Produções coreanas e animes japoneses estão entre os conteúdos mais assistidos do streaming global, falados em coreano e japonês.",
+      "Turnês de K-pop lotam estádios e arenas no Brasil, e eventos de anime reúnem multidões em todo o país.",
+      "O público brasileiro é um dos mais engajados do mundo com essa cultura, em plataformas, eventos e redes sociais."
+     ],
+     "faixa": "Por que importa: não é tendência passageira. É audiência recorrente, que volta toda semana para o próximo episódio."
+    },
+    {
+     "tipo": "numeros",
+     "eyebrow": "Números que importam",
+     "titulo": "Uma audiência global, e crescente.",
+     "itens": [
+      {
+       "valor": "225 mi",
+       "rotulo": "fãs de Hallyu, a onda cultural coreana, no mundo"
+      },
+      {
+       "valor": "¥3,3 tri",
+       "rotulo": "em ienes movimentados pela indústria japonesa de animação em 2023, recorde histórico"
+      },
+      {
+       "valor": "51%",
+       "rotulo": "da receita da animação japonesa já vem de fora do Japão"
+      }
+     ],
+     "fonte": "Korea Foundation, Global Hallyu Status 2023 · The Association of Japanese Animations, Anime Industry Report 2024"
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Audience profile",
+     "titulo": "Quem está do outro lado da tela.",
+     "intro": "Três comunidades com afinidades próprias, e um traço em comum: engajamento.",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Doramas",
+       "texto": "Quem é: público majoritariamente feminino, jovem e adulto, conectado a romance, drama e estética coreana. Como consome: maratona de temporadas, com forte influência em beleza, moda e gastronomia."
+      },
+      {
+       "titulo": "K-pop",
+       "texto": "Quem é: Geração Z e millennials organizados em fandoms altamente ativos. Como consome: música, shows, variedades e redes sociais: consumo diário e multiplataforma."
+      },
+      {
+       "titulo": "Animes",
+       "texto": "Quem é: jovens adultos, com forte cruzamento com games, tecnologia e cultura pop. Como consome: episódios semanais e catálogo extenso: audiência fiel de longa duração."
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "A mídia",
+     "titulo": "CTV: a tela grande da sala, agora com afinidade cultural.",
+     "intro": "Connected TV é o streaming assistido na TV conectada: atenção total, som ligado e conteúdo escolhido pelo próprio espectador.",
+     "paragrafos": [
+      "Com o novo deal, a marca aparece dentro dos conteúdos que esse público mais assiste (doramas, K-pop e animes) em vez de disputar atenção em inventário genérico.",
+      "É um deal curado: o anunciante sabe em que tipo de conteúdo a mensagem vai aparecer, em ambiente premium e brand safe.",
+      "Entra como complemento ao mix: soma a streaming premium, YouTube, vídeo e display programático."
+     ],
+     "listaTitulo": "Differentiators",
+     "lista": [
+      "Afinidade: segmentação pelo conteúdo que o público escolhe assistir.",
+      "Tela grande: vídeo em tela cheia, no momento de lazer da casa.",
+      "Co-viewing: uma exibição alcança quem está junto na sala.",
+      "Brand safe: inventário curado, conteúdo de entretenimento."
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Oportunidades",
+     "titulo": "Para quais marcas faz sentido.",
+     "intro": "Segmentos com afinidade natural com o público de cultura asiática.",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Beleza e skincare",
+       "texto": "A estética K-beauty nasce nos doramas e chega ao carrinho."
+      },
+      {
+       "titulo": "Moda e varejo",
+       "texto": "O estilo de ídolos e personagens influencia tendência e compra."
+      },
+      {
+       "titulo": "Alimentação e delivery",
+       "texto": "Culinária asiática, snacks e bebidas em alta entre os fãs."
+      },
+      {
+       "titulo": "Tecnologia e games",
+       "texto": "Eletrônicos, consoles e apps com forte cruzamento com animes."
+      },
+      {
+       "titulo": "Educação e idiomas",
+       "texto": "Cursos de coreano e japonês, intercâmbio e ensino online."
+      },
+      {
+       "titulo": "Turismo e eventos",
+       "texto": "Viagens à Ásia, shows, convenções e experiências."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "youtube-insights",
    "nome": "YouTube",
    "frente": "streaming-ctv",
-   "ordem": 8,
+   "ordem": 9,
    "status": "ativo",
    "atualizadoEm": "2026-11-17",
    "paginasOrigem": "120–124",
@@ -1102,7 +1223,7 @@
    "id": "pluto-tv",
    "nome": "Pluto TV",
    "frente": "streaming-ctv",
-   "ordem": 9,
+   "ordem": 10,
    "status": "inativo",
    "atualizadoEm": "2026-11-17",
    "paginasOrigem": "125–127",
@@ -2714,6 +2835,7 @@
      "tnt-sports",
      "globo",
      "ctv",
+     "ctv-cultura-asiatica",
      "pluto-tv",
      "audio-digital",
      "spotify",
