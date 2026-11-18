@@ -1,0 +1,6030 @@
+{
+ "library": {
+  "version": "1.0",
+  "updated": "2026-11-12"
+ },
+ "categories": [
+  {
+   "id": "display",
+   "name": {
+    "pt": "Display Programático",
+    "en": "Programmatic Display",
+    "es": "Display Programático"
+   }
+  },
+  {
+   "id": "video",
+   "name": {
+    "pt": "Vídeo Programático",
+    "en": "Programmatic Video",
+    "es": "Video Programático"
+   }
+  },
+  {
+   "id": "audio",
+   "name": {
+    "pt": "Áudio",
+    "en": "Audio",
+    "es": "Audio"
+   }
+  },
+  {
+   "id": "native",
+   "name": {
+    "pt": "Native",
+    "en": "Native",
+    "es": "Native"
+   }
+  },
+  {
+   "id": "streaming",
+   "name": {
+    "pt": "Streaming & CTV",
+    "en": "Streaming & CTV",
+    "es": "Streaming & CTV"
+   }
+  },
+  {
+   "id": "google",
+   "name": {
+    "pt": "YouTube & Google",
+    "en": "YouTube & Google",
+    "es": "YouTube & Google"
+   }
+  },
+  {
+   "id": "social",
+   "name": {
+    "pt": "Social & Apps",
+    "en": "Social & Apps",
+    "es": "Social & Apps"
+   }
+  },
+  {
+   "id": "push",
+   "name": {
+    "pt": "Push",
+    "en": "Push",
+    "es": "Push"
+   }
+  },
+  {
+   "id": "ai",
+   "name": {
+    "pt": "IA conversacional",
+    "en": "Conversational AI",
+    "es": "IA conversacional"
+   }
+  }
+ ],
+ "media": [
+  {
+   "id": "display",
+   "name": "Mídia Programática Display",
+   "cat": "display",
+   "order": 1,
+   "names": {
+    "pt": "Mídia Programática Display",
+    "en": "Programmatic Display",
+    "es": "Display Programático"
+   },
+   "tagline": {
+    "pt": "DV360, Drive to Store e Amazon DSP",
+    "en": "DV360, Drive to Store and Amazon DSP",
+    "es": "DV360, Drive to Store y Amazon DSP"
+   },
+   "keywords": "display banner dv360 dts drive to store amazon dsp",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 4–8",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 4–8",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 4–8"
+   },
+   "formats": [
+    {
+     "id": "dv360-display",
+     "name": {
+      "pt": "DV360 Display",
+      "en": "DV360 Display",
+      "es": "DV360 Display"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       {
+        "pt": "Peso recomendado",
+        "en": "Recommended file size",
+        "es": "Peso recomendado"
+       },
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       }
+      ],
+      "rows": [
+       [
+        "320x50",
+        {
+         "pt": "até 100kb",
+         "en": "up to 100kb",
+         "es": "hasta 100kb"
+        },
+        "500kb"
+       ],
+       [
+        "300x50",
+        {
+         "pt": "até 100kb",
+         "en": "up to 100kb",
+         "es": "hasta 100kb"
+        },
+        "500kb"
+       ],
+       [
+        "300x250",
+        {
+         "pt": "até 150kb",
+         "en": "up to 150kb",
+         "es": "hasta 150kb"
+        },
+        "500kb"
+       ],
+       [
+        "336x280",
+        {
+         "pt": "até 200kb",
+         "en": "up to 200kb",
+         "es": "hasta 200kb"
+        },
+        "500kb"
+       ],
+       [
+        "728x90",
+        {
+         "pt": "até 200kb",
+         "en": "up to 200kb",
+         "es": "hasta 200kb"
+        },
+        "500kb"
+       ],
+       [
+        "160x600",
+        {
+         "pt": "até 200kb",
+         "en": "up to 200kb",
+         "es": "hasta 200kb"
+        },
+        "500kb"
+       ],
+       [
+        "320x480",
+        {
+         "pt": "até 300kb",
+         "en": "up to 300kb",
+         "es": "hasta 300kb"
+        },
+        "500kb"
+       ],
+       [
+        "300x600",
+        {
+         "pt": "até 300kb",
+         "en": "up to 300kb",
+         "es": "hasta 300kb"
+        },
+        "500kb"
+       ],
+       [
+        "970x250",
+        {
+         "pt": "até 300kb",
+         "en": "up to 300kb",
+         "es": "hasta 300kb"
+        },
+        "500kb"
+       ]
+      ]
+     },
+     "specs": [
+      [
+       {
+        "pt": "Extensões aceitas",
+        "en": "Accepted file types",
+        "es": "Extensiones aceptadas"
+       },
+       "Jpg/JPEG, png, gif."
+      ]
+     ]
+    },
+    {
+     "id": "dts",
+     "name": {
+      "pt": "Drive to Store (DTS)",
+      "en": "Drive to Store (DTS)",
+      "es": "Drive to Store (DTS)"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       }
+      ],
+      "rows": [
+       [
+        "250x250"
+       ],
+       [
+        "300x50"
+       ],
+       [
+        "300x600"
+       ],
+       [
+        "320x250"
+       ],
+       [
+        "320x480"
+       ],
+       [
+        "320x50"
+       ],
+       [
+        "336x280"
+       ],
+       [
+        "728x90"
+       ]
+      ]
+     },
+     "specs": [
+      [
+       {
+        "pt": "Peso recomendado",
+        "en": "Recommended file size",
+        "es": "Peso recomendado"
+       },
+       {
+        "pt": "Até 200kb",
+        "en": "Up to 200kb",
+        "es": "Hasta 200kb"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       },
+       {
+        "pt": "até 500KB",
+        "en": "up to 500KB",
+        "es": "hasta 500KB"
+       }
+      ],
+      [
+       {
+        "pt": "Extensões aceitas",
+        "en": "Accepted file types",
+        "es": "Extensiones aceptadas"
+       },
+       "Jpg/JPEG, png, gif."
+      ]
+     ]
+    },
+    {
+     "id": "amazon-display",
+     "name": {
+      "pt": "Amazon DSP Display",
+      "en": "Amazon DSP Display",
+      "es": "Amazon DSP Display"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       }
+      ],
+      "rows": [
+       [
+        "120x600",
+        "40kb"
+       ],
+       [
+        "160x600",
+        "40kb"
+       ],
+       [
+        "250x250",
+        "40kb"
+       ],
+       [
+        "300x50",
+        "40kb"
+       ],
+       [
+        "300x600",
+        "50kb"
+       ],
+       [
+        "320x50",
+        "50kb"
+       ],
+       [
+        "336x280",
+        "40kb"
+       ],
+       [
+        "728x90",
+        "40kb"
+       ],
+       [
+        "970x250",
+        "200kb"
+       ]
+      ]
+     },
+     "specs": [
+      [
+       {
+        "pt": "Extensões aceitas",
+        "en": "Accepted file types",
+        "es": "Extensiones aceptadas"
+       },
+       "Jpg/JPEG, png, gif."
+      ]
+     ]
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Display: especificações para JPEG e PNG",
+      "en": "Display: JPEG and PNG specifications",
+      "es": "Display: especificaciones para JPEG y PNG"
+     },
+     "items": [
+      {
+       "pt": "Peças flutuantes ou pop-up não são aceitos pelo sistema",
+       "en": "Floating or pop-up assets are not accepted by the system",
+       "es": "Piezas flotantes o pop-up no son aceptadas por el sistema"
+      },
+      {
+       "pt": "Todos os cookies de terceiros devem ser declarados",
+       "en": "All third-party cookies must be declared",
+       "es": "Todas las cookies de terceros deben ser declaradas"
+      },
+      {
+       "pt": "As peças precisam ter a logomarca do anunciante. A mesma logomarca deve estar na página de destino",
+       "en": "Assets must carry the advertiser's logo. The same logo must appear on the landing page",
+       "es": "Las piezas deben tener el logotipo del anunciante. El mismo logotipo debe estar en la página de destino"
+      },
+      {
+       "pt": "As peças precisam ser envolvidas por uma borda de 1 pixel na cor preta",
+       "en": "Assets must be framed by a 1-pixel black border",
+       "es": "Las piezas deben estar enmarcadas por un borde de 1 píxel en color negro"
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "Display: especificações para GIF",
+      "en": "Display: GIF specifications",
+      "es": "Display: especificaciones para GIF"
+     },
+     "items": [
+      {
+       "pt": "Animações podem durar no máximo 15 segundos e posteriormente a peça deve permanecer estática",
+       "en": "Animations may last up to 15 seconds, after which the asset must remain static",
+       "es": "Las animaciones pueden durar como máximo 15 segundos y luego la pieza debe permanecer estática"
+      },
+      {
+       "pt": "São permitidos apenas 3 loops. Não é permitido looping infinito",
+       "en": "Only 3 loops are allowed. Infinite looping is not allowed",
+       "es": "Se permiten solo 3 loops. No se permite looping infinito"
+      },
+      {
+       "pt": "Páginas de destino (landing page) que contém “formulários” devem utilizar Certificado de Segurança (https://)",
+       "en": "Landing pages containing “forms” must use a Security Certificate (https://)",
+       "es": "Las páginas de destino (landing page) que contienen “formularios” deben usar Certificado de Seguridad (https://)"
+      },
+      {
+       "pt": "Peças flutuantes ou pop-up não são aceitos pelo sistema",
+       "en": "Floating or pop-up assets are not accepted by the system",
+       "es": "Piezas flotantes o pop-up no son aceptadas por el sistema"
+      },
+      {
+       "pt": "Todos os cookies de terceiros devem ser declarados",
+       "en": "All third-party cookies must be declared",
+       "es": "Todas las cookies de terceros deben ser declaradas"
+      },
+      {
+       "pt": "As peças precisam ter a logomarca do anunciante. A mesma logomarca deve estar na página de destino",
+       "en": "Assets must carry the advertiser's logo. The same logo must appear on the landing page",
+       "es": "Las piezas deben tener el logotipo del anunciante. El mismo logotipo debe estar en la página de destino"
+      },
+      {
+       "pt": "As peças precisam ser envolvidas por uma borda de 1 pixel que contraste com o background",
+       "en": "Assets must be framed by a 1-pixel border that contrasts with the background",
+       "es": "Las piezas deben estar enmarcadas por un borde de 1 píxel que contraste con el fondo"
+      }
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "video-programatico",
+   "name": "Mídia Programática Vídeo",
+   "cat": "video",
+   "order": 2,
+   "names": {
+    "pt": "Mídia Programática Vídeo",
+    "en": "Programmatic Video",
+    "es": "Video Programático"
+   },
+   "tagline": {
+    "pt": "DV360, Amazon DSP e criativos dinâmicos",
+    "en": "DV360, Amazon DSP and dynamic creatives",
+    "es": "DV360, Amazon DSP y creativos dinámicos"
+   },
+   "keywords": "video vídeo dv360 amazon dsp asin component based creative criativos dinamicos banner companheiro",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 9–12",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 9–12",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 9–12"
+   },
+   "formats": [
+    {
+     "id": "dv360-video",
+     "name": {
+      "pt": "Vídeo DV360",
+      "en": "DV360 Video",
+      "es": "Video DV360"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       {
+        "pt": "VÍDEO — .avi, .mov, .mp4, .m4v, .mpeg, .mpg, .webm, .wmv",
+        "en": "VIDEO — .avi, .mov, .mp4, .m4v, .mpeg, .mpg, .webm, .wmv",
+        "es": "VIDEO — .avi, .mov, .mp4, .m4v, .mpeg, .mpg, .webm, .wmv"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       },
+       {
+        "pt": "Até 1GB",
+        "en": "Up to 1GB",
+        "es": "Hasta 1GB"
+       }
+      ],
+      [
+       {
+        "pt": "Peso recomendado",
+        "en": "Recommended file size",
+        "es": "Peso recomendado"
+       },
+       {
+        "pt": "Até 100mb",
+        "en": "Up to 100mb",
+        "es": "Hasta 100mb"
+       }
+      ],
+      [
+       {
+        "pt": "Secundagem",
+        "en": "Length",
+        "es": "Duración"
+       },
+       {
+        "pt": "15s ou 30s",
+        "en": "15s or 30s",
+        "es": "15s o 30s"
+       }
+      ],
+      [
+       {
+        "pt": "Proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       "16:9 (1920 × 1080)"
+      ],
+      [
+       {
+        "pt": "Codec",
+        "en": "Codec",
+        "es": "Códec"
+       },
+       "H.264"
+      ],
+      [
+       {
+        "pt": "Frame rate",
+        "en": "Frame rate",
+        "es": "Frame rate"
+       },
+       {
+        "pt": "23.98 or 29.97",
+        "en": "23.98 or 29.97",
+        "es": "23.98 o 29.97"
+       }
+      ],
+      [
+       {
+        "pt": "Bitrate de vídeo",
+        "en": "Video bitrate",
+        "es": "Bitrate de video"
+       },
+       {
+        "pt": "At least 20 Mbps",
+        "en": "At least 20 Mbps",
+        "es": "Al menos 20 Mbps"
+       }
+      ],
+      [
+       {
+        "pt": "Length",
+        "en": "Length",
+        "es": "Duración"
+       },
+       {
+        "pt": "15 or 30 seconds",
+        "en": "15 or 30 seconds",
+        "es": "15 o 30 segundos"
+       }
+      ],
+      [
+       {
+        "pt": "Black bars",
+        "en": "Black bars",
+        "es": "Barras negras"
+       },
+       {
+        "pt": "No black bars",
+        "en": "No black bars",
+        "es": "Sin barras negras"
+       }
+      ],
+      [
+       {
+        "pt": "Letterboxing",
+        "en": "Letterboxing",
+        "es": "Letterboxing"
+       },
+       {
+        "pt": "No letterboxing",
+        "en": "No letterboxing",
+        "es": "Sin letterboxing"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Codec",
+        "en": "Audio — Codec",
+        "es": "Audio — Códec"
+       },
+       {
+        "pt": "PCM (preferred) or AAC",
+        "en": "PCM (preferred) or AAC",
+        "es": "PCM (preferido) o AAC"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Bitrate",
+        "en": "Audio — Bitrate",
+        "es": "Audio — Bitrate"
+       },
+       {
+        "pt": "At least 192 Kbps",
+        "en": "At least 192 Kbps",
+        "es": "Al menos 192 Kbps"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Bit",
+        "en": "Audio — Bit depth",
+        "es": "Audio — Bit"
+       },
+       {
+        "pt": "16 or 24 bit only",
+        "en": "16 or 24 bit only",
+        "es": "Solo 16 o 24 bits"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Sample rate",
+        "en": "Audio — Sample rate",
+        "es": "Audio — Sample rate"
+       },
+       "48 kHz"
+      ],
+      [
+       {
+        "pt": "Áudio — Audio settings",
+        "en": "Audio — Audio settings",
+        "es": "Audio — Configuración de audio"
+       },
+       {
+        "pt": "Required",
+        "en": "Required",
+        "es": "Obligatoria"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Loudness",
+        "en": "Audio — Loudness",
+        "es": "Audio — Loudness"
+       },
+       {
+        "pt": "Loudness aligned with IAB US spec of -24LKFS +/- 2LKFS",
+        "en": "Loudness aligned with IAB US spec of -24LKFS +/- 2LKFS",
+        "es": "Loudness alineado con la especificación IAB US de -24LKFS +/- 2LKFS"
+       }
+      ]
+     ]
+    },
+    {
+     "id": "dv360-companion",
+     "name": {
+      "pt": "Banner companheiro (DV360)",
+      "en": "Companion banner (DV360)",
+      "es": "Banner acompañante (DV360)"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Descrição",
+        "en": "Description",
+        "es": "Descripción"
+       },
+       {
+        "pt": "Alguns canais aceitam “banner companheiro” que é exibido ao lado do vídeo ou dentro dele.",
+        "en": "Some channels accept a “companion banner” displayed next to or inside the video.",
+        "es": "Algunos canales aceptan “banner acompañante”, que se muestra al lado del video o dentro de él."
+       }
+      ],
+      [
+       {
+        "pt": "Arquivos",
+        "en": "Files",
+        "es": "Archivos"
+       },
+       {
+        "pt": "É altamente recomendado enviar 3 arquivos seguindo as especificações de display.",
+        "en": "Sending 3 files following the display specifications is highly recommended.",
+        "es": "Se recomienda enviar 3 archivos siguiendo las especificaciones de display."
+       }
+      ],
+      [
+       {
+        "pt": "Referência",
+        "en": "Reference",
+        "es": "Referencia"
+       },
+       {
+        "pt": "Especificações de Mídia Programática Display (DV360 Display e especificações gerais JPEG/PNG/GIF)",
+        "en": "Programmatic Display specifications (DV360 Display and general JPEG/PNG/GIF rules)",
+        "es": "Especificaciones de Display Programático (DV360 Display y reglas generales JPEG/PNG/GIF)"
+       }
+      ]
+     ]
+    },
+    {
+     "id": "amazon-video",
+     "name": {
+      "pt": "Vídeo Amazon DSP",
+      "en": "Amazon DSP Video",
+      "es": "Video Amazon DSP"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       {
+        "pt": "VÍDEO — MP4",
+        "en": "VIDEO — MP4",
+        "es": "VIDEO — MP4"
+       }
+      ],
+      [
+       {
+        "pt": "Secundagem",
+        "en": "Length",
+        "es": "Duración"
+       },
+       {
+        "pt": "6s até 120s. Sendo que o recomendado é uma dessas: 6s, 15s, 20s, 30s, or 60s",
+        "en": "6s to 120s. Recommended: 6s, 15s, 20s, 30s, or 60s",
+        "es": "6s a 120s. Se recomienda una de estas: 6s, 15s, 20s, 30s o 60s"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       },
+       "500 mb"
+      ],
+      [
+       {
+        "pt": "Proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       "16:9 (1920x1080)"
+      ],
+      [
+       {
+        "pt": "Video Bitrate mínimo",
+        "en": "Minimum video bitrate",
+        "es": "Bitrate de video mínimo"
+       },
+       "4mbps"
+      ],
+      [
+       {
+        "pt": "Video Bitrate máximo",
+        "en": "Maximum video bitrate",
+        "es": "Bitrate de video máximo"
+       },
+       "8 mbps"
+      ],
+      [
+       {
+        "pt": "Audio bitrate mínimo",
+        "en": "Minimum audio bitrate",
+        "es": "Bitrate de audio mínimo"
+       },
+       "192kbps"
+      ],
+      [
+       {
+        "pt": "Frame rate",
+        "en": "Frame rate",
+        "es": "Frame rate"
+       },
+       {
+        "pt": "23.976 (recommended), 24, 25, or 29.97",
+        "en": "23.976 (recommended), 24, 25, or 29.97",
+        "es": "23.976 (recomendado), 24, 25 o 29.97"
+       }
+      ],
+      [
+       {
+        "pt": "Formatos",
+        "en": "Formats",
+        "es": "Formatos"
+       },
+       {
+        "pt": "Video: H.264, MPEG-2, or MPEG-4; Audio: AAC",
+        "en": "Video: H.264, MPEG-2, or MPEG-4; Audio: AAC",
+        "es": "Video: H.264, MPEG-2 o MPEG-4; Audio: AAC"
+       }
+      ],
+      [
+       {
+        "pt": "Compatibilidade MPEG-2",
+        "en": "MPEG-2 compatibility",
+        "es": "Compatibilidad MPEG-2"
+       },
+       {
+        "pt": "MPEG-2 Video is compatible with MPG, MPEG, M2P, M2T, M2TS, PS and TS files.",
+        "en": "MPEG-2 Video is compatible with MPG, MPEG, M2P, M2T, M2TS, PS and TS files.",
+        "es": "Video MPEG-2 es compatible con archivos MPG, MPEG, M2P, M2T, M2TS, PS y TS."
+       }
+      ],
+      [
+       {
+        "pt": "Compatibilidade AVC/H.264",
+        "en": "AVC/H.264 compatibility",
+        "es": "Compatibilidad AVC/H.264"
+       },
+       {
+        "pt": "AVC or H.264 Video is compatible with MP4, M2T and TS files.",
+        "en": "AVC or H.264 Video is compatible with MP4, M2T and TS files.",
+        "es": "Video AVC o H.264 es compatible con archivos MP4, M2T y TS."
+       }
+      ]
+     ],
+     "links": [
+      {
+       "label": {
+        "pt": "Mais informações (Amazon Ads)",
+        "en": "More information (Amazon Ads)",
+        "es": "Más información (Amazon Ads)"
+       },
+       "url": "https://advertising.amazon.com/resources/ad-specs/dsp/video/online-video-ads?ref_=a20m_us_spcs_adsp_spcs_ovaas"
+      }
+     ]
+    },
+    {
+     "id": "amazon-cbc",
+     "name": {
+      "pt": "Amazon DSP — Criativos dinâmicos (Component-Based Creative)",
+      "en": "Amazon DSP — Dynamic creatives (Component-Based Creative)",
+      "es": "Amazon DSP — Creativos dinámicos (Component-Based Creative)"
+     },
+     "intro": {
+      "pt": "Os component based creatives promovem produtos ou brand stores na Amazon. Para rodar esse formato não é obrigatório desdobrar criativos, pois as imagens são extraídas diretamente da página do produto na Amazon.",
+      "en": "Component-based creatives promote products or brand stores on Amazon. Producing creative versions is not required for this format, since images are pulled directly from the Amazon product page.",
+      "es": "Los component based creatives promueven productos o brand stores en Amazon. Para este formato no es obligatorio producir piezas, ya que las imágenes se extraen directamente de la página del producto en Amazon."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Obrigatório — ASINs do cliente",
+        "en": "Required — Client's ASINs",
+        "es": "Obligatorio — ASINs del cliente"
+       },
+       {
+        "pt": "ASINs são os códigos dos produtos na loja da Amazon. Todos os produtos na Amazon têm um ASIN e o cliente precisa nos passar os ASINs dos produtos que deseja promover. Com o ASIN, a Amazon vai desdobrar o criativo usando as fotos dos produtos na loja.",
+        "en": "ASINs are the product codes in the Amazon store. Every Amazon product has an ASIN, and the client must send us the ASINs of the products to be promoted. With the ASIN, Amazon builds the creative using the product photos from the store.",
+        "es": "Los ASINs son los códigos de los productos en la tienda de Amazon. Todos los productos en Amazon tienen un ASIN y el cliente debe enviarnos los ASINs de los productos que desea promover. Con el ASIN, Amazon genera el creativo usando las fotos de los productos en la tienda."
+       }
+      ],
+      [
+       {
+        "pt": "Opcional — criativos complementares",
+        "en": "Optional — complementary creatives",
+        "es": "Opcional — creativos complementarios"
+       },
+       {
+        "pt": "Para fins de otimização de performance, podemos subir criativos de forma opcional para complementar a entrega.",
+        "en": "For performance optimization, we may optionally upload creatives to complement delivery.",
+        "es": "Para optimizar el rendimiento, podemos cargar creativos de forma opcional para complementar la entrega."
+       }
+      ],
+      [
+       {
+        "pt": "Imagens (opcional)",
+        "en": "Images (optional)",
+        "es": "Imágenes (opcional)"
+       },
+       {
+        "pt": "Formato 1:1 (600x600 ou maior)",
+        "en": "1:1 format (600x600 or larger)",
+        "es": "Formato 1:1 (600x600 o mayor)"
+       }
+      ],
+      [
+       {
+        "pt": "Extensões aceitas",
+        "en": "Accepted file types",
+        "es": "Extensiones aceptadas"
+       },
+       {
+        "pt": "JPG ou PNG",
+        "en": "JPG or PNG",
+        "es": "JPG o PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       },
+       {
+        "pt": "5MB ou menos",
+        "en": "5MB or less",
+        "es": "5MB o menos"
+       }
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "audio-programatico",
+   "name": "Mídia Programática Áudio",
+   "cat": "audio",
+   "order": 3,
+   "names": {
+    "pt": "Mídia Programática Áudio",
+    "en": "Programmatic Audio",
+    "es": "Audio Programático"
+   },
+   "tagline": {
+    "pt": "Áudio MP3 e banner companheiro",
+    "en": "MP3 audio and companion banner",
+    "es": "Audio MP3 y banner acompañante"
+   },
+   "keywords": "audio áudio programatico audio ads mp3",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 13",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 13",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 13"
+   },
+   "formats": [
+    {
+     "id": "audio-mp3",
+     "name": {
+      "pt": "Áudio",
+      "en": "Audio",
+      "es": "Audio"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "MP3"
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "Até 30s",
+        "en": "Up to 30s",
+        "es": "Hasta 30s"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       },
+       "1mb"
+      ]
+     ]
+    },
+    {
+     "id": "audio-companion",
+     "name": {
+      "pt": "Banner companheiro",
+      "en": "Companion banner",
+      "es": "Banner acompañante"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "JPEG"
+      ],
+      [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       {
+        "pt": "300x250, 728x90, ou 300x60",
+        "en": "300x250, 728x90, or 300x60",
+        "es": "300x250, 728x90 o 300x60"
+       }
+      ],
+      [
+       {
+        "pt": "Animação",
+        "en": "Animation",
+        "es": "Animación"
+       },
+       {
+        "pt": "até 15 seconds",
+        "en": "up to 15 seconds",
+        "es": "hasta 15 segundos"
+       }
+      ],
+      [
+       "FPS",
+       "18-24"
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "native",
+   "name": "Mídia Programática Native",
+   "cat": "native",
+   "order": 4,
+   "names": {
+    "pt": "Mídia Programática Native",
+    "en": "Programmatic Native",
+    "es": "Native Programático"
+   },
+   "tagline": {
+    "pt": "Logotipo, imagens e textos",
+    "en": "Logo, images and text",
+    "es": "Logotipo, imágenes y textos"
+   },
+   "keywords": "native nativo native ads anuncio nativo",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 14–16",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 14–16",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 14–16"
+   },
+   "formats": [
+    {
+     "id": "native-ad",
+     "name": {
+      "pt": "Anúncio Native (logotipo, imagens e textos)",
+      "en": "Native ad (logo, images and text)",
+      "es": "Anuncio Native (logotipo, imágenes y textos)"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Logotipo (obrigatório) — formato",
+        "en": "Logo (required) — format",
+        "es": "Logotipo (obligatorio) — formato"
+       },
+       {
+        "pt": "JPEG ou PNG",
+        "en": "JPEG or PNG",
+        "es": "JPEG o PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Logotipo — tamanho mínimo",
+        "en": "Logo — minimum size",
+        "es": "Logotipo — tamaño mínimo"
+       },
+       {
+        "pt": "100 x 100 pixels (Proporção: 1:1)",
+        "en": "100 x 100 pixels (Ratio: 1:1)",
+        "es": "100 x 100 píxeles (Proporción: 1:1)"
+       }
+      ],
+      [
+       {
+        "pt": "Logotipo — tamanho máximo",
+        "en": "Logo — maximum size",
+        "es": "Logotipo — tamaño máximo"
+       },
+       {
+        "pt": "1.999 x 1.999 pixels",
+        "en": "1,999 x 1,999 pixels",
+        "es": "1.999 x 1.999 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Logotipo — peso máximo",
+        "en": "Logo — maximum file size",
+        "es": "Logotipo — peso máximo"
+       },
+       "1.200 KB"
+      ],
+      [
+       {
+        "pt": "Logotipo — modelo de cores",
+        "en": "Logo — color model",
+        "es": "Logotipo — modelo de color"
+       },
+       {
+        "pt": "RGB ou CMYK",
+        "en": "RGB or CMYK",
+        "es": "RGB o CMYK"
+       }
+      ],
+      [
+       {
+        "pt": "Logotipo — nome do arquivo",
+        "en": "Logo — file name",
+        "es": "Logotipo — nombre del archivo"
+       },
+       {
+        "pt": "Até 50 caracteres",
+        "en": "Up to 50 characters",
+        "es": "Hasta 50 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem (obrigatório)",
+        "en": "Image (required)",
+        "es": "Imagen (obligatoria)"
+       },
+       {
+        "pt": "Imagem retangular grande para promover o produto ou serviço. Formatos: JPG, PNG",
+        "en": "Large rectangular image to promote the product or service. Formats: JPG, PNG",
+        "es": "Imagen rectangular grande para promover el producto o servicio. Formatos: JPG, PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem — tamanho mínimo",
+        "en": "Image — minimum size",
+        "es": "Imagen — tamaño mínimo"
+       },
+       {
+        "pt": "1.200 x 627 pixels (Proporção: 1.91:1)",
+        "en": "1,200 x 627 pixels (Ratio: 1.91:1)",
+        "es": "1.200 x 627 píxeles (Proporción: 1.91:1)"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem — tamanho máximo",
+        "en": "Image — maximum size",
+        "es": "Imagen — tamaño máximo"
+       },
+       {
+        "pt": "1.999 x 1.999 pixels",
+        "en": "1,999 x 1,999 pixels",
+        "es": "1.999 x 1.999 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem — peso máximo",
+        "en": "Image — maximum file size",
+        "es": "Imagen — peso máximo"
+       },
+       "1.200 KB"
+      ],
+      [
+       {
+        "pt": "Imagem — modelo de cores / nome do arquivo",
+        "en": "Image — color model / file name",
+        "es": "Imagen — modelo de color / nombre del archivo"
+       },
+       {
+        "pt": "RGB ou CMYK / até 50 caracteres",
+        "en": "RGB or CMYK / up to 50 characters",
+        "es": "RGB o CMYK / hasta 50 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem quadrada",
+        "en": "Square image",
+        "es": "Imagen cuadrada"
+       },
+       {
+        "pt": "Opcional, mas obrigatória para transações programáticas garantidas. Imagem quadrada, com proporção de 1:1, para promover o produto ou serviço. Se você fizer upload dessa imagem, um segundo criativo será gerado. Formatos: JPG, PNG",
+        "en": "Optional, but required for programmatic guaranteed deals. Square 1:1 image to promote the product or service. Uploading this image generates a second creative. Formats: JPG, PNG",
+        "es": "Opcional, pero obligatoria para transacciones programáticas garantizadas. Imagen cuadrada, proporción 1:1, para promover el producto o servicio. Si carga esta imagen, se generará un segundo creativo. Formatos: JPG, PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem quadrada — tamanho mínimo",
+        "en": "Square image — minimum size",
+        "es": "Imagen cuadrada — tamaño mínimo"
+       },
+       {
+        "pt": "627 x 627 pixels (Proporção: 1.91:1)",
+        "en": "627 x 627 pixels (Ratio: 1.91:1)",
+        "es": "627 x 627 píxeles (Proporción: 1.91:1)"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem quadrada — tamanho máximo / peso",
+        "en": "Square image — maximum size / file size",
+        "es": "Imagen cuadrada — tamaño máximo / peso"
+       },
+       {
+        "pt": "1.999 x 1.999 pixels / 1.200 KB",
+        "en": "1,999 x 1,999 pixels / 1,200 KB",
+        "es": "1.999 x 1.999 píxeles / 1.200 KB"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem quadrada — modelo de cores / nome do arquivo",
+        "en": "Square image — color model / file name",
+        "es": "Imagen cuadrada — modelo de color / nombre del archivo"
+       },
+       {
+        "pt": "RGB ou CMYK / até 50 caracteres",
+        "en": "RGB or CMYK / up to 50 characters",
+        "es": "RGB o CMYK / hasta 50 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Nome do anunciante",
+        "en": "Advertiser name",
+        "es": "Nombre del anunciante"
+       },
+       {
+        "pt": "Até 25 caracteres. É o nome exibido no criativo. O nome do anunciante do Display & Video 360 é preenchido por padrão.",
+        "en": "Up to 25 characters. Name shown in the creative. The Display & Video 360 advertiser name is filled in by default.",
+        "es": "Hasta 25 caracteres. Es el nombre mostrado en el creativo. El nombre del anunciante de Display & Video 360 se completa por defecto."
+       }
+      ],
+      [
+       {
+        "pt": "Título 1",
+        "en": "Headline 1",
+        "es": "Título 1"
+       },
+       {
+        "pt": "Até 25 caracteres (opcional se título longo for usado, mas obrigatório para criativos do Gmail)",
+        "en": "Up to 25 characters (optional if long headline is used, but required for Gmail creatives)",
+        "es": "Hasta 25 caracteres (opcional si se usa título largo, pero obligatorio para creativos de Gmail)"
+       }
+      ],
+      [
+       {
+        "pt": "Título longo",
+        "en": "Long headline",
+        "es": "Título largo"
+       },
+       {
+        "pt": "Até 50 caracteres (opcional se Título 1 for usado, aparece somente em alguns layouts nativos)",
+        "en": "Up to 50 characters (optional if Headline 1 is used; appears only in some native layouts)",
+        "es": "Hasta 50 caracteres (opcional si se usa Título 1; aparece solo en algunos layouts nativos)"
+       }
+      ],
+      [
+       {
+        "pt": "Descrição 1",
+        "en": "Description 1",
+        "es": "Descripción 1"
+       },
+       {
+        "pt": "Até 90 caracteres (opcional se o Título Longo for usado, mas obrigatório para criativos do Gmail)",
+        "en": "Up to 90 characters (optional if long headline is used, but required for Gmail creatives)",
+        "es": "Hasta 90 caracteres (opcional si se usa Título largo, pero obligatorio para creativos de Gmail)"
+       }
+      ],
+      [
+       {
+        "pt": "Descrição longa",
+        "en": "Long description",
+        "es": "Descripción larga"
+       },
+       {
+        "pt": "Até 150 caracteres (opcional se Descrição 1 for usada, aparece em alguns layouts nativos)",
+        "en": "Up to 150 characters (optional if Description 1 is used; appears in some native layouts)",
+        "es": "Hasta 150 caracteres (opcional si se usa Descripción 1; aparece en algunos layouts nativos)"
+       }
+      ],
+      [
+       {
+        "pt": "URL da página de destino*",
+        "en": "Landing page URL*",
+        "es": "URL de la página de destino*"
+       },
+       {
+        "pt": "Até 1.024 caracteres",
+        "en": "Up to 1,024 characters",
+        "es": "Hasta 1.024 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "URL de visualização",
+        "en": "Display URL",
+        "es": "URL visible"
+       },
+       {
+        "pt": "Até 30 caracteres",
+        "en": "Up to 30 characters",
+        "es": "Hasta 30 caracteres"
+       }
+      ],
+      [
+       "Call-to-Action",
+       {
+        "pt": "Até 15 caracteres",
+        "en": "Up to 15 characters",
+        "es": "Hasta 15 caracteres"
+       }
+      ]
+     ],
+     "notes": [
+      {
+       "pt": "*Se o anunciante estiver vinculado ao Campaign Manager 360, o URL da página de destino será determinado pelo anúncio de rastreamento do Campaign Manager 360. Não é preciso inserir um URL separado da página de destino.",
+       "en": "*If the advertiser is linked to Campaign Manager 360, the landing page URL is set by the Campaign Manager 360 tracking ad. No separate landing page URL is needed.",
+       "es": "*Si el anunciante está vinculado a Campaign Manager 360, la URL de destino la determina el anuncio de seguimiento de Campaign Manager 360. No es necesario ingresar una URL de destino separada."
+      }
+     ]
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Especificações gerais de imagem",
+      "en": "General image guidelines",
+      "es": "Especificaciones generales de imagen"
+     },
+     "items": [
+      {
+       "pt": "Optar por imagens vivas e atraentes. Evitar imagens pretas e brancas, pois tendem a se misturar com outros elementos da página.",
+       "en": "Choose vivid, appealing images. Avoid black-and-white images, as they tend to blend with other page elements.",
+       "es": "Optar por imágenes vivas y atractivas. Evitar imágenes en blanco y negro, ya que tienden a mezclarse con otros elementos de la página."
+      },
+      {
+       "pt": "A resolução das imagens é muito importante. Imagens de baixa qualidade aparecem borradas e podem prejudicar o impacto do anúncio.",
+       "en": "Image resolution is very important. Low-quality images look blurry and can reduce the ad’s impact.",
+       "es": "La resolución de las imágenes es muy importante. Imágenes de baja calidad se ven borrosas y pueden perjudicar el impacto del anuncio."
+      },
+      {
+       "pt": "As imagens devem priorizar a simplicidade.",
+       "en": "Images should favor simplicity.",
+       "es": "Las imágenes deben priorizar la simplicidad."
+      },
+      {
+       "pt": "Caso a imagem possua texto, ele deve cobrir no máximo 20% da área da imagem (o recomendado é que haja a menor quantidade de texto possível).",
+       "en": "If the image contains text, it must cover at most 20% of the image area (as little text as possible is recommended).",
+       "es": "Si la imagen tiene texto, debe cubrir como máximo el 20% del área de la imagen (se recomienda la menor cantidad de texto posible)."
+      }
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "spotify",
+   "name": "Spotify e Plataformas de Áudio",
+   "cat": "audio",
+   "order": 5,
+   "names": {
+    "pt": "Spotify e Plataformas de Áudio",
+    "en": "Spotify & Audio Platforms",
+    "es": "Spotify y Plataformas de Audio"
+   },
+   "tagline": {
+    "pt": "Áudio, banner companheiro e vídeo",
+    "en": "Audio, companion banner and video",
+    "es": "Audio, banner acompañante y video"
+   },
+   "keywords": "spotify deezer plataformas de audio streaming de audio spotify ads",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 17",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 17",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 17"
+   },
+   "formats": [
+    {
+     "id": "spotify-audio",
+     "name": {
+      "pt": "Áudio",
+      "en": "Audio",
+      "es": "Audio"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       {
+        "pt": "MP3, WAV ou OGG",
+        "en": "MP3, WAV or OGG",
+        "es": "MP3, WAV u OGG"
+       }
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "Até 30 segundos",
+        "en": "Up to 30 seconds",
+        "es": "Hasta 30 segundos"
+       }
+      ],
+      [
+       {
+        "pt": "Peso",
+        "en": "File size",
+        "es": "Peso"
+       },
+       {
+        "pt": "Menor que 50 MB",
+        "en": "Less than 50 MB",
+        "es": "Menor a 50 MB"
+       }
+      ]
+     ]
+    },
+    {
+     "id": "spotify-companion",
+     "name": {
+      "pt": "Banner companheiro",
+      "en": "Companion banner",
+      "es": "Banner acompañante"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       {
+        "pt": "JPEG ou PNG",
+        "en": "JPEG or PNG",
+        "es": "JPEG o PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       "Desktop: 800×435 · Mobile: 630×920"
+      ],
+      [
+       {
+        "pt": "Peso",
+        "en": "File size",
+        "es": "Peso"
+       },
+       "100kb"
+      ]
+     ]
+    },
+    {
+     "id": "spotify-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       {
+        "pt": "MOV ou MP4",
+        "en": "MOV or MP4",
+        "es": "MOV o MP4"
+       }
+      ],
+      [
+       {
+        "pt": "Proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       "Desktop: 16:9 · Mobile: 9:16"
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "Até 30 segundos",
+        "en": "Up to 30 seconds",
+        "es": "Hasta 30 segundos"
+       }
+      ],
+      [
+       {
+        "pt": "Peso",
+        "en": "File size",
+        "es": "Peso"
+       },
+       {
+        "pt": "Menor que 100 MB",
+        "en": "Less than 100 MB",
+        "es": "Menor a 100 MB"
+       }
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "netflix",
+   "name": "Netflix",
+   "cat": "streaming",
+   "order": 6,
+   "names": {
+    "pt": "Netflix",
+    "en": "Netflix",
+    "es": "Netflix"
+   },
+   "tagline": {
+    "pt": "Vídeo para streaming premium",
+    "en": "Premium streaming video",
+    "es": "Video para streaming premium"
+   },
+   "keywords": "netflix netflix ads streaming ctv",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 18–21",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 18–21",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 18–21"
+   },
+   "formats": [
+    {
+     "id": "netflix-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Faixa",
+        "en": "Tracks",
+        "es": "Pistas"
+       },
+       {
+        "pt": "O arquivo deve conter apenas 1 vídeo e 1 faixa de áudio.",
+        "en": "The file must contain only 1 video and 1 audio track.",
+        "es": "El archivo debe contener solo 1 video y 1 pista de audio."
+       }
+      ],
+      [
+       {
+        "pt": "Duração da trilha",
+        "en": "Track duration",
+        "es": "Duración de la pista"
+       },
+       {
+        "pt": "As durações das trilhas de vídeo e áudio devem corresponder à tolerância de 500 ms.",
+        "en": "Video and audio track durations must match within a 500 ms tolerance.",
+        "es": "Las duraciones de las pistas de video y audio deben coincidir con tolerancia de 500 ms."
+       }
+      ],
+      [
+       {
+        "pt": "Formato",
+        "en": "Format",
+        "es": "Formato"
+       },
+       {
+        "pt": "MP4, MOV. Tipos: Vídeo/mp4 para MP4, vídeo/tempo rápido para MOV.",
+        "en": "MP4, MOV. Types: video/mp4 for MP4, video/quicktime for MOV.",
+        "es": "MP4, MOV. Tipos: video/mp4 para MP4, video/quicktime para MOV."
+       }
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "10, 15, 20, 30 ou 60 segundos. RECOMENDAÇÃO ATÉ 30S",
+        "en": "10, 15, 20, 30 or 60 seconds. RECOMMENDED UP TO 30S",
+        "es": "10, 15, 20, 30 o 60 segundos. RECOMENDACIÓN HASTA 30S"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de bits (H.264)",
+        "en": "Bitrate (H.264)",
+        "es": "Tasa de bits (H.264)"
+       },
+       {
+        "pt": "Maior que 8Mbps para 720p e 12Mbps para 1080p",
+        "en": "Greater than 8Mbps for 720p and 12Mbps for 1080p",
+        "es": "Mayor a 8Mbps para 720p y 12Mbps para 1080p"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de bits (MOV)",
+        "en": "Bitrate (MOV)",
+        "es": "Tasa de bits (MOV)"
+       },
+       {
+        "pt": "Maior que 42 Mbps para 720p e 80 Mbps para 1080p",
+        "en": "Greater than 42 Mbps for 720p and 80 Mbps for 1080p",
+        "es": "Mayor a 42 Mbps para 720p y 80 Mbps para 1080p"
+       }
+      ]
+     ]
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "items": [
+      {
+       "pt": "Vídeo Codec: Preferencial: Apple ProRes · Aceito: H.264",
+       "en": "Video codec: Preferred: Apple ProRes · Accepted: H.264",
+       "es": "Códec de video: Preferido: Apple ProRes · Aceptado: H.264"
+      },
+      {
+       "pt": "Somente GoP fechado: aplicável a H.264 em MP4.",
+       "en": "Closed GoP only: applies to H.264 in MP4.",
+       "es": "Solo GoP cerrado: aplicable a H.264 en MP4."
+      },
+      {
+       "pt": "Subamostragem de croma: ProRes: 4:2:2 · H.264: 4:2:0",
+       "en": "Chroma subsampling: ProRes: 4:2:2 · H.264: 4:2:0",
+       "es": "Submuestreo de croma: ProRes: 4:2:2 · H.264: 4:2:0"
+      },
+      {
+       "pt": "Cores primárias: BT.709 · Função de transferência: BT.709",
+       "en": "Color primaries: BT.709 · Transfer function: BT.709",
+       "es": "Colores primarios: BT.709 · Función de transferencia: BT.709"
+      },
+      {
+       "pt": "Profundidade de bits: H.264 em MP4: 8 · ProRes em MOV: 8, 10, 12, 16",
+       "en": "Bit depth: H.264 in MP4: 8 · ProRes in MOV: 8, 10, 12, 16",
+       "es": "Profundidad de bits: H.264 en MP4: 8 · ProRes en MOV: 8, 10, 12, 16"
+      },
+      {
+       "pt": "Taxa de frame: 23.976, 24, 25, 29.97, 30 · Modo de taxa de frame: constante.",
+       "en": "Frame rate: 23.976, 24, 25, 29.97, 30 · Frame rate mode: constant.",
+       "es": "Frame rate: 23.976, 24, 25, 29.97, 30 · Modo de frame rate: constante."
+      },
+      {
+       "pt": "Perfil (para MOV): Apple ProRes 422 (HQ), Apple ProRes 422, Apple ProRes 422 (LT). Perfil (para H.264): linha de base, principal, alta.",
+       "en": "Profile (MOV): Apple ProRes 422 (HQ), Apple ProRes 422, Apple ProRes 422 (LT). Profile (H.264): baseline, main, high.",
+       "es": "Perfil (MOV): Apple ProRes 422 (HQ), Apple ProRes 422, Apple ProRes 422 (LT). Perfil (H.264): baseline, main, high."
+      },
+      {
+       "pt": "Proporção: 16:9 · Resolução: 1920 x 1080 HD, 1280 x 720 HD · Tipo de digitalização: progressivo.",
+       "en": "Aspect ratio: 16:9 · Resolution: 1920 x 1080 HD, 1280 x 720 HD · Scan type: progressive.",
+       "es": "Proporción: 16:9 · Resolución: 1920 x 1080 HD, 1280 x 720 HD · Tipo de escaneo: progresivo."
+      },
+      {
+       "pt": "Qualidade da imagem: o criativo do anúncio deve ter taxa de bits (bitrate) suficiente para que os elementos de codificação não fiquem visíveis. O anúncio pode ser veiculado em telas grandes, junto com conteúdo premium, por isso é importante ter qualidade comparável entre os dois.",
+       "en": "Image quality: the ad creative must have enough bitrate so that encoding artifacts are not visible. The ad may run on large screens next to premium content, so comparable quality is important.",
+       "es": "Calidad de imagen: el creativo debe tener bitrate suficiente para que los artefactos de codificación no sean visibles. El anuncio puede mostrarse en pantallas grandes junto a contenido premium, por eso es importante una calidad comparable."
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "Lettering e zona segura",
+      "en": "Letterboxing and safe zone",
+      "es": "Lettering y zona segura"
+     },
+     "items": [
+      {
+       "pt": "Lettering: o anúncio com lettering é permitido, mas não recomendado, pois pode ser exibido de forma diferente em alguns dispositivos. As áreas de lettering não devem ser usadas para gráficos adicionais, cópias, legendas etc., e devem ser apenas pretas. Exceções podem ser feitas para isenções legais, termos e condições. O lettering pode ser usado para intenções criativas e pode mudar de dimensões durante o criativo. O lettering nunca deve exceder 37% da área visível.",
+       "en": "Letterboxing: ads with letterboxing are allowed but not recommended, as they may display differently on some devices. Letterbox areas must not be used for additional graphics, copy, captions, etc., and must be black only. Exceptions may apply to legal disclaimers and terms & conditions. Letterboxing may be used for creative intent and may change size during the creative. It must never exceed 37% of the visible area.",
+       "es": "Lettering: se permite el anuncio con lettering, pero no se recomienda, ya que puede mostrarse de forma diferente en algunos dispositivos. Las áreas de lettering no deben usarse para gráficos adicionales, textos, subtítulos, etc., y deben ser solo negras. Se admiten excepciones para avisos legales, términos y condiciones. El lettering puede usarse con intención creativa y cambiar de dimensiones durante el creativo. Nunca debe superar el 37% del área visible."
+      },
+      {
+       "pt": "Zona segura: recomenda-se colocar texto e logotipos dentro de um retângulo interno com 38 pixels (3,5%) de cada lado e 67 pixels (3,5%) na parte superior e inferior das bordas de uma resolução de 1920x1080.",
+       "en": "Safe zone: place text and logos inside an inner rectangle 38 pixels (3.5%) from each side and 67 pixels (3.5%) from the top and bottom edges of a 1920x1080 resolution.",
+       "es": "Zona segura: se recomienda colocar textos y logotipos dentro de un rectángulo interno a 38 píxeles (3,5%) de cada lado y 67 píxeles (3,5%) de los bordes superior e inferior en una resolución de 1920x1080."
+      },
+      {
+       "pt": "Muitos dispositivos de TV possuem uma configuração chamada “Overscan”, que pode fazer com que a tela aumente ligeiramente o zoom, cortando parte do conteúdo. Como esta é uma configuração do dispositivo, o aplicativo Netflix não tem conhecimento ou controle da configuração. Portanto, é sugerido manter qualquer UI importante dentro da zona segura.",
+       "en": "Many TV devices have an “Overscan” setting that may slightly zoom the screen and crop part of the content. As this is a device setting, the Netflix app has no knowledge or control over it. Keep any important UI inside the safe zone.",
+       "es": "Muchos televisores tienen una configuración llamada “Overscan”, que puede ampliar ligeramente la imagen y cortar parte del contenido. Como es una configuración del dispositivo, la app de Netflix no la conoce ni controla. Se sugiere mantener cualquier elemento importante dentro de la zona segura."
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "Áudio e restrições",
+      "en": "Audio and restrictions",
+      "es": "Audio y restricciones"
+     },
+     "items": [
+      {
+       "pt": "Audio Codec: preferencial: PCM · aceito: AAC-LC",
+       "en": "Audio codec: preferred: PCM · accepted: AAC-LC",
+       "es": "Códec de audio: preferido: PCM · aceptado: AAC-LC"
+      },
+      {
+       "pt": "Canais: estéreo de 2 canais.",
+       "en": "Channels: 2-channel stereo.",
+       "es": "Canales: estéreo de 2 canales."
+      },
+      {
+       "pt": "Taxa de bits do áudio: mínimo de 192 kbps (aplicável para AAC-LC).",
+       "en": "Audio bitrate: minimum 192 kbps (applies to AAC-LC).",
+       "es": "Tasa de bits de audio: mínimo 192 kbps (aplica a AAC-LC)."
+      },
+      {
+       "pt": "Profundidade de bits do áudio: 16 ou 24 bits (aplicável para PCM).",
+       "en": "Audio bit depth: 16 or 24 bits (applies to PCM).",
+       "es": "Profundidad de bits de audio: 16 o 24 bits (aplica a PCM)."
+      },
+      {
+       "pt": "Taxa de amostragem de áudio: 48kHz.",
+       "en": "Audio sample rate: 48kHz.",
+       "es": "Frecuencia de muestreo de audio: 48kHz."
+      },
+      {
+       "pt": "Conformidade CALM: volume médio do programa de -24LKFS ±2. Limite de picos de amostra: Informação técnica pendente de validação.",
+       "en": "CALM compliance: average program loudness of -24LKFS ±2. Sample peak limit: Technical information pending validation.",
+       "es": "Conformidad CALM: volumen promedio del programa de -24LKFS ±2. Límite de picos de muestra: Información técnica pendiente de validación."
+      },
+      {
+       "pt": "A Netflix reserva-se o direito de aplicar ajustes de áudio (como esmaecimento) e vídeo para fornecer uma experiência consistente aos assinantes. A Netflix também se reserva o direito de incluir recursos do produto, como aqueles que indicam que o conteúdo é um anúncio ou o número de anúncios em um intervalo comercial. Isso não altera a intenção do criativo do anúncio.",
+       "en": "Netflix reserves the right to apply audio (such as fades) and video adjustments to provide a consistent subscriber experience. Netflix also reserves the right to include product features, such as those indicating that content is an ad or the number of ads in a break. This does not change the intent of the ad creative.",
+       "es": "Netflix se reserva el derecho de aplicar ajustes de audio (como fundidos) y de video para ofrecer una experiencia consistente a los suscriptores. También se reserva el derecho de incluir recursos del producto, como los que indican que el contenido es un anuncio o el número de anuncios en una pausa. Esto no altera la intención del creativo."
+      },
+      {
+       "pt": "O criativo do anúncio não pode conter pixels ou cookies nem coletar ou tentar coletar dados da Netflix ou de seus membros.",
+       "en": "The ad creative may not contain pixels or cookies, nor collect or attempt to collect data from Netflix or its members.",
+       "es": "El creativo no puede contener píxeles ni cookies, ni recopilar o intentar recopilar datos de Netflix o de sus miembros."
+      }
+     ]
+    }
+   ],
+   "pending": [
+    {
+     "pt": "Conformidade CALM: o valor-limite dos picos de amostra está incompleto na fonte.",
+     "en": "CALM compliance: the sample peak limit value is incomplete in the source.",
+     "es": "Conformidad CALM: el valor límite de picos de muestra está incompleto en la fuente."
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "globoplay",
+   "name": "Globoplay",
+   "cat": "streaming",
+   "order": 7,
+   "names": {
+    "pt": "Globoplay",
+    "en": "Globoplay",
+    "es": "Globoplay"
+   },
+   "tagline": {
+    "pt": "Vídeo para streaming",
+    "en": "Streaming video",
+    "es": "Video para streaming"
+   },
+   "keywords": "globoplay globo play streaming",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 22",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 22",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 22"
+   },
+   "formats": [
+    {
+     "id": "globoplay-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "MP4"
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "Até 30s",
+        "en": "Up to 30s",
+        "es": "Hasta 30s"
+       }
+      ],
+      [
+       {
+        "pt": "Resolução",
+        "en": "Resolution",
+        "es": "Resolución"
+       },
+       {
+        "pt": "A resolução recomendada é 1920x1080 pixels (Full HD) ou 1200x675 pixels, com a proporção de tela 16:9 (paisagem).",
+        "en": "Recommended resolution is 1920x1080 pixels (Full HD) or 1200x675 pixels, 16:9 aspect ratio (landscape).",
+        "es": "La resolución recomendada es 1920x1080 píxeles (Full HD) o 1200x675 píxeles, con proporción 16:9 (horizontal)."
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho do arquivo",
+        "en": "File size",
+        "es": "Tamaño del archivo"
+       },
+       {
+        "pt": "Até 1 GB",
+        "en": "Up to 1 GB",
+        "es": "Hasta 1 GB"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de bits",
+        "en": "Bitrate",
+        "es": "Tasa de bits"
+       },
+       {
+        "pt": "Para H.264, superior a 8 Mbps para 720p e 12 Mbps para 1080p. Para MOV, superior a 42 Mbps para 720p e 80 Mbps para 1080p.",
+        "en": "For H.264, above 8 Mbps for 720p and 12 Mbps for 1080p. For MOV, above 42 Mbps for 720p and 80 Mbps for 1080p.",
+        "es": "Para H.264, superior a 8 Mbps para 720p y 12 Mbps para 1080p. Para MOV, superior a 42 Mbps para 720p y 80 Mbps para 1080p."
+       }
+      ],
+      [
+       {
+        "pt": "Recomendações",
+        "en": "Recommendations",
+        "es": "Recomendaciones"
+       },
+       {
+        "pt": "Utilize criativos que incluam pelo menos um ativo MP4 com taxa de bits de 15 Mbps ou superior.",
+        "en": "Use creatives that include at least one MP4 asset with a bitrate of 15 Mbps or higher.",
+        "es": "Utilice creativos que incluyan al menos un archivo MP4 con tasa de bits de 15 Mbps o superior."
+       }
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "prime-video",
+   "name": "Prime Video",
+   "cat": "streaming",
+   "order": 8,
+   "names": {
+    "pt": "Prime Video",
+    "en": "Prime Video",
+    "es": "Prime Video"
+   },
+   "tagline": {
+    "pt": "Vídeo Amazon Prime Video",
+    "en": "Amazon Prime Video ads",
+    "es": "Video Amazon Prime Video"
+   },
+   "keywords": "prime video amazon prime prime vídeo streaming",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 23",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 23",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 23"
+   },
+   "formats": [
+    {
+     "id": "prime-video-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Inserção de anúncios",
+        "en": "Ad insertion",
+        "es": "Inserción de anuncios"
+       },
+       {
+        "pt": "Interna (inserido no site) ou de terceiros",
+        "en": "Internal (served on site) or third-party",
+        "es": "Interna (insertado en el sitio) o de terceros"
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho máximo do arquivo",
+        "en": "Maximum file size",
+        "es": "Tamaño máximo del archivo"
+       },
+       "500 MB"
+      ],
+      [
+       {
+        "pt": "Proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       "16:9"
+      ],
+      [
+       {
+        "pt": "Tamanho mínimo do quadro",
+        "en": "Minimum frame size",
+        "es": "Tamaño mínimo del cuadro"
+       },
+       "1920 x 1080"
+      ],
+      [
+       {
+        "pt": "Taxa mínima de bits de vídeo",
+        "en": "Minimum video bitrate",
+        "es": "Tasa mínima de bits de video"
+       },
+       {
+        "pt": "Prime Video: 15 Mbps · Twitch, Fire TV Channels, aplicativos de terceiros, trocas de terceiros: 8 Mbps",
+        "en": "Prime Video: 15 Mbps · Twitch, Fire TV Channels, third-party apps, third-party exchanges: 8 Mbps",
+        "es": "Prime Video: 15 Mbps · Twitch, Fire TV Channels, aplicaciones de terceros, exchanges de terceros: 8 Mbps"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa recomendada de bits de vídeo",
+        "en": "Recommended video bitrate",
+        "es": "Tasa recomendada de bits de video"
+       },
+       {
+        "pt": "50 Mbps (campanhas no Prime Video)",
+        "en": "50 Mbps (Prime Video campaigns)",
+        "es": "50 Mbps (campañas en Prime Video)"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de quadros do vídeo (fps)",
+        "en": "Video frame rate (fps)",
+        "es": "Frame rate del video (fps)"
+       },
+       {
+        "pt": "23,976 (recomendado), 24, 25 ou 29,97",
+        "en": "23.976 (recommended), 24, 25 or 29.97",
+        "es": "23,976 (recomendado), 24, 25 o 29,97"
+       }
+      ],
+      [
+       {
+        "pt": "Modo de taxa de quadros",
+        "en": "Frame rate mode",
+        "es": "Modo de frame rate"
+       },
+       {
+        "pt": "Constante",
+        "en": "Constant",
+        "es": "Constante"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa mínima de bits de áudio",
+        "en": "Minimum audio bitrate",
+        "es": "Tasa mínima de bits de audio"
+       },
+       "192 kbps"
+      ],
+      [
+       {
+        "pt": "Taxa de amostragem de áudio",
+        "en": "Audio sample rate",
+        "es": "Frecuencia de muestreo de audio"
+       },
+       {
+        "pt": "44,1 kHz ou 48 kHz",
+        "en": "44.1 kHz or 48 kHz",
+        "es": "44,1 kHz o 48 kHz"
+       }
+      ],
+      [
+       {
+        "pt": "Formatos compatíveis",
+        "en": "Supported formats",
+        "es": "Formatos compatibles"
+       },
+       {
+        "pt": "Vídeo: H.264, MPEG-2 ou MPEG-4; Áudio: AAC · MPEG-2: compatível com MPG, MPEG, M2P, M2T, M2TS, PS e TS",
+        "en": "Video: H.264, MPEG-2 or MPEG-4; Audio: AAC · MPEG-2: compatible with MPG, MPEG, M2P, M2T, M2TS, PS and TS",
+        "es": "Video: H.264, MPEG-2 o MPEG-4; Audio: AAC · MPEG-2: compatible con MPG, MPEG, M2P, M2T, M2TS, PS y TS"
+       }
+      ],
+      [
+       {
+        "pt": "Canais de áudio",
+        "en": "Audio channels",
+        "es": "Canales de audio"
+       },
+       {
+        "pt": "Mínimo de dois canais",
+        "en": "Minimum of two channels",
+        "es": "Mínimo de dos canales"
+       }
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "disney-plus",
+   "name": "Disney+",
+   "cat": "streaming",
+   "order": 9,
+   "names": {
+    "pt": "Disney+",
+    "en": "Disney+",
+    "es": "Disney+"
+   },
+   "tagline": {
+    "pt": "Vídeo e áudio para Disney+",
+    "en": "Disney+ video and audio",
+    "es": "Video y audio para Disney+"
+   },
+   "keywords": "disney disney plus disney+ streaming",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 24–26",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 24–26",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 24–26"
+   },
+   "formats": [
+    {
+     "id": "disney-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       {
+        "pt": ".mov e .mp4",
+        "en": ".mov and .mp4",
+        "es": ".mov y .mp4"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       },
+       {
+        "pt": "Hospedado pela Disney: 250MB · VAST: 1.9 mB",
+        "en": "Hosted by Disney: 250MB · VAST: 1.9 mB",
+        "es": "Alojado por Disney: 250MB · VAST: 1.9 mB"
+       }
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 ou 90 segundos",
+        "en": "5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 or 90 seconds",
+        "es": "5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 o 90 segundos"
+       }
+      ],
+      [
+       {
+        "pt": "Resolução",
+        "en": "Resolution",
+        "es": "Resolución"
+       },
+       {
+        "pt": "Proporção de aspecto: 16:9 · Preferencial: 1920x1080 · É aceito: 1280x720",
+        "en": "Aspect ratio: 16:9 · Preferred: 1920x1080 · Accepted: 1280x720",
+        "es": "Proporción: 16:9 · Preferida: 1920x1080 · Aceptada: 1280x720"
+       }
+      ],
+      [
+       "Bit Rate",
+       "10 Mbps – 40 Mbps"
+      ],
+      [
+       {
+        "pt": "Codecs suportados",
+        "en": "Supported codecs",
+        "es": "Códecs soportados"
+       },
+       {
+        "pt": "Apple ProRes ou H.264",
+        "en": "Apple ProRes or H.264",
+        "es": "Apple ProRes o H.264"
+       }
+      ],
+      [
+       {
+        "pt": "Perfil H.264",
+        "en": "H.264 profile",
+        "es": "Perfil H.264"
+       },
+       {
+        "pt": "Alto",
+        "en": "High",
+        "es": "Alto"
+       }
+      ],
+      [
+       "Frame Rate",
+       {
+        "pt": "23.98, 24, 25, 29.97 ou 30FPS (native frame rate) · Frames duplicados não são permitidos",
+        "en": "23.98, 24, 25, 29.97 or 30FPS (native frame rate) · Duplicate frames are not allowed",
+        "es": "23.98, 24, 25, 29.97 o 30FPS (native frame rate) · No se permiten frames duplicados"
+       }
+      ],
+      [
+       "Frame Rate Mode",
+       "Constant Frame Rate (CFR)"
+      ],
+      [
+       {
+        "pt": "Tipo de digitalização",
+        "en": "Scan type",
+        "es": "Tipo de escaneo"
+       },
+       {
+        "pt": "Progressivo",
+        "en": "Progressive",
+        "es": "Progresivo"
+       }
+      ],
+      [
+       {
+        "pt": "Espaço de cores",
+        "en": "Color space",
+        "es": "Espacio de color"
+       },
+       "YUV"
+      ]
+     ]
+    },
+    {
+     "id": "disney-audio",
+     "name": {
+      "pt": "Áudio",
+      "en": "Audio",
+      "es": "Audio"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Codecs suportados",
+        "en": "Supported codecs",
+        "es": "Códecs soportados"
+       },
+       "PCM, AAC"
+      ],
+      [
+       "Bit Rate",
+       {
+        "pt": "Mínimo de 192kbps",
+        "en": "Minimum 192kbps",
+        "es": "Mínimo de 192kbps"
+       }
+      ],
+      [
+       "Sample Rate",
+       "48kHz"
+      ],
+      [
+       {
+        "pt": "Canais",
+        "en": "Channels",
+        "es": "Canales"
+       },
+       {
+        "pt": "Mixagem estéreo de 2 canais",
+        "en": "2-channel stereo mix",
+        "es": "Mezcla estéreo de 2 canales"
+       }
+      ],
+      [
+       {
+        "pt": "Requerimentos adicionais",
+        "en": "Additional requirements",
+        "es": "Requisitos adicionales"
+       },
+       {
+        "pt": "Deve ter exatamente 1 faixa de áudio · Deve corresponder à duração do vídeo",
+        "en": "Must have exactly 1 audio track · Must match the video duration",
+        "es": "Debe tener exactamente 1 pista de audio · Debe coincidir con la duración del video"
+       }
+      ]
+     ]
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Especificações gerais",
+      "en": "General specifications",
+      "es": "Especificaciones generales"
+     },
+     "items": [
+      {
+       "pt": "Áudio obrigatório.",
+       "en": "Audio is required.",
+       "es": "Audio obligatorio."
+      },
+      {
+       "pt": "Deve ter exatamente 1 video track; deve corresponder à duração do áudio.",
+       "en": "Must have exactly 1 video track; it must match the audio duration.",
+       "es": "Debe tener exactamente 1 pista de video; debe coincidir con la duración del audio."
+      },
+      {
+       "pt": "Remova qualquer pull-down adicionado para transmissão.",
+       "en": "Remove any pull-down added for broadcast.",
+       "es": "Elimine cualquier pull-down agregado para transmisión."
+      },
+      {
+       "pt": "Torne o conteúdo progressivo usando desentrelaçamento adaptativo sem frame misturando.",
+       "en": "Make content progressive using adaptive deinterlacing without frame blending.",
+       "es": "Haga el contenido progresivo usando desentrelazado adaptativo sin mezcla de frames."
+      },
+      {
+       "pt": "O espaço de cores do vídeo não pode ser “unknown” ou nenhum.",
+       "en": "The video color space cannot be “unknown” or none.",
+       "es": "El espacio de color del video no puede ser “unknown” ni ninguno."
+      },
+      {
+       "pt": "O vídeo deve ser enviado sem bordas escuras, barras, lousas, contagens regressivas etc.",
+       "en": "Video must be delivered without dark borders, bars, slates, countdowns, etc.",
+       "es": "El video debe enviarse sin bordes oscuros, barras, pizarras, cuentas regresivas, etc."
+      },
+      {
+       "pt": "Letterboxing e pilarboxing são permitidos caso a caso.",
+       "en": "Letterboxing and pillarboxing are allowed case by case.",
+       "es": "Letterboxing y pillarboxing se permiten caso por caso."
+      },
+      {
+       "pt": "Os anúncios são sobrepostos no player com um logotipo “Anúncio” e um cronômetro de contagem regressiva. Para garantir que textos e gráficos importantes não fiquem ocultos em dispositivos CTV, evite adicionar elementos na área de 220 x 135 pixels do canto superior direito do seu vídeo 1920 x 1080.",
+       "en": "Ads are overlaid in the player with an “Ad” logo and a countdown timer. To keep important text and graphics visible on CTV devices, avoid placing elements in the 220 x 135 pixel area in the top-right corner of your 1920 x 1080 video.",
+       "es": "Los anuncios se superponen en el reproductor con un logotipo “Anuncio” y un contador regresivo. Para que textos y gráficos importantes no queden ocultos en dispositivos CTV, evite colocar elementos en el área de 220 x 135 píxeles de la esquina superior derecha de su video 1920 x 1080."
+      },
+      {
+       "pt": "A Disney Advertising reserva-se o direito de rejeitar ou solicitar alterações de criativo que não atendam às especificações técnicas ou política de anúncios.",
+       "en": "Disney Advertising reserves the right to reject or request changes to creatives that do not meet its technical specifications or ad policy.",
+       "es": "Disney Advertising se reserva el derecho de rechazar o solicitar cambios en creativos que no cumplan sus especificaciones técnicas o política de anuncios."
+      }
+     ]
+    }
+   ],
+   "deadlines": [
+    {
+     "pt": "O material deverá ser recebido com no mínimo 48 horas úteis antes da data de início da campanha.",
+     "en": "Materials must be received at least 48 business hours before the campaign start date.",
+     "es": "El material debe recibirse con un mínimo de 48 horas hábiles antes de la fecha de inicio de la campaña."
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "hbo",
+   "name": "HBO+",
+   "cat": "streaming",
+   "order": 10,
+   "names": {
+    "pt": "HBO+",
+    "en": "HBO+",
+    "es": "HBO+"
+   },
+   "tagline": {
+    "pt": "Vídeo para HBO+",
+    "en": "HBO+ video",
+    "es": "Video para HBO+"
+   },
+   "keywords": "hbo hbo max max hbo+ streaming",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 27–28",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 27–28",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 27–28"
+   },
+   "formats": [
+    {
+     "id": "hbo-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Tamanho do arquivo",
+        "en": "File size",
+        "es": "Tamaño del archivo"
+       },
+       {
+        "pt": "Até 1 GB máximo - 30 segundos",
+        "en": "Up to 1 GB maximum - 30 seconds",
+        "es": "Hasta 1 GB máximo - 30 segundos"
+       }
+      ],
+      [
+       {
+        "pt": "Máximo de rotações criativas",
+        "en": "Maximum creative rotations",
+        "es": "Máximo de rotaciones creativas"
+       },
+       {
+        "pt": "Até 3",
+        "en": "Up to 3",
+        "es": "Hasta 3"
+       }
+      ],
+      [
+       {
+        "pt": "Formato do arquivo de vídeo",
+        "en": "Video file format",
+        "es": "Formato del archivo de video"
+       },
+       {
+        "pt": "MP4 preferido, MOV aceito",
+        "en": "MP4 preferred, MOV accepted",
+        "es": "MP4 preferido, MOV aceptado"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de quadros",
+        "en": "Frame rate",
+        "es": "Frame rate"
+       },
+       {
+        "pt": "23,98 ou 29,97",
+        "en": "23.98 or 29.97",
+        "es": "23,98 o 29,97"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de bits do vídeo",
+        "en": "Video bitrate",
+        "es": "Tasa de bits del video"
+       },
+       {
+        "pt": "Taxa de bits constante de 18–30 Mbps",
+        "en": "Constant bitrate of 18–30 Mbps",
+        "es": "Tasa de bits constante de 18–30 Mbps"
+       }
+      ],
+      [
+       {
+        "pt": "Resolução",
+        "en": "Resolution",
+        "es": "Resolución"
+       },
+       "1920x1080"
+      ],
+      [
+       {
+        "pt": "Proporção de tela",
+        "en": "Aspect ratio",
+        "es": "Proporción de pantalla"
+       },
+       "16:9"
+      ],
+      [
+       {
+        "pt": "Processamento de vídeo",
+        "en": "Video processing",
+        "es": "Procesamiento de video"
+       },
+       {
+        "pt": "Desentrelaçamento adaptativo",
+        "en": "Adaptive deinterlacing",
+        "es": "Desentrelazado adaptativo"
+       }
+      ],
+      [
+       {
+        "pt": "Codec",
+        "en": "Codec",
+        "es": "Códec"
+       },
+       {
+        "pt": "Apple Pro Res 422 / Apple Pro Res 422 HQ / H.264 — mínimo de 15 Mbps",
+        "en": "Apple Pro Res 422 / Apple Pro Res 422 HQ / H.264 — minimum 15 Mbps",
+        "es": "Apple Pro Res 422 / Apple Pro Res 422 HQ / H.264 — mínimo de 15 Mbps"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de bits do áudio",
+        "en": "Audio bitrate",
+        "es": "Tasa de bits del audio"
+       },
+       {
+        "pt": "Mínimo de 192 kbps",
+        "en": "Minimum 192 kbps",
+        "es": "Mínimo de 192 kbps"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de amostragem do áudio",
+        "en": "Audio sample rate",
+        "es": "Frecuencia de muestreo del audio"
+       },
+       {
+        "pt": "48 kHz obrigatório. Apenas 16 ou 24 bits",
+        "en": "48 kHz required. 16 or 24 bits only",
+        "es": "48 kHz obligatorio. Solo 16 o 24 bits"
+       }
+      ],
+      [
+       {
+        "pt": "Política de som e duração",
+        "en": "Sound and duration policy",
+        "es": "Política de sonido y duración"
+       },
+       {
+        "pt": "Todo áudio deve estar em conformidade com as especificações de norma de diálogo: -24 lkfs. Formato padrão é estéreo nos canais 1 e 2",
+        "en": "All audio must comply with dialogue norm specs: -24 lkfs. Default format is stereo on channels 1 and 2",
+        "es": "Todo audio debe cumplir las especificaciones de norma de diálogo: -24 lkfs. El formato estándar es estéreo en los canales 1 y 2"
+       }
+      ],
+      [
+       {
+        "pt": "Fornecedores terceiros aceitos",
+        "en": "Accepted third-party vendors",
+        "es": "Proveedores terceros aceptados"
+       },
+       "Innovid, DCM, Extreme Reach, Sizmek, Flashtalking, Thunder"
+      ],
+      [
+       {
+        "pt": "Rastreamento",
+        "en": "Tracking",
+        "es": "Seguimiento"
+       },
+       {
+        "pt": "1x1s padrão — Tags de Impressão devem ser enviadas com pelo menos 3 dias úteis de antecedência ao lançamento",
+        "en": "Standard 1x1s — Impression tags must be sent at least 3 business days before launch",
+        "es": "1x1s estándar — Los tags de impresión deben enviarse con al menos 3 días hábiles de anticipación al lanzamiento"
+       }
+      ]
+     ]
+    }
+   ],
+   "deadlines": [
+    {
+     "pt": "Prazo de entrega: 3–5 dias úteis para QA e Tráfego dos Assets de Mídia ROS",
+     "en": "Delivery lead time: 3–5 business days for QA and trafficking of ROS media assets",
+     "es": "Plazo de entrega: 3–5 días hábiles para QA y tráfico de los assets de medios ROS"
+    },
+    {
+     "pt": "Tags de impressão: pelo menos 3 dias úteis antes do lançamento",
+     "en": "Impression tags: at least 3 business days before launch",
+     "es": "Tags de impresión: al menos 3 días hábiles antes del lanzamiento"
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "ctv",
+   "name": "CTV",
+   "cat": "streaming",
+   "order": 11,
+   "names": {
+    "pt": "CTV",
+    "en": "CTV",
+    "es": "CTV"
+   },
+   "tagline": {
+    "pt": "Vídeo para TV conectada",
+    "en": "Connected TV video",
+    "es": "Video para TV conectada"
+   },
+   "keywords": "ctv connected tv smart tv tv conectada",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 29",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 29",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 29"
+   },
+   "formats": [
+    {
+     "id": "ctv-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "MP4"
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "Até 30s, mínimo 5s",
+        "en": "Up to 30s, minimum 5s",
+        "es": "Hasta 30s, mínimo 5s"
+       }
+      ],
+      [
+       {
+        "pt": "Resolução",
+        "en": "Resolution",
+        "es": "Resolución"
+       },
+       {
+        "pt": "A resolução recomendada é 1920x1080 pixels (Full HD) ou 1200x675 pixels, com a proporção de tela 16:9 (paisagem).",
+        "en": "Recommended resolution is 1920x1080 pixels (Full HD) or 1200x675 pixels, 16:9 aspect ratio (landscape).",
+        "es": "La resolución recomendada es 1920x1080 píxeles (Full HD) o 1200x675 píxeles, con proporción 16:9 (horizontal)."
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho do arquivo",
+        "en": "File size",
+        "es": "Tamaño del archivo"
+       },
+       {
+        "pt": "Até 1 GB",
+        "en": "Up to 1 GB",
+        "es": "Hasta 1 GB"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de bits",
+        "en": "Bitrate",
+        "es": "Tasa de bits"
+       },
+       {
+        "pt": "Para H.264, superior a 8 Mbps para 720p e 12 Mbps para 1080p. Para MOV, superior a 42 Mbps para 720p e 80 Mbps para 1080p.",
+        "en": "For H.264, above 8 Mbps for 720p and 12 Mbps for 1080p. For MOV, above 42 Mbps for 720p and 80 Mbps for 1080p.",
+        "es": "Para H.264, superior a 8 Mbps para 720p y 12 Mbps para 1080p. Para MOV, superior a 42 Mbps para 720p y 80 Mbps para 1080p."
+       }
+      ],
+      [
+       {
+        "pt": "Recomendações",
+        "en": "Recommendations",
+        "es": "Recomendaciones"
+       },
+       {
+        "pt": "Utilize criativos que incluam pelo menos um ativo MP4 com taxa de bits de 15 Mbps ou superior.",
+        "en": "Use creatives that include at least one MP4 asset with a bitrate of 15 Mbps or higher.",
+        "es": "Utilice creativos que incluyan al menos un archivo MP4 con tasa de bits de 15 Mbps o superior."
+       }
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "twitch",
+   "name": "Twitch",
+   "cat": "streaming",
+   "order": 12,
+   "names": {
+    "pt": "Twitch",
+    "en": "Twitch",
+    "es": "Twitch"
+   },
+   "tagline": {
+    "pt": "Vídeo para Twitch",
+    "en": "Twitch video",
+    "es": "Video para Twitch"
+   },
+   "keywords": "twitch streaming games",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 30",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 30",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 30"
+   },
+   "formats": [
+    {
+     "id": "twitch-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "MP4"
+      ],
+      [
+       {
+        "pt": "Secundagem",
+        "en": "Length",
+        "es": "Duración"
+       },
+       {
+        "pt": "6s, 15s, 20s, 30s, ou 60s",
+        "en": "6s, 15s, 20s, 30s, or 60s",
+        "es": "6s, 15s, 20s, 30s o 60s"
+       }
+      ],
+      [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       "1920x1080"
+      ],
+      [
+       {
+        "pt": "Minimum bitrate",
+        "en": "Minimum bitrate",
+        "es": "Bitrate mínimo"
+       },
+       "4,000 kbps"
+      ],
+      [
+       {
+        "pt": "Maximum bitrate",
+        "en": "Maximum bitrate",
+        "es": "Bitrate máximo"
+       },
+       "10,000 kbps"
+      ],
+      [
+       {
+        "pt": "Áudio",
+        "en": "Audio",
+        "es": "Audio"
+       },
+       "-9dB"
+      ],
+      [
+       {
+        "pt": "Frame rate",
+        "en": "Frame rate",
+        "es": "Frame rate"
+       },
+       "24-30fps"
+      ]
+     ],
+     "links": [
+      {
+       "label": {
+        "pt": "Mais informações (Amazon Ads — Twitch)",
+        "en": "More information (Amazon Ads — Twitch)",
+        "es": "Más información (Amazon Ads — Twitch)"
+       },
+       "url": "https://advertising.amazon.com/resources/ad-specs/twitch/premium-video"
+      }
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "youtube",
+   "name": "YouTube (DV360)",
+   "cat": "google",
+   "order": 13,
+   "names": {
+    "pt": "YouTube (DV360)",
+    "en": "YouTube (DV360)",
+    "es": "YouTube (DV360)"
+   },
+   "tagline": {
+    "pt": "Vídeo e criativo complementar",
+    "en": "Video and companion creative",
+    "es": "Video y creativo complementario"
+   },
+   "keywords": "youtube yt youtube dv360 video youtube",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 31–33",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 31–33",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 31–33"
+   },
+   "formats": [
+    {
+     "id": "youtube-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "MP4"
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "15 ou 30 segundos",
+        "en": "15 or 30 seconds",
+        "es": "15 o 30 segundos"
+       }
+      ],
+      [
+       {
+        "pt": "Paisagem/horizontal",
+        "en": "Landscape/horizontal",
+        "es": "Horizontal"
+       },
+       {
+        "pt": "1.280 × 720, 1.920 × 1.080 ou 1.440 × 1.080",
+        "en": "1,280 × 720, 1,920 × 1,080 or 1,440 × 1,080",
+        "es": "1.280 × 720, 1.920 × 1.080 o 1.440 × 1.080"
+       }
+      ],
+      [
+       {
+        "pt": "Retrato/vertical",
+        "en": "Portrait/vertical",
+        "es": "Vertical"
+       },
+       {
+        "pt": "720 × 1.280, 1.080 × 1.920 ou 1.080 × 1.440",
+        "en": "720 × 1,280, 1,080 × 1,920 or 1,080 × 1,440",
+        "es": "720 × 1.280, 1.080 × 1.920 o 1.080 × 1.440"
+       }
+      ],
+      [
+       {
+        "pt": "Proporções",
+        "en": "Aspect ratios",
+        "es": "Proporciones"
+       },
+       {
+        "pt": "Paisagem/horizontal: 16:9 ou 4:3 · Retrato/vertical: 9:16 ou 3:4",
+        "en": "Landscape/horizontal: 16:9 or 4:3 · Portrait/vertical: 9:16 or 3:4",
+        "es": "Horizontal: 16:9 o 4:3 · Vertical: 9:16 o 3:4"
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho do arquivo",
+        "en": "File size",
+        "es": "Tamaño del archivo"
+       },
+       {
+        "pt": "Até 1 GB",
+        "en": "Up to 1 GB",
+        "es": "Hasta 1 GB"
+       }
+      ],
+      [
+       {
+        "pt": "Barras pretas",
+        "en": "Black bars",
+        "es": "Barras negras"
+       },
+       {
+        "pt": "Sem barras pretas",
+        "en": "No black bars",
+        "es": "Sin barras negras"
+       }
+      ],
+      [
+       {
+        "pt": "Efeito letterbox",
+        "en": "Letterbox effect",
+        "es": "Efecto letterbox"
+       },
+       {
+        "pt": "Sem efeito letterbox",
+        "en": "No letterbox effect",
+        "es": "Sin efecto letterbox"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Codec",
+        "en": "Audio — Codec",
+        "es": "Audio — Códec"
+       },
+       {
+        "pt": "PCM (preferencial) ou AAC",
+        "en": "PCM (preferred) or AAC",
+        "es": "PCM (preferido) o AAC"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Taxa de bits",
+        "en": "Audio — Bitrate",
+        "es": "Audio — Tasa de bits"
+       },
+       {
+        "pt": "Pelo menos 192 kbps",
+        "en": "At least 192 kbps",
+        "es": "Al menos 192 kbps"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Bit",
+        "en": "Audio — Bit depth",
+        "es": "Audio — Bit"
+       },
+       {
+        "pt": "Somente 16 ou 24 bits",
+        "en": "16 or 24 bits only",
+        "es": "Solo 16 o 24 bits"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Taxa de amostra",
+        "en": "Audio — Sample rate",
+        "es": "Audio — Frecuencia de muestreo"
+       },
+       "48 kHz"
+      ],
+      [
+       {
+        "pt": "Áudio — Configurações",
+        "en": "Audio — Settings",
+        "es": "Audio — Configuración"
+       },
+       {
+        "pt": "Obrigatórias",
+        "en": "Required",
+        "es": "Obligatorias"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio — Volume",
+        "en": "Audio — Loudness",
+        "es": "Audio — Volumen"
+       },
+       {
+        "pt": "De acordo com a especificação do IAB nos EUA de -24 LKFS +/- 2 LKFS (o Campaign Manager 360 vai normalizar o áudio para o volume desejado de -24 LKFS)",
+        "en": "Per the US IAB specification of -24 LKFS +/- 2 LKFS (Campaign Manager 360 will normalize audio to the target loudness of -24 LKFS)",
+        "es": "Según la especificación IAB de EE. UU. de -24 LKFS +/- 2 LKFS (Campaign Manager 360 normalizará el audio al volumen objetivo de -24 LKFS)"
+       }
+      ]
+     ]
+    },
+    {
+     "id": "youtube-companion",
+     "name": {
+      "pt": "Criativo complementar (banner)",
+      "en": "Companion creative (banner)",
+      "es": "Creativo complementario (banner)"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Peso",
+        "en": "File size",
+        "es": "Peso"
+       },
+       "20 KB"
+      ],
+      [
+       {
+        "pt": "Tipo",
+        "en": "Type",
+        "es": "Tipo"
+       },
+       {
+        "pt": "Imagem ou HTML5",
+        "en": "Image or HTML5",
+        "es": "Imagen o HTML5"
+       }
+      ],
+      [
+       {
+        "pt": "Animação",
+        "en": "Animation",
+        "es": "Animación"
+       },
+       {
+        "pt": "15 segundos",
+        "en": "15 seconds",
+        "es": "15 segundos"
+       }
+      ],
+      [
+       "FPS",
+       {
+        "pt": "18 a 24 FPS",
+        "en": "18 to 24 FPS",
+        "es": "18 a 24 FPS"
+       }
+      ],
+      [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       "300 × 250, 728 × 90, 300 × 60"
+      ]
+     ]
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Durações de inventário e tolerâncias",
+      "en": "Inventory durations and tolerances",
+      "es": "Duraciones de inventario y tolerancias"
+     },
+     "items": [
+      {
+       "pt": "O inventário de vídeo é compatível com várias durações: menos de 15 segundos, 15, 20, 30, 60 segundos e pelo menos 90 segundos.",
+       "en": "Video inventory supports several durations: under 15 seconds, 15, 20, 30, 60 seconds and at least 90 seconds.",
+       "es": "El inventario de video es compatible con varias duraciones: menos de 15 segundos, 15, 20, 30, 60 segundos y al menos 90 segundos."
+      },
+      {
+       "pt": "Os vídeos não precisam ter a duração máxima permitida pelo inventário para serem veiculados corretamente. Por exemplo, um criativo de vídeo de 22 segundos atende ao requisito de ser veiculado em inventários de 30 segundos.",
+       "en": "Videos do not need to match the maximum inventory duration to serve correctly. For example, a 22-second video creative qualifies for 30-second inventory.",
+       "es": "Los videos no necesitan tener la duración máxima del inventario para publicarse correctamente. Por ejemplo, un creativo de 22 segundos cumple el requisito para inventarios de 30 segundos."
+      },
+      {
+       "pt": "Todos os vídeos na rotação de um criativo do Display & Video 360 precisam ter duração no máximo 10% menor que a do vídeo mais longo desse criativo.",
+       "en": "All videos in a Display & Video 360 creative rotation must be no more than 10% shorter than the longest video in that creative.",
+       "es": "Todos los videos en la rotación de un creativo de Display & Video 360 deben durar como máximo un 10% menos que el video más largo de ese creativo."
+      },
+      {
+       "pt": "A maioria dos editores permite vídeos dentro de uma margem de 10% dos próprios limites. Por exemplo, um espaço de anúncio de 30 segundos permite anúncios em vídeo de até 33 segundos.",
+       "en": "Most publishers allow videos within a 10% margin of their limits. For example, a 30-second ad slot allows video ads of up to 33 seconds.",
+       "es": "La mayoría de los editores permite videos dentro de un margen del 10% de sus límites. Por ejemplo, un espacio de 30 segundos admite anuncios de hasta 33 segundos."
+      },
+      {
+       "pt": "Para vídeos mais longos (com 60 segundos ou mais), verifique antecipadamente se a origem de inventário tem restrições relacionadas aos tamanhos de arquivos ou à disponibilidade do inventário.",
+       "en": "For longer videos (60 seconds or more), check in advance whether the inventory source has restrictions on file size or inventory availability.",
+       "es": "Para videos más largos (60 segundos o más), verifique con anticipación si la fuente de inventario tiene restricciones de tamaño de archivo o disponibilidad."
+      }
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "demand-gen",
+   "name": "Google Demand Gen",
+   "cat": "google",
+   "order": 14,
+   "names": {
+    "pt": "Google Demand Gen",
+    "en": "Google Demand Gen",
+    "es": "Google Demand Gen"
+   },
+   "tagline": {
+    "pt": "Image, Carousel e Video Ad",
+    "en": "Image, Carousel and Video Ads",
+    "es": "Image, Carousel y Video Ad"
+   },
+   "keywords": "demand gen discovery google demand gen",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 34–36",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 34–36",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 34–36"
+   },
+   "formats": [
+    {
+     "id": "dg-image",
+     "name": {
+      "pt": "Image Ad (display)",
+      "en": "Image Ad (display)",
+      "es": "Image Ad (display)"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Imagem horizontal 1.91:1",
+        "en": "Horizontal image 1.91:1",
+        "es": "Imagen horizontal 1.91:1"
+       },
+       {
+        "pt": "Mínimo: 600 x 314 · Recomendado: 1200 x 628 · Peso máximo: 5 MB",
+        "en": "Minimum: 600 x 314 · Recommended: 1200 x 628 · Max file size: 5 MB",
+        "es": "Mínimo: 600 x 314 · Recomendado: 1200 x 628 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem quadrada 1:1",
+        "en": "Square image 1:1",
+        "es": "Imagen cuadrada 1:1"
+       },
+       {
+        "pt": "Mínimo: 300 x 300 · Recomendado: 1200 x 1200 · Peso máximo: 5 MB",
+        "en": "Minimum: 300 x 300 · Recommended: 1200 x 1200 · Max file size: 5 MB",
+        "es": "Mínimo: 300 x 300 · Recomendado: 1200 x 1200 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem vertical 4:5 (opcional)",
+        "en": "Vertical image 4:5 (optional)",
+        "es": "Imagen vertical 4:5 (opcional)"
+       },
+       {
+        "pt": "Mínimo: 480 x 600 · Recomendado: 960 x 1200 · Peso máximo: 5 MB",
+        "en": "Minimum: 480 x 600 · Recommended: 960 x 1200 · Max file size: 5 MB",
+        "es": "Mínimo: 480 x 600 · Recomendado: 960 x 1200 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem vertical 9:16 (opcional)",
+        "en": "Vertical image 9:16 (optional)",
+        "es": "Imagen vertical 9:16 (opcional)"
+       },
+       {
+        "pt": "Mínimo: 600 x 1067 · Recomendado: 1080 x 1920 · Peso máximo: 5 MB",
+        "en": "Minimum: 600 x 1067 · Recommended: 1080 x 1920 · Max file size: 5 MB",
+        "es": "Mínimo: 600 x 1067 · Recomendado: 1080 x 1920 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Logo (1:1 quadrado)",
+        "en": "Logo (1:1 square)",
+        "es": "Logo (1:1 cuadrado)"
+       },
+       {
+        "pt": "Mínimo: 128 x 128 · Recomendado: 1200 x 1200 · Peso máximo: 5120KB",
+        "en": "Minimum: 128 x 128 · Recommended: 1200 x 1200 · Max file size: 5120KB",
+        "es": "Mínimo: 128 x 128 · Recomendado: 1200 x 1200 · Peso máximo: 5120KB"
+       }
+      ],
+      [
+       "Headline",
+       {
+        "pt": "Até 40 caracteres",
+        "en": "Up to 40 characters",
+        "es": "Hasta 40 caracteres"
+       }
+      ],
+      [
+       "Long headline",
+       {
+        "pt": "Até 90 caracteres",
+        "en": "Up to 90 characters",
+        "es": "Hasta 90 caracteres"
+       }
+      ],
+      [
+       "Description",
+       {
+        "pt": "Até 90 caracteres",
+        "en": "Up to 90 characters",
+        "es": "Hasta 90 caracteres"
+       }
+      ]
+     ],
+     "notes": [
+      {
+       "pt": "Obrigatório: um logo e uma imagem (quadrada ou horizontal). Podemos veicular mais de uma imagem em diferentes formatos, mas pelo menos uma precisa ser quadrada ou horizontal para iniciar a veiculação.",
+       "en": "Required: one logo and one image (square or horizontal). More than one image in different formats can run, but at least one must be square or horizontal to start delivery.",
+       "es": "Obligatorio: un logo y una imagen (cuadrada u horizontal). Podemos publicar más de una imagen en distintos formatos, pero al menos una debe ser cuadrada u horizontal para iniciar la publicación."
+      }
+     ]
+    },
+    {
+     "id": "dg-carousel",
+     "name": {
+      "pt": "Carousel Ad (display)",
+      "en": "Carousel Ad (display)",
+      "es": "Carousel Ad (display)"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Imagem horizontal 1.91:1",
+        "en": "Horizontal image 1.91:1",
+        "es": "Imagen horizontal 1.91:1"
+       },
+       {
+        "pt": "Mínimo: 600 x 314 · Recomendado: 1200 x 628 · Peso máximo: 5 MB",
+        "en": "Minimum: 600 x 314 · Recommended: 1200 x 628 · Max file size: 5 MB",
+        "es": "Mínimo: 600 x 314 · Recomendado: 1200 x 628 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem quadrada 1:1",
+        "en": "Square image 1:1",
+        "es": "Imagen cuadrada 1:1"
+       },
+       {
+        "pt": "Mínimo: 300 x 300 · Recomendado: 1200 x 1200 · Peso máximo: 5 MB",
+        "en": "Minimum: 300 x 300 · Recommended: 1200 x 1200 · Max file size: 5 MB",
+        "es": "Mínimo: 300 x 300 · Recomendado: 1200 x 1200 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem vertical 4:5 (opcional)",
+        "en": "Vertical image 4:5 (optional)",
+        "es": "Imagen vertical 4:5 (opcional)"
+       },
+       {
+        "pt": "Mínimo: 480 x 600 · Recomendado: 960 x 1200 · Peso máximo: 5 MB",
+        "en": "Minimum: 480 x 600 · Recommended: 960 x 1200 · Max file size: 5 MB",
+        "es": "Mínimo: 480 x 600 · Recomendado: 960 x 1200 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem vertical 9:16 (opcional)",
+        "en": "Vertical image 9:16 (optional)",
+        "es": "Imagen vertical 9:16 (opcional)"
+       },
+       {
+        "pt": "Mínimo: 600 x 1067 · Recomendado: 1080 x 1920 · Peso máximo: 5 MB",
+        "en": "Minimum: 600 x 1067 · Recommended: 1080 x 1920 · Max file size: 5 MB",
+        "es": "Mínimo: 600 x 1067 · Recomendado: 1080 x 1920 · Peso máximo: 5 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Logo (1:1 quadrado)",
+        "en": "Logo (1:1 square)",
+        "es": "Logo (1:1 cuadrado)"
+       },
+       {
+        "pt": "Mínimo: 128 x 128 · Recomendado: 1200 x 1200 · Peso máximo: 5120KB",
+        "en": "Minimum: 128 x 128 · Recommended: 1200 x 1200 · Max file size: 5120KB",
+        "es": "Mínimo: 128 x 128 · Recomendado: 1200 x 1200 · Peso máximo: 5120KB"
+       }
+      ],
+      [
+       "Headline",
+       {
+        "pt": "Até 40 caracteres",
+        "en": "Up to 40 characters",
+        "es": "Hasta 40 caracteres"
+       }
+      ],
+      [
+       "Long headline",
+       {
+        "pt": "Até 90 caracteres",
+        "en": "Up to 90 characters",
+        "es": "Hasta 90 caracteres"
+       }
+      ],
+      [
+       "Description",
+       {
+        "pt": "Até 90 caracteres",
+        "en": "Up to 90 characters",
+        "es": "Hasta 90 caracteres"
+       }
+      ]
+     ],
+     "notes": [
+      {
+       "pt": "Obrigatório: um logo e um carrossel de até 3 imagens em formato quadrado ou horizontal.",
+       "en": "Required: one logo and a carousel of up to 3 images in square or horizontal format.",
+       "es": "Obligatorio: un logo y un carrusel de hasta 3 imágenes en formato cuadrado u horizontal."
+      }
+     ]
+    },
+    {
+     "id": "dg-video",
+     "name": {
+      "pt": "Video Ad",
+      "en": "Video Ad",
+      "es": "Video Ad"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Vídeo",
+        "en": "Video",
+        "es": "Video"
+       },
+       {
+        "pt": "URL de vídeo público no YouTube",
+        "en": "Public YouTube video URL",
+        "es": "URL de video público en YouTube"
+       }
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "Mínimo de 5 segundos, máximo dependente do posicionamento. Vídeos com menos de 10 segundos têm inventário reduzido.",
+        "en": "Minimum 5 seconds, maximum depends on placement. Videos under 10 seconds have reduced inventory.",
+        "es": "Mínimo de 5 segundos, máximo según la ubicación. Los videos de menos de 10 segundos tienen inventario reducido."
+       }
+      ],
+      [
+       {
+        "pt": "Horizontal 16:9",
+        "en": "Horizontal 16:9",
+        "es": "Horizontal 16:9"
+       },
+       {
+        "pt": "Recomendado para HD: 1920 x 1080 px",
+        "en": "Recommended for HD: 1920 x 1080 px",
+        "es": "Recomendado para HD: 1920 x 1080 px"
+       }
+      ],
+      [
+       {
+        "pt": "Quadrado 1:1",
+        "en": "Square 1:1",
+        "es": "Cuadrado 1:1"
+       },
+       {
+        "pt": "Recomendado para HD: 1080 x 1080 px",
+        "en": "Recommended for HD: 1080 x 1080 px",
+        "es": "Recomendado para HD: 1080 x 1080 px"
+       }
+      ],
+      [
+       {
+        "pt": "Vertical 4:5",
+        "en": "Vertical 4:5",
+        "es": "Vertical 4:5"
+       },
+       {
+        "pt": "Recomendado para HD: 1080 x 1350 px",
+        "en": "Recommended for HD: 1080 x 1350 px",
+        "es": "Recomendado para HD: 1080 x 1350 px"
+       }
+      ],
+      [
+       {
+        "pt": "Vertical 9:16",
+        "en": "Vertical 9:16",
+        "es": "Vertical 9:16"
+       },
+       {
+        "pt": "Recomendado para HD: 1080 x 1920 px",
+        "en": "Recommended for HD: 1080 x 1920 px",
+        "es": "Recomendado para HD: 1080 x 1920 px"
+       }
+      ],
+      [
+       {
+        "pt": "Formato",
+        "en": "Format",
+        "es": "Formato"
+       },
+       ".MPG (MPEG-2 ou MPEG-4)"
+      ],
+      [
+       {
+        "pt": "Logo (1:1 quadrado)",
+        "en": "Logo (1:1 square)",
+        "es": "Logo (1:1 cuadrado)"
+       },
+       {
+        "pt": "Mínimo: 128 x 128 · Recomendado: 1200 x 1200 · Peso máximo: 5120KB",
+        "en": "Minimum: 128 x 128 · Recommended: 1200 x 1200 · Max file size: 5120KB",
+        "es": "Mínimo: 128 x 128 · Recomendado: 1200 x 1200 · Peso máximo: 5120KB"
+       }
+      ],
+      [
+       "Headline",
+       {
+        "pt": "Até 40 caracteres",
+        "en": "Up to 40 characters",
+        "es": "Hasta 40 caracteres"
+       }
+      ],
+      [
+       "Long headline",
+       {
+        "pt": "Até 90 caracteres",
+        "en": "Up to 90 characters",
+        "es": "Hasta 90 caracteres"
+       }
+      ],
+      [
+       "Description",
+       {
+        "pt": "Até 90 caracteres",
+        "en": "Up to 90 characters",
+        "es": "Hasta 90 caracteres"
+       }
+      ]
+     ],
+     "notes": [
+      {
+       "pt": "Obrigatório: um logo e o link do vídeo do anúncio no YouTube.",
+       "en": "Required: one logo and the YouTube link of the ad video.",
+       "es": "Obligatorio: un logo y el enlace del video del anuncio en YouTube."
+      }
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "google-ads-search",
+   "name": "Google Ads — Pesquisa",
+   "cat": "google",
+   "order": 15,
+   "names": {
+    "pt": "Google Ads — Pesquisa",
+    "en": "Google Ads — Search",
+    "es": "Google Ads — Búsqueda"
+   },
+   "tagline": {
+    "pt": "Informações comerciais e anúncios responsivos",
+    "en": "Business information and responsive ads",
+    "es": "Información comercial y anuncios responsivos"
+   },
+   "keywords": "google ads search pesquisa rede de pesquisa sem rsa responsivo",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 47–49",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 47–49",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 47–49"
+   },
+   "formats": [
+    {
+     "id": "gads-business",
+     "name": {
+      "pt": "Informações comerciais",
+      "en": "Business information",
+      "es": "Información comercial"
+     },
+     "intro": {
+      "pt": "Com as Informações comerciais, é possível incluir o nome e o logo da empresa nos anúncios de texto para computadores e dispositivos móveis.",
+      "en": "Business information lets you add the company name and logo to text ads on desktop and mobile.",
+      "es": "Con la Información comercial es posible incluir el nombre y el logo de la empresa en los anuncios de texto para computadoras y dispositivos móviles."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Recurso",
+        "en": "Asset",
+        "es": "Recurso"
+       },
+       {
+        "pt": "Tamanho",
+        "en": "Size",
+        "es": "Tamaño"
+       },
+       {
+        "pt": "Quantidade",
+        "en": "Quantity",
+        "es": "Cantidad"
+       },
+       {
+        "pt": "Obrigatório",
+        "en": "Required",
+        "es": "Obligatorio"
+       }
+      ],
+      "rows": [
+       [
+        {
+         "pt": "Texto: Nome da empresa",
+         "en": "Text: Business name",
+         "es": "Texto: Nombre de la empresa"
+        },
+        {
+         "pt": "25 caracteres (máx.)",
+         "en": "25 characters (max.)",
+         "es": "25 caracteres (máx.)"
+        },
+        {
+         "pt": "1 nome",
+         "en": "1 name",
+         "es": "1 nombre"
+        },
+        {
+         "pt": "Sim",
+         "en": "Yes",
+         "es": "Sí"
+        }
+       ],
+       [
+        {
+         "pt": "Imagem: Logotipo 1:1",
+         "en": "Image: Logo 1:1",
+         "es": "Imagen: Logotipo 1:1"
+        },
+        {
+         "pt": "1.200 x 1.200 pixels (mín. 128 x 128 pixels)",
+         "en": "1,200 x 1,200 pixels (min. 128 x 128 pixels)",
+         "es": "1.200 x 1.200 píxeles (mín. 128 x 128 píxeles)"
+        },
+        {
+         "pt": "1 imagem",
+         "en": "1 image",
+         "es": "1 imagen"
+        },
+        {
+         "pt": "Sim",
+         "en": "Yes",
+         "es": "Sí"
+        }
+       ]
+      ]
+     }
+    },
+    {
+     "id": "gads-assets",
+     "name": {
+      "pt": "Recursos do anúncio",
+      "en": "Ad assets",
+      "es": "Recursos del anuncio"
+     },
+     "intro": {
+      "pt": "Os recursos são o conteúdo que compõe o anúncio com informações comerciais úteis: títulos, descrições, links para partes específicas do site, botões de ligação, informações de local e muito mais.",
+      "en": "Assets are the content that makes up the ad with useful business information: headlines, descriptions, links to specific site sections, call buttons, location information and more.",
+      "es": "Los recursos son el contenido que compone el anuncio con información comercial útil: títulos, descripciones, enlaces a secciones del sitio, botones de llamada, información de ubicación y más."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Recurso",
+        "en": "Asset",
+        "es": "Recurso"
+       },
+       {
+        "pt": "Tamanho",
+        "en": "Size",
+        "es": "Tamaño"
+       },
+       {
+        "pt": "Quantidade",
+        "en": "Quantity",
+        "es": "Cantidad"
+       },
+       {
+        "pt": "Obrigatório",
+        "en": "Required",
+        "es": "Obligatorio"
+       }
+      ],
+      "rows": [
+       [
+        {
+         "pt": "Títulos",
+         "en": "Headlines",
+         "es": "Títulos"
+        },
+        {
+         "pt": "25 caracteres (máx.)",
+         "en": "25 characters (max.)",
+         "es": "25 caracteres (máx.)"
+        },
+        {
+         "pt": "De 1 a 20 títulos · Recomendado: 4",
+         "en": "1 to 20 headlines · Recommended: 4",
+         "es": "De 1 a 20 títulos · Recomendado: 4"
+        },
+        {
+         "pt": "Sim",
+         "en": "Yes",
+         "es": "Sí"
+        }
+       ],
+       [
+        {
+         "pt": "URL final",
+         "en": "Final URL",
+         "es": "URL final"
+        },
+        {
+         "pt": "2.048 caracteres (máx.)",
+         "en": "2,048 characters (max.)",
+         "es": "2.048 caracteres (máx.)"
+        },
+        "1 URL",
+        {
+         "pt": "Sim",
+         "en": "Yes",
+         "es": "Sí"
+        }
+       ],
+       [
+        {
+         "pt": "Descrições",
+         "en": "Descriptions",
+         "es": "Descripciones"
+        },
+        {
+         "pt": "90 caracteres (máx.)",
+         "en": "90 characters (max.)",
+         "es": "90 caracteres (máx.)"
+        },
+        {
+         "pt": "De 1 a 5 descrições · Recomendado: 4",
+         "en": "1 to 5 descriptions · Recommended: 4",
+         "es": "De 1 a 5 descripciones · Recomendado: 4"
+        },
+        {
+         "pt": "Não",
+         "en": "No",
+         "es": "No"
+        }
+       ],
+       [
+        "Call-to-action",
+        {
+         "pt": "Automatizado",
+         "en": "Automated",
+         "es": "Automatizado"
+        },
+        {
+         "pt": "1 call-to-action",
+         "en": "1 call-to-action",
+         "es": "1 call-to-action"
+        },
+        {
+         "pt": "Não",
+         "en": "No",
+         "es": "No"
+        }
+       ],
+       [
+        {
+         "pt": "Imagem quadrada 1:1",
+         "en": "Square image 1:1",
+         "es": "Imagen cuadrada 1:1"
+        },
+        {
+         "pt": "1.200 x 1.200 pixels (mín. 300 x 300 pixels)",
+         "en": "1,200 x 1,200 pixels (min. 300 x 300 pixels)",
+         "es": "1.200 x 1.200 píxeles (mín. 300 x 300 píxeles)"
+        },
+        {
+         "pt": "De 1 a 20 imagens · Recomendado: 1",
+         "en": "1 to 20 images · Recommended: 1",
+         "es": "De 1 a 20 imágenes · Recomendado: 1"
+        },
+        {
+         "pt": "Sim",
+         "en": "Yes",
+         "es": "Sí"
+        }
+       ],
+       [
+        {
+         "pt": "Imagem horizontal 1.91:1",
+         "en": "Horizontal image 1.91:1",
+         "es": "Imagen horizontal 1.91:1"
+        },
+        {
+         "pt": "1.200 x 628 pixels (mín. 600 x 314 pixels)",
+         "en": "1,200 x 628 pixels (min. 600 x 314 pixels)",
+         "es": "1.200 x 628 píxeles (mín. 600 x 314 píxeles)"
+        },
+        {
+         "pt": "De 1 a 20 imagens",
+         "en": "1 to 20 images",
+         "es": "De 1 a 20 imágenes"
+        },
+        {
+         "pt": "Não",
+         "en": "No",
+         "es": "No"
+        }
+       ]
+      ]
+     }
+    },
+    {
+     "id": "gads-rsa",
+     "name": {
+      "pt": "Anúncios responsivos de pesquisa",
+      "en": "Responsive search ads",
+      "es": "Anuncios de búsqueda responsivos"
+     },
+     "intro": {
+      "pt": "Com os anúncios responsivos de pesquisa, você pode criar um anúncio ajustável para mostrar mensagens mais relevantes aos seus clientes. Se você incluir vários títulos e descrições, o Google Ads vai testar automaticamente diferentes combinações e aprender quais têm melhor performance.",
+      "en": "Responsive search ads let you create an adaptable ad that shows more relevant messages to customers. If you add several headlines and descriptions, Google Ads automatically tests different combinations and learns which perform best.",
+      "es": "Con los anuncios de búsqueda responsivos puede crear un anuncio adaptable que muestra mensajes más relevantes a sus clientes. Si incluye varios títulos y descripciones, Google Ads probará automáticamente distintas combinaciones y aprenderá cuáles rinden mejor."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Recurso",
+        "en": "Asset",
+        "es": "Recurso"
+       },
+       {
+        "pt": "Tamanho",
+        "en": "Size",
+        "es": "Tamaño"
+       },
+       {
+        "pt": "Quantidade",
+        "en": "Quantity",
+        "es": "Cantidad"
+       },
+       {
+        "pt": "Obrigatório",
+        "en": "Required",
+        "es": "Obligatorio"
+       }
+      ],
+      "rows": [
+       [
+        {
+         "pt": "Títulos",
+         "en": "Headlines",
+         "es": "Títulos"
+        },
+        {
+         "pt": "30 caracteres (máx.)",
+         "en": "30 characters (max.)",
+         "es": "30 caracteres (máx.)"
+        },
+        {
+         "pt": "De 1 a 15 títulos",
+         "en": "1 to 15 headlines",
+         "es": "De 1 a 15 títulos"
+        },
+        {
+         "pt": "Sim",
+         "en": "Yes",
+         "es": "Sí"
+        }
+       ],
+       [
+        {
+         "pt": "Descrições",
+         "en": "Descriptions",
+         "es": "Descripciones"
+        },
+        {
+         "pt": "90 caracteres (máx.)",
+         "en": "90 characters (max.)",
+         "es": "90 caracteres (máx.)"
+        },
+        {
+         "pt": "De 1 a 4 descrições",
+         "en": "1 to 4 descriptions",
+         "es": "De 1 a 4 descripciones"
+        },
+        {
+         "pt": "Sim",
+         "en": "Yes",
+         "es": "Sí"
+        }
+       ]
+      ]
+     }
+    }
+   ],
+   "notes": [
+    {
+     "pt": "Conceda acesso ao GTM e ao Analytics para este e-mail: {{email:ZjFyc3Rncm91cC5wZXJmb3JtYW5jZUBnbWFpbC5jb20=}}",
+     "en": "Grant GTM and Analytics access to this e-mail: {{email:ZjFyc3Rncm91cC5wZXJmb3JtYW5jZUBnbWFpbC5jb20=}}",
+     "es": "Conceda acceso a GTM y Analytics a este e-mail: {{email:ZjFyc3Rncm91cC5wZXJmb3JtYW5jZUBnbWFpbC5jb20=}}"
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "tinder",
+   "name": "Tinder",
+   "cat": "social",
+   "order": 16,
+   "names": {
+    "pt": "Tinder",
+    "en": "Tinder",
+    "es": "Tinder"
+   },
+   "tagline": {
+    "pt": "Display e vídeo",
+    "en": "Display and video",
+    "es": "Display y video"
+   },
+   "keywords": "tinder app namoro",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 37–39",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 37–39",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 37–39"
+   },
+   "formats": [
+    {
+     "id": "tinder-display",
+     "name": {
+      "pt": "Display",
+      "en": "Display",
+      "es": "Display"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Nome do anunciante",
+        "en": "Advertiser name",
+        "es": "Nombre del anunciante"
+       },
+       {
+        "pt": "Máximo de 25 caracteres*",
+        "en": "Maximum 25 characters*",
+        "es": "Máximo de 25 caracteres*"
+       }
+      ],
+      [
+       {
+        "pt": "Subtítulo",
+        "en": "Subtitle",
+        "es": "Subtítulo"
+       },
+       {
+        "pt": "Máximo de 35 caracteres*",
+        "en": "Maximum 35 characters*",
+        "es": "Máximo de 35 caracteres*"
+       }
+      ],
+      [
+       "CTA",
+       {
+        "pt": "Máximo de 15 caracteres*",
+        "en": "Maximum 15 characters*",
+        "es": "Máximo de 15 caracteres*"
+       }
+      ],
+      [
+       {
+        "pt": "Dimensão do banner",
+        "en": "Banner size",
+        "es": "Dimensión del banner"
+       },
+       "1536 x 1536"
+      ],
+      [
+       {
+        "pt": "Margem de segurança",
+        "en": "Safe margin",
+        "es": "Margen de seguridad"
+       },
+       "924 x 1229"
+      ],
+      [
+       {
+        "pt": "Extensões aceitas",
+        "en": "Accepted file types",
+        "es": "Extensiones aceptadas"
+       },
+       {
+        "pt": "JPG ou PNG",
+        "en": "JPG or PNG",
+        "es": "JPG o PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Peso",
+        "en": "File size",
+        "es": "Peso"
+       },
+       {
+        "pt": "Até 110kb",
+        "en": "Up to 110kb",
+        "es": "Hasta 110kb"
+       }
+      ]
+     ],
+     "notes": [
+      {
+       "pt": "*Contando espaçamento e pontuação.",
+       "en": "*Including spaces and punctuation.",
+       "es": "*Contando espacios y puntuación."
+      }
+     ]
+    },
+    {
+     "id": "tinder-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Nome do anunciante",
+        "en": "Advertiser name",
+        "es": "Nombre del anunciante"
+       },
+       {
+        "pt": "Máximo de 25 caracteres*",
+        "en": "Maximum 25 characters*",
+        "es": "Máximo de 25 caracteres*"
+       }
+      ],
+      [
+       {
+        "pt": "Subtítulo",
+        "en": "Subtitle",
+        "es": "Subtítulo"
+       },
+       {
+        "pt": "Máximo de 35 caracteres*",
+        "en": "Maximum 35 characters*",
+        "es": "Máximo de 35 caracteres*"
+       }
+      ],
+      [
+       "CTA",
+       {
+        "pt": "Máximo de 15 caracteres*",
+        "en": "Maximum 15 characters*",
+        "es": "Máximo de 15 caracteres*"
+       }
+      ],
+      [
+       {
+        "pt": "Dimensão do vídeo",
+        "en": "Video size",
+        "es": "Dimensión del video"
+       },
+       "760 x 760 (Ratio 1:1)"
+      ],
+      [
+       {
+        "pt": "Formato",
+        "en": "Format",
+        "es": "Formato"
+       },
+       "MP4 (Codec H.264)"
+      ],
+      [
+       {
+        "pt": "Peso",
+        "en": "File size",
+        "es": "Peso"
+       },
+       "≤10MB"
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "Até 15 segundos",
+        "en": "Up to 15 seconds",
+        "es": "Hasta 15 segundos"
+       }
+      ]
+     ],
+     "notes": [
+      {
+       "pt": "*Contando espaçamento e pontuação.",
+       "en": "*Including spaces and punctuation.",
+       "es": "*Contando espacios y puntuación."
+      }
+     ]
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "CTA fixo e margem de segurança",
+      "en": "Fixed CTA and safe margin",
+      "es": "CTA fijo y margen de seguridad"
+     },
+     "items": [
+      {
+       "pt": "Nos anúncios do Tinder, o CTA é fixo e fica localizado na parte inferior do anúncio. É importante respeitar a margem de segurança para que o texto do anúncio não seja coberto pelo CTA.",
+       "en": "In Tinder ads, the CTA is fixed at the bottom of the ad. Respect the safe margin so the ad text is not covered by the CTA.",
+       "es": "En los anuncios de Tinder, el CTA es fijo y se ubica en la parte inferior del anuncio. Es importante respetar el margen de seguridad para que el CTA no cubra el texto del anuncio."
+      }
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "meta-ads",
+   "name": "Meta Ads",
+   "cat": "social",
+   "order": 17,
+   "names": {
+    "pt": "Meta Ads",
+    "en": "Meta Ads",
+    "es": "Meta Ads"
+   },
+   "tagline": {
+    "pt": "Facebook e Instagram: imagem, vídeo e carrossel",
+    "en": "Facebook & Instagram: image, video and carousel",
+    "es": "Facebook e Instagram: imagen, video y carrusel"
+   },
+   "keywords": "meta facebook instagram fb ig meta ads",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 40–42",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 40–42",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 40–42"
+   },
+   "access": {
+    "title": {
+     "pt": "Como dar acesso à E/UP (Meta Business Suite)",
+     "en": "How to grant E/UP access (Meta Business Suite)",
+     "es": "Cómo dar acceso a E/UP (Meta Business Suite)"
+    },
+    "intro": {
+     "pt": "Tutorial para conceder acesso total à página do Facebook e ao perfil do Instagram ao portfólio de negócios da E/UP.",
+     "en": "Tutorial to grant full access to your Facebook Page and Instagram profile to the E/UP business portfolio.",
+     "es": "Tutorial para conceder acceso total a la página de Facebook y al perfil de Instagram al portafolio comercial de E/UP."
+    },
+    "groups": [
+     {
+      "title": {
+       "pt": "Pré-requisitos",
+       "en": "Prerequisites",
+       "es": "Requisitos previos"
+      },
+      "items": [
+       {
+        "pt": "Acesso administrativo: você deve ser administrador da página do Facebook e ter controle total do perfil do Instagram no seu Gerenciador de Negócios atual.",
+        "en": "Admin access: you must be an admin of the Facebook Page and have full control of the Instagram profile in your current Business Manager.",
+        "es": "Acceso administrativo: debe ser administrador de la página de Facebook y tener control total del perfil de Instagram en su Business Manager actual."
+       },
+       {
+        "pt": "Conta profissional no Instagram: o perfil do Instagram deve ser uma conta comercial ou profissional, vinculada à página do Facebook.",
+        "en": "Instagram professional account: the Instagram profile must be a business or professional account linked to the Facebook Page.",
+        "es": "Cuenta profesional de Instagram: el perfil de Instagram debe ser una cuenta comercial o profesional, vinculada a la página de Facebook."
+       },
+       {
+        "pt": "Acesso ao Meta Business Suite: use um navegador ou o aplicativo Meta Business Suite para gerenciar as configurações.",
+        "en": "Meta Business Suite access: use a browser or the Meta Business Suite app to manage settings.",
+        "es": "Acceso a Meta Business Suite: use un navegador o la app Meta Business Suite para gestionar la configuración."
+       },
+       {
+        "pt": "ID do portfólio de negócios da E/UP: 101.612.724.510.199",
+        "en": "E/UP business portfolio ID: 101.612.724.510.199",
+        "es": "ID del portafolio comercial de E/UP: 101.612.724.510.199"
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "1. Acesse o Meta Business Suite",
+       "en": "1. Open Meta Business Suite",
+       "es": "1. Acceda a Meta Business Suite"
+      },
+      "items": [
+       {
+        "pt": "Faça login no seu perfil pessoal do Facebook.",
+        "en": "Log in to your personal Facebook profile.",
+        "es": "Inicie sesión en su perfil personal de Facebook."
+       },
+       {
+        "pt": "Acesse o Meta Business Suite (business.facebook.com) pelo navegador.",
+        "en": "Go to Meta Business Suite (business.facebook.com) in your browser.",
+        "es": "Acceda a Meta Business Suite (business.facebook.com) desde el navegador."
+       },
+       {
+        "pt": "No menu à esquerda, clique em Configurações do Negócio (ícone de engrenagem).",
+        "en": "In the left menu, click Business Settings (gear icon).",
+        "es": "En el menú de la izquierda, haga clic en Configuración del negocio (ícono de engranaje)."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "2. Verifique a vinculação entre a página do Facebook e o Instagram",
+       "en": "2. Check the link between the Facebook Page and Instagram",
+       "es": "2. Verifique la vinculación entre la página de Facebook e Instagram"
+      },
+      "items": [
+       {
+        "pt": "Na seção Contas, clique em Páginas e selecione a página do Facebook que deseja compartilhar.",
+        "en": "Under Accounts, click Pages and select the Facebook Page you want to share.",
+        "es": "En la sección Cuentas, haga clic en Páginas y seleccione la página de Facebook que desea compartir."
+       },
+       {
+        "pt": "Confirme que você tem a permissão de Controle Total (visível em Pessoas ou Gerenciar).",
+        "en": "Confirm you have Full Control permission (shown under People or Manage).",
+        "es": "Confirme que tiene el permiso de Control total (visible en Personas o Administrar)."
+       },
+       {
+        "pt": "Vá para Contas do Instagram e selecione o perfil vinculado à página. Certifique-se de que ele também está sob seu controle total.",
+        "en": "Go to Instagram Accounts and select the profile linked to the Page. Make sure it is also under your full control.",
+        "es": "Vaya a Cuentas de Instagram y seleccione el perfil vinculado a la página. Asegúrese de que también esté bajo su control total."
+       },
+       {
+        "pt": "Se o Instagram não estiver vinculado, acesse as Configurações da Página no Facebook, clique em Instagram e siga as instruções para vincular a conta comercial.",
+        "en": "If Instagram is not linked, open Page Settings on Facebook, click Instagram and follow the steps to link the business account.",
+        "es": "Si Instagram no está vinculado, acceda a la Configuración de la página en Facebook, haga clic en Instagram y siga las instrucciones para vincular la cuenta comercial."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "3. Adicione a E/UP como parceiro",
+       "en": "3. Add E/UP as a partner",
+       "es": "3. Agregue a E/UP como socio"
+      },
+      "items": [
+       {
+        "pt": "Em Configurações do Negócio, clique em Parceiros no menu à esquerda.",
+        "en": "In Business Settings, click Partners in the left menu.",
+        "es": "En Configuración del negocio, haga clic en Socios en el menú de la izquierda."
+       },
+       {
+        "pt": "Clique em Adicionar e selecione Conceder acesso a um parceiro.",
+        "en": "Click Add and select Give a partner access.",
+        "es": "Haga clic en Agregar y seleccione Dar acceso a un socio."
+       },
+       {
+        "pt": "Insira o ID 101.612.724.510.199 e clique em Avançar.",
+        "en": "Enter the ID 101.612.724.510.199 and click Next.",
+        "es": "Ingrese el ID 101.612.724.510.199 y haga clic en Siguiente."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "4. Atribua permissões para a página do Facebook",
+       "en": "4. Assign permissions for the Facebook Page",
+       "es": "4. Asigne permisos para la página de Facebook"
+      },
+      "items": [
+       {
+        "pt": "Na tela de atribuição de ativos, selecione Páginas e escolha a página do Facebook que deseja compartilhar.",
+        "en": "On the asset assignment screen, select Pages and choose the Facebook Page to share.",
+        "es": "En la pantalla de asignación de activos, seleccione Páginas y elija la página de Facebook que desea compartir."
+       },
+       {
+        "pt": "Ative a opção Controle Total (ou marque todas as permissões disponíveis, como gerenciar página, criar anúncios e visualizar desempenho) e clique em Avançar.",
+        "en": "Turn on Full Control (or tick all available permissions, such as manage Page, create ads and view performance) and click Next.",
+        "es": "Active la opción Control total (o marque todos los permisos disponibles, como administrar la página, crear anuncios y ver rendimiento) y haga clic en Siguiente."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "5. Atribua permissões para o perfil do Instagram",
+       "en": "5. Assign permissions for the Instagram profile",
+       "es": "5. Asigne permisos para el perfil de Instagram"
+      },
+      "items": [
+       {
+        "pt": "Na tela de atribuição de ativos, selecione Contas do Instagram e escolha o perfil que deseja compartilhar.",
+        "en": "On the asset assignment screen, select Instagram Accounts and choose the profile to share.",
+        "es": "En la pantalla de asignación de activos, seleccione Cuentas de Instagram y elija el perfil que desea compartir."
+       },
+       {
+        "pt": "Ative a opção Controle Total (ou marque todas as permissões disponíveis) e clique em Avançar.",
+        "en": "Turn on Full Control (or tick all available permissions) and click Next.",
+        "es": "Active la opción Control total (o marque todos los permisos disponibles) y haga clic en Siguiente."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "Observações importantes",
+       "en": "Important notes",
+       "es": "Observaciones importantes"
+      },
+      "items": [
+       {
+        "pt": "Propriedade não é transferida: conceder acesso como parceiro não transfere a propriedade da página ou do perfil. Você continua sendo o proprietário principal.",
+        "en": "Ownership is not transferred: granting partner access does not transfer ownership of the Page or profile. You remain the main owner.",
+        "es": "La propiedad no se transfiere: dar acceso como socio no transfiere la propiedad de la página o del perfil. Usted sigue siendo el propietario principal."
+       },
+       {
+        "pt": "Revogação de acesso: se necessário, remova o acesso do parceiro em Configurações do Negócio > Parceiros, nos três pontos ao lado do parceiro > Remover.",
+        "en": "Revoking access: if needed, remove partner access in Business Settings > Partners, via the three dots next to the partner > Remove.",
+        "es": "Revocación de acceso: si es necesario, quite el acceso del socio en Configuración del negocio > Socios, en los tres puntos junto al socio > Quitar."
+       },
+       {
+        "pt": "Permissões específicas: se não quiser conceder controle total, é possível selecionar permissões parciais (ex.: apenas visualizar insights ou gerenciar anúncios).",
+        "en": "Specific permissions: if you do not want to grant full control, you can select partial permissions (e.g. only view insights or manage ads).",
+        "es": "Permisos específicos: si no desea dar control total, puede seleccionar permisos parciales (ej.: solo ver estadísticas o administrar anuncios)."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "Problemas comuns",
+       "en": "Common issues",
+       "es": "Problemas comunes"
+      },
+      "items": [
+       {
+        "pt": "Instagram não vinculado: confira se o Instagram está conectado à página do Facebook nas configurações.",
+        "en": "Instagram not linked: check that Instagram is connected to the Facebook Page in settings.",
+        "es": "Instagram no vinculado: verifique que Instagram esté conectado a la página de Facebook en la configuración."
+       },
+       {
+        "pt": "Falta de permissões: você deve ter controle total no seu portfólio. Se não tiver, solicite ao administrador atual.",
+        "en": "Missing permissions: you need full control of your portfolio. If you do not have it, ask the current admin.",
+        "es": "Falta de permisos: debe tener control total en su portafolio. Si no lo tiene, solicítelo al administrador actual."
+       },
+       {
+        "pt": "Convite não recebido: o convite pode cair no spam do e-mail do outro administrador ou demorar alguns minutos para aparecer.",
+        "en": "Invite not received: it may land in the other admin’s spam folder or take a few minutes to appear.",
+        "es": "Invitación no recibida: puede llegar al spam del correo del otro administrador o tardar algunos minutos en aparecer."
+       },
+       {
+        "pt": "Segurança: nunca compartilhe senhas. O processo de parceiros é seguro e não expõe suas informações pessoais.",
+        "en": "Security: never share passwords. The partner process is secure and does not expose your personal information.",
+        "es": "Seguridad: nunca comparta contraseñas. El proceso de socios es seguro y no expone su información personal."
+       }
+      ]
+     }
+    ],
+    "links": [
+     {
+      "label": {
+       "pt": "Meta: Adicionar pessoas à página no Gerenciador de Negócios",
+       "en": "Meta: Add people to a Page in Business Manager",
+       "es": "Meta: Agregar personas a la página en el Administrador comercial"
+      },
+      "url": "https://pt-br.facebook.com/business/help/216009091753099"
+     },
+     {
+      "label": {
+       "pt": "Meta: Adicionar uma conta do Instagram ao Gerenciador de Negócios",
+       "en": "Meta: Add an Instagram account to Business Manager",
+       "es": "Meta: Agregar una cuenta de Instagram al Administrador comercial"
+      },
+      "url": "https://pt-br.facebook.com/business/help/898763773518432"
+     },
+     {
+      "label": {
+       "pt": "Meta: Ver e editar permissões no Gerenciador de Negócios",
+       "en": "Meta: View and edit permissions in Business Manager",
+       "es": "Meta: Ver y editar permisos en el Administrador comercial"
+      },
+      "url": "https://pt-br.facebook.com/business/help/1676232959084895"
+     }
+    ]
+   },
+   "formats": [
+    {
+     "id": "meta-image",
+     "name": {
+      "pt": "Imagem",
+      "en": "Image",
+      "es": "Imagen"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       {
+        "pt": "JPG ou PNG",
+        "en": "JPG or PNG",
+        "es": "JPG o PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       {
+        "pt": "1,91:1 a 4:5",
+        "en": "1.91:1 to 4:5",
+        "es": "1,91:1 a 4:5"
+       }
+      ],
+      [
+       {
+        "pt": "Proporção 1:1",
+        "en": "1:1 ratio",
+        "es": "Proporción 1:1"
+       },
+       {
+        "pt": "1.440 x 1.440 pixels",
+        "en": "1,440 x 1,440 pixels",
+        "es": "1.440 x 1.440 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Proporção 4:5",
+        "en": "4:5 ratio",
+        "es": "Proporción 4:5"
+       },
+       {
+        "pt": "1.440 x 1.800 pixels",
+        "en": "1,440 x 1,800 pixels",
+        "es": "1.440 x 1.800 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Texto principal",
+        "en": "Primary text",
+        "es": "Texto principal"
+       },
+       {
+        "pt": "50 a 150 caracteres",
+        "en": "50 to 150 characters",
+        "es": "50 a 150 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Título",
+        "en": "Headline",
+        "es": "Título"
+       },
+       {
+        "pt": "27 caracteres",
+        "en": "27 characters",
+        "es": "27 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho máximo do arquivo",
+        "en": "Maximum file size",
+        "es": "Tamaño máximo del archivo"
+       },
+       "30 MB"
+      ],
+      [
+       {
+        "pt": "Largura mínima",
+        "en": "Minimum width",
+        "es": "Ancho mínimo"
+       },
+       "600 pixels"
+      ],
+      [
+       {
+        "pt": "Altura mínima",
+        "en": "Minimum height",
+        "es": "Altura mínima"
+       },
+       {
+        "pt": "Proporção 1:1: 600 pixels · Proporção 4:5: 750 pixels",
+        "en": "1:1 ratio: 600 pixels · 4:5 ratio: 750 pixels",
+        "es": "Proporción 1:1: 600 píxeles · Proporción 4:5: 750 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Tolerância da taxa de proporção",
+        "en": "Aspect ratio tolerance",
+        "es": "Tolerancia de proporción"
+       },
+       "3%"
+      ]
+     ]
+    },
+    {
+     "id": "meta-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "MP4"
+      ],
+      [
+       {
+        "pt": "Taxa de proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       {
+        "pt": "1:1 (para desktop ou dispositivos móveis) ou 4:5 (apenas para dispositivos móveis)",
+        "en": "1:1 (desktop or mobile) or 4:5 (mobile only)",
+        "es": "1:1 (desktop o móvil) o 4:5 (solo móvil)"
+       }
+      ],
+      [
+       {
+        "pt": "Resolução",
+        "en": "Resolution",
+        "es": "Resolución"
+       },
+       {
+        "pt": "Proporção 1:1: 1.440 x 1.440 pixels · Proporção 4:5: 1.440 x 1.800 pixels",
+        "en": "1:1 ratio: 1,440 x 1,440 pixels · 4:5 ratio: 1,440 x 1,800 pixels",
+        "es": "Proporción 1:1: 1.440 x 1.440 píxeles · Proporción 4:5: 1.440 x 1.800 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Texto principal",
+        "en": "Primary text",
+        "es": "Texto principal"
+       },
+       {
+        "pt": "50 a 150 caracteres",
+        "en": "50 to 150 characters",
+        "es": "50 a 150 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Título",
+        "en": "Headline",
+        "es": "Título"
+       },
+       {
+        "pt": "27 caracteres",
+        "en": "27 characters",
+        "es": "27 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Configurações de vídeo",
+        "en": "Video settings",
+        "es": "Configuración de video"
+       },
+       {
+        "pt": "Compressão H.264, pixels quadrados, taxa de quadros fixa, varredura progressiva e compressão de áudio AAC estéreo em 128 kbps ou mais",
+        "en": "H.264 compression, square pixels, fixed frame rate, progressive scan and AAC stereo audio compression at 128 kbps or higher",
+        "es": "Compresión H.264, píxeles cuadrados, frame rate fijo, escaneo progresivo y compresión de audio AAC estéreo a 128 kbps o más"
+       }
+      ],
+      [
+       {
+        "pt": "Legendas do vídeo",
+        "en": "Video captions",
+        "es": "Subtítulos del video"
+       },
+       {
+        "pt": "Opcional, mas recomendado",
+        "en": "Optional, but recommended",
+        "es": "Opcional, pero recomendado"
+       }
+      ],
+      [
+       {
+        "pt": "Áudio do vídeo",
+        "en": "Video audio",
+        "es": "Audio del video"
+       },
+       {
+        "pt": "Opcional, mas recomendado",
+        "en": "Optional, but recommended",
+        "es": "Opcional, pero recomendado"
+       }
+      ],
+      [
+       {
+        "pt": "Duração",
+        "en": "Duration",
+        "es": "Duración"
+       },
+       {
+        "pt": "1 segundo a 241 minutos",
+        "en": "1 second to 241 minutes",
+        "es": "1 segundo a 241 minutos"
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho máximo do arquivo",
+        "en": "Maximum file size",
+        "es": "Tamaño máximo del archivo"
+       },
+       "4 GB"
+      ],
+      [
+       {
+        "pt": "Largura / altura mínima",
+        "en": "Minimum width / height",
+        "es": "Ancho / altura mínima"
+       },
+       "120 pixels / 120 pixels"
+      ]
+     ]
+    },
+    {
+     "id": "meta-carousel",
+     "name": {
+      "pt": "Carrossel",
+      "en": "Carousel",
+      "es": "Carrusel"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Tipo de arquivo de imagem",
+        "en": "Image file type",
+        "es": "Tipo de archivo de imagen"
+       },
+       {
+        "pt": "JPG ou PNG",
+        "en": "JPG or PNG",
+        "es": "JPG o PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Tipos de arquivo de vídeo",
+        "en": "Video file types",
+        "es": "Tipos de archivo de video"
+       },
+       {
+        "pt": "MP4, MOV ou GIF",
+        "en": "MP4, MOV or GIF",
+        "es": "MP4, MOV o GIF"
+       }
+      ],
+      [
+       {
+        "pt": "Proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       {
+        "pt": "1:1 ou 4:5",
+        "en": "1:1 or 4:5",
+        "es": "1:1 o 4:5"
+       }
+      ],
+      [
+       {
+        "pt": "Resolução",
+        "en": "Resolution",
+        "es": "Resolución"
+       },
+       {
+        "pt": "Pelo menos 1.080 x 1.080 pixels",
+        "en": "At least 1,080 x 1,080 pixels",
+        "es": "Al menos 1.080 x 1.080 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Texto principal",
+        "en": "Primary text",
+        "es": "Texto principal"
+       },
+       {
+        "pt": "80 caracteres",
+        "en": "80 characters",
+        "es": "80 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Título",
+        "en": "Headline",
+        "es": "Título"
+       },
+       {
+        "pt": "45 caracteres",
+        "en": "45 characters",
+        "es": "45 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Descrição",
+        "en": "Description",
+        "es": "Descripción"
+       },
+       {
+        "pt": "18 caracteres",
+        "en": "18 characters",
+        "es": "18 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "URL da página de destino",
+        "en": "Landing page URL",
+        "es": "URL de la página de destino"
+       },
+       {
+        "pt": "Obrigatória",
+        "en": "Required",
+        "es": "Obligatoria"
+       }
+      ],
+      [
+       {
+        "pt": "Número de cartões do carrossel",
+        "en": "Number of carousel cards",
+        "es": "Número de tarjetas del carrusel"
+       },
+       {
+        "pt": "Dois a dez",
+        "en": "Two to ten",
+        "es": "Dos a diez"
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho máximo do arquivo de imagem",
+        "en": "Maximum image file size",
+        "es": "Tamaño máximo del archivo de imagen"
+       },
+       "30 MB"
+      ],
+      [
+       {
+        "pt": "Tamanho máximo do arquivo de vídeo",
+        "en": "Maximum video file size",
+        "es": "Tamaño máximo del archivo de video"
+       },
+       "4 GB"
+      ],
+      [
+       {
+        "pt": "Duração do vídeo",
+        "en": "Video duration",
+        "es": "Duración del video"
+       },
+       {
+        "pt": "1 segundo a 240 minutos",
+        "en": "1 second to 240 minutes",
+        "es": "1 segundo a 240 minutos"
+       }
+      ],
+      [
+       {
+        "pt": "Tolerância da taxa de proporção",
+        "en": "Aspect ratio tolerance",
+        "es": "Tolerancia de proporción"
+       },
+       "3%"
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "tiktok-ads",
+   "name": "TikTok Ads",
+   "cat": "social",
+   "order": 18,
+   "names": {
+    "pt": "TikTok Ads",
+    "en": "TikTok Ads",
+    "es": "TikTok Ads"
+   },
+   "tagline": {
+    "pt": "Vídeo, texto, perfil e marca",
+    "en": "Video, text, profile and brand",
+    "es": "Video, texto, perfil y marca"
+   },
+   "keywords": "tiktok tik tok tiktok ads",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 43",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 43",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 43"
+   },
+   "access": {
+    "title": {
+     "pt": "Como dar acesso à E/UP (TikTok Business Center)",
+     "en": "How to grant E/UP access (TikTok Business Center)",
+     "es": "Cómo dar acceso a E/UP (TikTok Business Center)"
+    },
+    "intro": {
+     "pt": "Tutorial para conceder à E/UP acesso ao seu perfil do TikTok pelo TikTok Business Center.",
+     "en": "Tutorial to grant E/UP access to your TikTok profile through TikTok Business Center.",
+     "es": "Tutorial para dar a E/UP acceso a su perfil de TikTok a través de TikTok Business Center."
+    },
+    "groups": [
+     {
+      "title": {
+       "pt": "Pré-requisitos",
+       "en": "Prerequisites",
+       "es": "Requisitos previos"
+      },
+      "items": [
+       {
+        "pt": "Conta TikTok ativa: o perfil do TikTok que você deseja que usemos para os anúncios.",
+        "en": "Active TikTok account: the TikTok profile you want us to use for ads.",
+        "es": "Cuenta de TikTok activa: el perfil de TikTok que desea que usemos para los anuncios."
+       },
+       {
+        "pt": "E-mail ou telefone vinculado à conta TikTok, para fazer login e gerenciar permissões.",
+        "en": "E-mail or phone linked to the TikTok account, to log in and manage permissions.",
+        "es": "E-mail o teléfono vinculado a la cuenta de TikTok, para iniciar sesión y gestionar permisos."
+       },
+       {
+        "pt": "ID do TikTok Business Center da E/UP: Informação técnica pendente de validação",
+        "en": "E/UP TikTok Business Center ID: Technical information pending validation",
+        "es": "ID del TikTok Business Center de E/UP: Información técnica pendiente de validación"
+       },
+       {
+        "pt": "Conta empresarial no TikTok: seu perfil precisa ser uma conta empresarial (não pessoal) para anúncios. Se não for, veja o passo 1.",
+        "en": "TikTok business account: your profile must be a business (not personal) account for ads. If it is not, see step 1.",
+        "es": "Cuenta empresarial de TikTok: su perfil debe ser una cuenta empresarial (no personal) para anuncios. Si no lo es, vea el paso 1."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "1. Converta seu perfil para conta empresarial (se necessário)",
+       "en": "1. Switch your profile to a business account (if needed)",
+       "es": "1. Convierta su perfil en cuenta empresarial (si es necesario)"
+      },
+      "items": [
+       {
+        "pt": "Abra o aplicativo do TikTok no celular e toque no ícone de Perfil, no canto inferior direito.",
+        "en": "Open the TikTok app and tap the Profile icon in the bottom-right corner.",
+        "es": "Abra la app de TikTok en el celular y toque el ícono de Perfil, en la esquina inferior derecha."
+       },
+       {
+        "pt": "Toque nos três pontinhos (ou três linhas) no canto superior direito para abrir Configurações e Privacidade.",
+        "en": "Tap the three dots (or three lines) in the top-right corner to open Settings and Privacy.",
+        "es": "Toque los tres puntos (o tres líneas) en la esquina superior derecha para abrir Configuración y privacidad."
+       },
+       {
+        "pt": "Vá em Gerenciar conta > Alternar para conta empresarial. Se aparecer “Alternar para conta pessoal”, sua conta já é empresarial.",
+        "en": "Go to Manage account > Switch to Business Account. If you see “Switch to Personal Account”, your account is already a business account.",
+        "es": "Vaya a Administrar cuenta > Cambiar a cuenta empresarial. Si aparece “Cambiar a cuenta personal”, su cuenta ya es empresarial."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "2. Crie ou acesse sua conta no TikTok Business Center",
+       "en": "2. Create or access your TikTok Business Center account",
+       "es": "2. Cree o acceda a su cuenta en TikTok Business Center"
+      },
+      "items": [
+       {
+        "pt": "No navegador, acesse business.tiktok.com e clique em Fazer login com a mesma conta usada no aplicativo (e-mail, telefone ou QR code).",
+        "en": "In your browser, go to business.tiktok.com and log in with the same account you use in the app (e-mail, phone or QR code).",
+        "es": "En el navegador, acceda a business.tiktok.com e inicie sesión con la misma cuenta que usa en la app (e-mail, teléfono o código QR)."
+       },
+       {
+        "pt": "Se for a primeira vez, clique em Criar Agora, informe um nome para o Business Center, escolha o fuso horário (ex.: Brasília, GMT-3) e clique em Enviar.",
+        "en": "If it is your first time, click Create Now, enter a Business Center name, choose the time zone (e.g. Brasília, GMT-3) and click Submit.",
+        "es": "Si es la primera vez, haga clic en Crear ahora, ingrese un nombre para el Business Center, elija la zona horaria (ej.: Brasilia, GMT-3) y haga clic en Enviar."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "3. Vincule seu perfil TikTok ao Business Center",
+       "en": "3. Link your TikTok profile to Business Center",
+       "es": "3. Vincule su perfil de TikTok al Business Center"
+      },
+      "items": [
+       {
+        "pt": "No Business Center, clique no ícone de Perfil (canto superior direito) e vá em Configurações do Usuário.",
+        "en": "In Business Center, click the Profile icon (top right) and go to User Settings.",
+        "es": "En el Business Center, haga clic en el ícono de Perfil (esquina superior derecha) y vaya a Configuración de usuario."
+       },
+       {
+        "pt": "Em Informações Pessoais > Perfil, clique em Vincular Conta TikTok e faça login com a conta do perfil que será compartilhado.",
+        "en": "Under Personal Information > Profile, click Link TikTok Account and log in with the profile to be shared.",
+        "es": "En Información personal > Perfil, haga clic en Vincular cuenta de TikTok e inicie sesión con la cuenta del perfil que se compartirá."
+       },
+       {
+        "pt": "Clique em Autorizar e confirme que o perfil aparece na seção Conta TikTok.",
+        "en": "Click Authorize and confirm the profile appears under TikTok Account.",
+        "es": "Haga clic en Autorizar y confirme que el perfil aparece en la sección Cuenta de TikTok."
+       }
+      ]
+     },
+     {
+      "title": {
+       "pt": "4. Conceda acesso à E/UP",
+       "en": "4. Grant access to E/UP",
+       "es": "4. Conceda acceso a E/UP"
+      },
+      "items": [
+       {
+        "pt": "No menu à esquerda, clique em Ativos (Assets) > Contas TikTok (TikTok Accounts) e selecione seu perfil.",
+        "en": "In the left menu, click Assets > TikTok Accounts and select your profile.",
+        "es": "En el menú de la izquierda, haga clic en Activos (Assets) > Cuentas de TikTok (TikTok Accounts) y seleccione su perfil."
+       },
+       {
+        "pt": "Clique em Adicionar Parceiro (Add Partner) ou Atribuir Parceiro (Assign Partner) e insira o ID do Business Center da E/UP.",
+        "en": "Click Add Partner or Assign Partner and enter the E/UP Business Center ID.",
+        "es": "Haga clic en Agregar socio (Add Partner) o Asignar socio (Assign Partner) e ingrese el ID del Business Center de E/UP."
+       },
+       {
+        "pt": "Marque Administrador (recomendado para criar e gerenciar anúncios, gerenciar conteúdo e acessar relatórios) e clique em Confirmar. A E/UP recebe a notificação e aceita o acesso.",
+        "en": "Tick Admin (recommended to create and manage ads, manage content and access reports) and click Confirm. E/UP receives the notification and accepts access.",
+        "es": "Marque Administrador (recomendado para crear y gestionar anuncios, gestionar contenido y acceder a informes) y haga clic en Confirmar. E/UP recibe la notificación y acepta el acceso."
+       }
+      ]
+     }
+    ],
+    "pending": [
+     {
+      "pt": "ID do TikTok Business Center da E/UP: a fonte traz dois números diferentes. Confirme com a equipe E/UP antes de conceder o acesso.",
+      "en": "E/UP TikTok Business Center ID: the source shows two different numbers. Confirm with the E/UP team before granting access.",
+      "es": "ID del TikTok Business Center de E/UP: la fuente muestra dos números distintos. Confirme con el equipo de E/UP antes de dar el acceso."
+     }
+    ]
+   },
+   "formats": [
+    {
+     "id": "tiktok-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       "MP4"
+      ],
+      [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       {
+        "pt": "540x960 pixels (9:16), 640×640 pixels (1:1) ou 960x540 pixels (16:9)",
+        "en": "540x960 pixels (9:16), 640×640 pixels (1:1) or 960x540 pixels (16:9)",
+        "es": "540x960 píxeles (9:16), 640×640 píxeles (1:1) o 960x540 píxeles (16:9)"
+       }
+      ],
+      [
+       {
+        "pt": "Duração do vídeo",
+        "en": "Video duration",
+        "es": "Duración del video"
+       },
+       {
+        "pt": "5 a 60 segundos. Sugerimos vídeos curtos de 9 a 15 segundos.",
+        "en": "5 to 60 seconds. Short 9 to 15 second videos are suggested.",
+        "es": "5 a 60 segundos. Sugerimos videos cortos de 9 a 15 segundos."
+       }
+      ],
+      [
+       {
+        "pt": "Peso do arquivo",
+        "en": "File size",
+        "es": "Peso del archivo"
+       },
+       {
+        "pt": "Até 500 MB",
+        "en": "Up to 500 MB",
+        "es": "Hasta 500 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Texto",
+        "en": "Text",
+        "es": "Texto"
+       },
+       {
+        "pt": "Até 100 caracteres. Emojis, “{}” e “#” não podem aparecer na descrição. Pontuações e espaços também ocuparão caracteres.",
+        "en": "Up to 100 characters. Emojis, “{}” and “#” cannot appear in the description. Punctuation and spaces also count as characters.",
+        "es": "Hasta 100 caracteres. Emojis, “{}” y “#” no pueden aparecer en la descripción. Puntuación y espacios también cuentan como caracteres."
+       }
+      ],
+      [
+       {
+        "pt": "Imagem do perfil",
+        "en": "Profile image",
+        "es": "Imagen de perfil"
+       },
+       {
+        "pt": "Tamanho: (1:1 ratio) · Formatos: JPG, JPEG e PNG · Peso do arquivo: até 50 MB",
+        "en": "Size: (1:1 ratio) · Formats: JPG, JPEG and PNG · File size: up to 50 MB",
+        "es": "Tamaño: (1:1 ratio) · Formatos: JPG, JPEG y PNG · Peso del archivo: hasta 50 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Nome da marca",
+        "en": "Brand name",
+        "es": "Nombre de la marca"
+       },
+       {
+        "pt": "Para nomes de aplicativos: 4 a 40 caracteres. Para nomes de marcas: 2 a 20 caracteres. Emojis não podem aparecer no nome do aplicativo ou na marca. Pontuações e espaços também ocuparão caracteres.",
+        "en": "App names: 4 to 40 characters. Brand names: 2 to 20 characters. Emojis cannot appear in the app or brand name. Punctuation and spaces also count as characters.",
+        "es": "Nombres de aplicaciones: 4 a 40 caracteres. Nombres de marcas: 2 a 20 caracteres. Emojis no pueden aparecer en el nombre de la aplicación o marca. Puntuación y espacios también cuentan como caracteres."
+       }
+      ]
+     ],
+     "notes": [
+      {
+       "pt": "Dependendo do modelo do telefone e do sistema operacional, o texto mais longo pode correr o risco de não aparecer completamente na tela.",
+       "en": "Depending on the phone model and operating system, longer text may not appear fully on screen.",
+       "es": "Según el modelo de teléfono y el sistema operativo, el texto más largo puede no aparecer completo en la pantalla."
+      }
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "linkedin-ads",
+   "name": "LinkedIn Ads",
+   "cat": "social",
+   "order": 19,
+   "names": {
+    "pt": "LinkedIn Ads",
+    "en": "LinkedIn Ads",
+    "es": "LinkedIn Ads"
+   },
+   "tagline": {
+    "pt": "Anúncio estático e vídeo",
+    "en": "Single image and video ads",
+    "es": "Anuncio estático y video"
+   },
+   "keywords": "linkedin li linkedin ads b2b",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 44–46",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 44–46",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 44–46"
+   },
+   "formats": [
+    {
+     "id": "linkedin-static",
+     "name": {
+      "pt": "Anúncio estático",
+      "en": "Single image ad",
+      "es": "Anuncio estático"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Formato do arquivo",
+        "en": "File format",
+        "es": "Formato del archivo"
+       },
+       ".jpg, .png ou .gif"
+      ],
+      [
+       {
+        "pt": "Tamanho do arquivo",
+        "en": "File size",
+        "es": "Tamaño del archivo"
+       },
+       "5 MB"
+      ],
+      [
+       {
+        "pt": "Proporção da imagem",
+        "en": "Image aspect ratio",
+        "es": "Proporción de la imagen"
+       },
+       {
+        "pt": "1.91:1 (horizontal, para computadores e dispositivos móveis) · 1:1 (quadrada, para computadores e dispositivos móveis) · 1:1.91 (vertical, somente para dispositivos móveis)",
+        "en": "1.91:1 (horizontal, desktop and mobile) · 1:1 (square, desktop and mobile) · 1:1.91 (vertical, mobile only)",
+        "es": "1.91:1 (horizontal, computadoras y móviles) · 1:1 (cuadrada, computadoras y móviles) · 1:1.91 (vertical, solo móviles)"
+       }
+      ],
+      [
+       {
+        "pt": "Nome do anúncio (opcional)",
+        "en": "Ad name (optional)",
+        "es": "Nombre del anuncio (opcional)"
+       },
+       {
+        "pt": "255 caracteres",
+        "en": "255 characters",
+        "es": "255 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Título",
+        "en": "Headline",
+        "es": "Título"
+       },
+       {
+        "pt": "70 caracteres",
+        "en": "70 characters",
+        "es": "70 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Texto de apresentação",
+        "en": "Introductory text",
+        "es": "Texto de presentación"
+       },
+       {
+        "pt": "150 caracteres",
+        "en": "150 characters",
+        "es": "150 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Descrição (somente para LAN)",
+        "en": "Description (LAN only)",
+        "es": "Descripción (solo LAN)"
+       },
+       {
+        "pt": "70 caracteres. Exigido somente se estiver usando a LinkedIn Audience Network (LAN).",
+        "en": "70 characters. Required only when using the LinkedIn Audience Network (LAN).",
+        "es": "70 caracteres. Exigido solo si usa LinkedIn Audience Network (LAN)."
+       }
+      ],
+      [
+       {
+        "pt": "Altura / largura máxima",
+        "en": "Maximum height / width",
+        "es": "Altura / ancho máximo"
+       },
+       {
+        "pt": "7.680 pixels / 4.320 pixels",
+        "en": "7,680 pixels / 4,320 pixels",
+        "es": "7.680 píxeles / 4.320 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Largura mínima",
+        "en": "Minimum width",
+        "es": "Ancho mínimo"
+       },
+       "400 pixels"
+      ],
+      [
+       {
+        "pt": "URL da página de destino",
+        "en": "Landing page URL",
+        "es": "URL de la página de destino"
+       },
+       {
+        "pt": "Obrigatório · Prefixo: http:// ou https:// · 2.000 caracteres por URL de campo de destino",
+        "en": "Required · Prefix: http:// or https:// · 2,000 characters per destination URL field",
+        "es": "Obligatorio · Prefijo: http:// o https:// · 2.000 caracteres por campo de URL de destino"
+       }
+      ]
+     ]
+    },
+    {
+     "id": "linkedin-video",
+     "name": {
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "specs": [
+      [
+       {
+        "pt": "Tipo de arquivo de vídeo",
+        "en": "Video file type",
+        "es": "Tipo de archivo de video"
+       },
+       "MP4"
+      ],
+      [
+       {
+        "pt": "Formato de som do vídeo",
+        "en": "Video audio format",
+        "es": "Formato de sonido del video"
+       },
+       {
+        "pt": "AAC ou MPEG4",
+        "en": "AAC or MPEG4",
+        "es": "AAC o MPEG4"
+       }
+      ],
+      [
+       {
+        "pt": "Taxa de quadros recomendada",
+        "en": "Recommended frame rate",
+        "es": "Frame rate recomendado"
+       },
+       {
+        "pt": "30 quadros por segundo",
+        "en": "30 frames per second",
+        "es": "30 cuadros por segundo"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem em miniatura personalizada",
+        "en": "Custom thumbnail",
+        "es": "Miniatura personalizada"
+       },
+       {
+        "pt": "Opcional, mas recomendada",
+        "en": "Optional, but recommended",
+        "es": "Opcional, pero recomendada"
+       }
+      ],
+      [
+       {
+        "pt": "Proporção",
+        "en": "Aspect ratio",
+        "es": "Proporción"
+       },
+       {
+        "pt": "4:5 (vertical, 0,8) · 9:16 (vertical, 0,57) · 16:9 (paisagem, 1,78) · 1:1 (quadrada, 1,0)",
+        "en": "4:5 (vertical, 0.8) · 9:16 (vertical, 0.57) · 16:9 (landscape, 1.78) · 1:1 (square, 1.0)",
+        "es": "4:5 (vertical, 0,8) · 9:16 (vertical, 0,57) · 16:9 (horizontal, 1,78) · 1:1 (cuadrada, 1,0)"
+       }
+      ],
+      [
+       {
+        "pt": "Nome do anúncio (opcional)",
+        "en": "Ad name (optional)",
+        "es": "Nombre del anuncio (opcional)"
+       },
+       {
+        "pt": "255 caracteres",
+        "en": "255 characters",
+        "es": "255 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Título",
+        "en": "Headline",
+        "es": "Título"
+       },
+       {
+        "pt": "70 caracteres. Máximo: 200 caracteres",
+        "en": "70 characters. Maximum: 200 characters",
+        "es": "70 caracteres. Máximo: 200 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Texto introdutório",
+        "en": "Introductory text",
+        "es": "Texto introductorio"
+       },
+       {
+        "pt": "150 caracteres. Máximo: 600 caracteres",
+        "en": "150 characters. Maximum: 600 characters",
+        "es": "150 caracteres. Máximo: 600 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Tamanho do arquivo de vídeo",
+        "en": "Video file size",
+        "es": "Tamaño del archivo de video"
+       },
+       {
+        "pt": "75 KB (mín.) - 200 MB (máx.)",
+        "en": "75 KB (min.) - 200 MB (max.)",
+        "es": "75 KB (mín.) - 200 MB (máx.)"
+       }
+      ],
+      [
+       {
+        "pt": "Duração do vídeo",
+        "en": "Video duration",
+        "es": "Duración del video"
+       },
+       {
+        "pt": "3 segundos - 30 minutos",
+        "en": "3 seconds - 30 minutes",
+        "es": "3 segundos - 30 minutos"
+       }
+      ],
+      [
+       {
+        "pt": "Legendas (opcional)",
+        "en": "Captions (optional)",
+        "es": "Subtítulos (opcional)"
+       },
+       {
+        "pt": "Arquivo de som de vídeo com menos que 64 KHz",
+        "en": "Video sound file under 64 KHz",
+        "es": "Archivo de sonido de video con menos de 64 KHz"
+       }
+      ],
+      [
+       {
+        "pt": "Largura mín. / máx.",
+        "en": "Width min. / max.",
+        "es": "Ancho mín. / máx."
+       },
+       "360 pixels / 1920 pixels"
+      ],
+      [
+       {
+        "pt": "Altura mín. / máx.",
+        "en": "Height min. / max.",
+        "es": "Altura mín. / máx."
+       },
+       "360 pixels / 1920 pixels"
+      ],
+      [
+       {
+        "pt": "Proporção mín. / máx.",
+        "en": "Aspect ratio min. / max.",
+        "es": "Proporción mín. / máx."
+       },
+       "9:16 (0.563) / 16:9 (1.778)"
+      ],
+      [
+       {
+        "pt": "Vertical (4:5)",
+        "en": "Vertical (4:5)",
+        "es": "Vertical (4:5)"
+       },
+       {
+        "pt": "Mínimo de 360 x 450 pixels · Máximo de 1080 x 1350 pixels",
+        "en": "Minimum 360 x 450 pixels · Maximum 1080 x 1350 pixels",
+        "es": "Mínimo de 360 x 450 píxeles · Máximo de 1080 x 1350 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Vertical (9:16)",
+        "en": "Vertical (9:16)",
+        "es": "Vertical (9:16)"
+       },
+       {
+        "pt": "Mínimo de 360 x 640 pixels · Máximo de 1080 x 1920 pixels",
+        "en": "Minimum 360 x 640 pixels · Maximum 1080 x 1920 pixels",
+        "es": "Mínimo de 360 x 640 píxeles · Máximo de 1080 x 1920 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Paisagem (16:9)",
+        "en": "Landscape (16:9)",
+        "es": "Horizontal (16:9)"
+       },
+       {
+        "pt": "Mínimo de 640 x 360 pixels · Máximo de 1920 x 1080 pixels",
+        "en": "Minimum 640 x 360 pixels · Maximum 1920 x 1080 pixels",
+        "es": "Mínimo de 640 x 360 píxeles · Máximo de 1920 x 1080 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Quadrado (1:1)",
+        "en": "Square (1:1)",
+        "es": "Cuadrado (1:1)"
+       },
+       {
+        "pt": "Mínimo de 360 x 360 pixels · Máximo de 1920 x 1920 pixels",
+        "en": "Minimum 360 x 360 pixels · Maximum 1920 x 1920 pixels",
+        "es": "Mínimo de 360 x 360 píxeles · Máximo de 1920 x 1920 píxeles"
+       }
+      ],
+      [
+       {
+        "pt": "Tolerância da proporção",
+        "en": "Aspect ratio tolerance",
+        "es": "Tolerancia de proporción"
+       },
+       "5%"
+      ],
+      [
+       {
+        "pt": "Miniatura — formato",
+        "en": "Thumbnail — format",
+        "es": "Miniatura — formato"
+       },
+       {
+        "pt": "JPG ou PNG",
+        "en": "JPG or PNG",
+        "es": "JPG o PNG"
+       }
+      ],
+      [
+       {
+        "pt": "Miniatura — tamanho máximo",
+        "en": "Thumbnail — maximum file size",
+        "es": "Miniatura — tamaño máximo"
+       },
+       {
+        "pt": "2 MB de vídeo",
+        "en": "2 MB",
+        "es": "2 MB"
+       }
+      ],
+      [
+       {
+        "pt": "Miniatura — proporção e resolução",
+        "en": "Thumbnail — ratio and resolution",
+        "es": "Miniatura — proporción y resolución"
+       },
+       {
+        "pt": "Igual ao vídeo",
+        "en": "Same as the video",
+        "es": "Igual al video"
+       }
+      ],
+      [
+       {
+        "pt": "URL da página de destino",
+        "en": "Landing page URL",
+        "es": "URL de la página de destino"
+       },
+       {
+        "pt": "Obrigatório · Prefixo: http:// ou https:// · 2.000 caracteres por URL de campo de destino",
+        "en": "Required · Prefix: http:// or https:// · 2,000 characters per destination URL field",
+        "es": "Obligatorio · Prefijo: http:// o https:// · 2.000 caracteres por campo de URL de destino"
+       }
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "push",
+   "name": "Push",
+   "cat": "push",
+   "order": 20,
+   "names": {
+    "pt": "Push",
+    "en": "Push",
+    "es": "Push"
+   },
+   "tagline": {
+    "pt": "Notificação push: ícone, título, descrição e imagem",
+    "en": "Push notification: icon, title, description and image",
+    "es": "Notificación push: ícono, título, descripción e imagen"
+   },
+   "keywords": "push push notification notificacao push web push",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 50",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 50",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 50"
+   },
+   "formats": [
+    {
+     "id": "push-creative",
+     "name": {
+      "pt": "Criativo Push",
+      "en": "Push creative",
+      "es": "Creativo Push"
+     },
+     "intro": {
+      "pt": "O que precisamos receber de texto e imagem:",
+      "en": "Text and image we need to receive:",
+      "es": "Texto e imagen que necesitamos recibir:"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Icon (obrigatório)",
+        "en": "Icon (required)",
+        "es": "Icon (obligatorio)"
+       },
+       {
+        "pt": "Mín. 192x192 px · jpg, jpeg, png",
+        "en": "Min. 192x192 px · jpg, jpeg, png",
+        "es": "Mín. 192x192 px · jpg, jpeg, png"
+       }
+      ],
+      [
+       {
+        "pt": "Title (obrigatório)",
+        "en": "Title (required)",
+        "es": "Title (obligatorio)"
+       },
+       {
+        "pt": "30 caracteres",
+        "en": "30 characters",
+        "es": "30 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Description (obrigatório)",
+        "en": "Description (required)",
+        "es": "Description (obligatorio)"
+       },
+       {
+        "pt": "45 caracteres",
+        "en": "45 characters",
+        "es": "45 caracteres"
+       }
+      ],
+      [
+       {
+        "pt": "Image",
+        "en": "Image",
+        "es": "Image"
+       },
+       {
+        "pt": "Mín. 492x328 · jpeg, jpg, png. A imagem final se adapta ao dispositivo em que será exibida.",
+        "en": "Min. 492x328 · jpeg, jpg, png. The final image adapts to the device where it will be displayed.",
+        "es": "Mín. 492x328 · jpeg, jpg, png. La imagen final se adapta al dispositivo donde se mostrará."
+       }
+      ]
+     ]
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  },
+  {
+   "id": "chatgpt-ads",
+   "name": "ChatGPT Ads",
+   "cat": "ai",
+   "order": 21,
+   "names": {
+    "pt": "ChatGPT Ads",
+    "en": "ChatGPT Ads",
+    "es": "ChatGPT Ads"
+   },
+   "tagline": {
+    "pt": "Imagem única e múltiplas imagens (beta)",
+    "en": "Single image and multiple images (beta)",
+    "es": "Imagen única y múltiples imágenes (beta)"
+   },
+   "keywords": "chatgpt chat gpt ads openai ads anuncios no chatgpt ia",
+   "source": {
+    "pt": "Ficha técnica E/UP — ChatGPT Ads (12/11/2026), elaborada a partir da documentação pública da OpenAI",
+    "en": "E/UP spec sheet — ChatGPT Ads (12/11/2026), based on OpenAI public documentation",
+    "es": "Ficha técnica E/UP — ChatGPT Ads (12/11/2026), elaborada a partir de la documentación pública de OpenAI"
+   },
+   "formats": [
+    {
+     "id": "chatgpt-single",
+     "name": {
+      "pt": "Imagem única",
+      "en": "Single image",
+      "es": "Imagen única"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Imagens por anúncio",
+        "en": "Images per ad",
+        "es": "Imágenes por anuncio"
+       },
+       {
+        "pt": "1 imagem por anúncio",
+        "en": "1 image per ad",
+        "es": "1 imagen por anuncio"
+       }
+      ],
+      [
+       {
+        "pt": "Componentes da peça",
+        "en": "Ad components",
+        "es": "Componentes de la pieza"
+       },
+       {
+        "pt": "Nome do anunciante, favicon, título, descrição, imagem e URL de destino",
+        "en": "Advertiser name, favicon, headline, description, image and destination URL",
+        "es": "Nombre del anunciante, favicon, título, descripción, imagen y URL de destino"
+       }
+      ],
+      [
+       {
+        "pt": "Imagem",
+        "en": "Image",
+        "es": "Imagen"
+       },
+       {
+        "pt": "Enviar uma imagem relevante e coerente com a mensagem.",
+        "en": "Send one image that is relevant and consistent with the message.",
+        "es": "Enviar una imagen relevante y coherente con el mensaje."
+       }
+      ],
+      [
+       {
+        "pt": "Proporção e dimensões",
+        "en": "Aspect ratio and dimensions",
+        "es": "Proporción y dimensiones"
+       },
+       {
+        "pt": "Informação técnica pendente de validação",
+        "en": "Technical information pending validation",
+        "es": "Información técnica pendiente de validación"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo / extensões aceitas",
+        "en": "Max file size / accepted file types",
+        "es": "Peso máximo / extensiones aceptadas"
+       },
+       {
+        "pt": "Informação técnica pendente de validação",
+        "en": "Technical information pending validation",
+        "es": "Información técnica pendiente de validación"
+       }
+      ],
+      [
+       {
+        "pt": "Limite de caracteres (título e descrição)",
+        "en": "Character limits (headline and description)",
+        "es": "Límite de caracteres (título y descripción)"
+       },
+       {
+        "pt": "Informação técnica pendente de validação",
+        "en": "Technical information pending validation",
+        "es": "Información técnica pendiente de validación"
+       }
+      ],
+      [
+       {
+        "pt": "Favicon — dimensões",
+        "en": "Favicon — dimensions",
+        "es": "Favicon — dimensiones"
+       },
+       {
+        "pt": "Informação técnica pendente de validação",
+        "en": "Technical information pending validation",
+        "es": "Información técnica pendiente de validación"
+       }
+      ],
+      [
+       {
+        "pt": "URL de destino",
+        "en": "Destination URL",
+        "es": "URL de destino"
+       },
+       {
+        "pt": "Uma única URL de destino por anúncio. É possível adicionar parâmetros UTM diretamente à URL.",
+        "en": "One destination URL per ad. UTM parameters can be added directly to the URL.",
+        "es": "Una única URL de destino por anuncio. Es posible agregar parámetros UTM directamente a la URL."
+       }
+      ]
+     ]
+    },
+    {
+     "id": "chatgpt-multi",
+     "name": {
+      "pt": "Múltiplas imagens (beta)",
+      "en": "Multiple images (beta)",
+      "es": "Múltiples imágenes (beta)"
+     },
+     "specs": [
+      [
+       {
+        "pt": "Imagens por anúncio",
+        "en": "Images per ad",
+        "es": "Imágenes por anuncio"
+       },
+       {
+        "pt": "4 a 6 imagens quadradas, proporção 1:1",
+        "en": "4 to 6 square images, 1:1 ratio",
+        "es": "4 a 6 imágenes cuadradas, proporción 1:1"
+       }
+      ],
+      [
+       {
+        "pt": "Status",
+        "en": "Status",
+        "es": "Estado"
+       },
+       {
+        "pt": "Beta aberta desde 26/10/2026",
+        "en": "Open beta since 10/26/2026",
+        "es": "Beta abierta desde 26/10/2026"
+       }
+      ],
+      [
+       {
+        "pt": "Componentes da peça",
+        "en": "Ad components",
+        "es": "Componentes de la pieza"
+       },
+       {
+        "pt": "Nome do anunciante, favicon, título, descrição, imagens e URL de destino",
+        "en": "Advertiser name, favicon, headline, description, images and destination URL",
+        "es": "Nombre del anunciante, favicon, título, descripción, imágenes y URL de destino"
+       }
+      ],
+      [
+       "CTA",
+       {
+        "pt": "“Learn more” (Saiba mais)",
+        "en": "“Learn more”",
+        "es": "“Learn more” (Más información)"
+       }
+      ],
+      [
+       {
+        "pt": "URL de destino",
+        "en": "Destination URL",
+        "es": "URL de destino"
+       },
+       {
+        "pt": "Todas as imagens apontam para a mesma URL. É possível adicionar parâmetros UTM diretamente à URL.",
+        "en": "All images point to the same URL. UTM parameters can be added directly to the URL.",
+        "es": "Todas las imágenes apuntan a la misma URL. Es posible agregar parámetros UTM directamente a la URL."
+       }
+      ],
+      [
+       {
+        "pt": "Dimensões em pixels / peso / extensões",
+        "en": "Pixel dimensions / file size / file types",
+        "es": "Dimensiones en píxeles / peso / extensiones"
+       },
+       {
+        "pt": "Informação técnica pendente de validação",
+        "en": "Technical information pending validation",
+        "es": "Información técnica pendiente de validación"
+       }
+      ],
+      [
+       {
+        "pt": "Limite de caracteres (título e descrição)",
+        "en": "Character limits (headline and description)",
+        "es": "Límite de caracteres (título y descripción)"
+       },
+       {
+        "pt": "Informação técnica pendente de validação",
+        "en": "Technical information pending validation",
+        "es": "Información técnica pendiente de validación"
+       }
+      ]
+     ]
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Textos e mensagens",
+      "en": "Copy and messaging",
+      "es": "Textos y mensajes"
+     },
+     "items": [
+      {
+       "pt": "Título: curto, informativo e centrado no benefício do produto ou serviço. A documentação consultada recomenda respeitar limites de caracteres, mas não publica um número exato.",
+       "en": "Headline: short, informative and focused on the product or service benefit. The documentation recommends respecting character limits but publishes no exact number.",
+       "es": "Título: corto, informativo y centrado en el beneficio del producto o servicio. La documentación recomienda respetar límites de caracteres, pero no publica un número exacto."
+      },
+      {
+       "pt": "Descrição: complementar o título, detalhando benefícios, características ou usos, sem repetir a chamada.",
+       "en": "Description: complement the headline with benefits, features or uses, without repeating it.",
+       "es": "Descripción: complementar el título, detallando beneficios, características o usos, sin repetir el llamado."
+      },
+      {
+       "pt": "Variações: criar diferentes combinações de título e descrição para ampliar a cobertura contextual.",
+       "en": "Variations: create different headline and description combinations to broaden contextual coverage.",
+       "es": "Variaciones: crear distintas combinaciones de título y descripción para ampliar la cobertura contextual."
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "Imagens",
+      "en": "Images",
+      "es": "Imágenes"
+     },
+     "items": [
+      {
+       "pt": "Preferir visuais simples, objetivos, legíveis e alinhados ao produto; evitar excesso de elementos e imagens abstratas.",
+       "en": "Prefer simple, clear, legible visuals aligned with the product; avoid clutter and abstract images.",
+       "es": "Preferir visuales simples, objetivos, legibles y alineados al producto; evitar exceso de elementos e imágenes abstractas."
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "URL e página de destino",
+      "en": "URL and landing page",
+      "es": "URL y página de destino"
+     },
+     "items": [
+      {
+       "pt": "A página de destino deve estar acessível e não bloquear os agentes OAI-AdsBot e OAI-SearchBot.",
+       "en": "The landing page must be accessible and must not block the OAI-AdsBot and OAI-SearchBot agents.",
+       "es": "La página de destino debe ser accesible y no bloquear los agentes OAI-AdsBot y OAI-SearchBot."
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "Política e aprovação",
+      "en": "Policy and approval",
+      "es": "Política y aprobación"
+     },
+     "items": [
+      {
+       "pt": "Os anúncios e páginas de destino devem seguir as políticas de publicidade da OpenAI. Conteúdo enganoso, alegações sem comprovação, imitação indevida da interface e categorias restritas podem resultar em reprovação. A disponibilidade de categorias e formatos pode mudar.",
+       "en": "Ads and landing pages must follow OpenAI advertising policies. Misleading content, unsubstantiated claims, improper imitation of the interface and restricted categories may lead to rejection. Category and format availability may change.",
+       "es": "Los anuncios y páginas de destino deben seguir las políticas de publicidad de OpenAI. Contenido engañoso, afirmaciones sin comprobación, imitación indebida de la interfaz y categorías restringidas pueden resultar en rechazo. La disponibilidad de categorías y formatos puede cambiar."
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "pt": "Itens sem limite técnico público identificado devem ser confirmados no Ads Manager antes da arte final.",
+     "en": "Items without a published technical limit must be confirmed in Ads Manager before final artwork.",
+     "es": "Los ítems sin límite técnico público deben confirmarse en Ads Manager antes del arte final."
+    },
+    {
+     "pt": "Nota E/UP: ficha técnica elaborada a partir da documentação pública da OpenAI; não representa homologação específica de uma conta anunciante.",
+     "en": "E/UP note: spec sheet based on OpenAI public documentation; it does not represent approval of a specific advertiser account.",
+     "es": "Nota E/UP: ficha técnica elaborada a partir de la documentación pública de OpenAI; no representa homologación específica de una cuenta anunciante."
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pt": "Creating ads for ChatGPT Ads (OpenAI)",
+      "en": "Creating ads for ChatGPT Ads (OpenAI)",
+      "es": "Creating ads for ChatGPT Ads (OpenAI)"
+     },
+     "url": "https://help.openai.com/en/articles/20001212-creating-ads-for-chatgpt-ads"
+    },
+    {
+     "label": {
+      "pt": "Ads in ChatGPT: The Basics (OpenAI)",
+      "en": "Ads in ChatGPT: The Basics (OpenAI)",
+      "es": "Ads in ChatGPT: The Basics (OpenAI)"
+     },
+     "url": "https://help.openai.com/en/articles/20001207-ads-in-chatgpt-the-basics"
+    },
+    {
+     "label": {
+      "pt": "Ads Policies (OpenAI)",
+      "en": "Ads Policies (OpenAI)",
+      "es": "Ads Policies (OpenAI)"
+     },
+     "url": "https://openai.com/pt-BR/policies/ad-policies/"
+    }
+   ],
+   "pending": [
+    {
+     "pt": "Dimensões em pixels, peso máximo, extensões aceitas, limites de caracteres, dimensões do favicon e regras de recorte não são publicados pela OpenAI — confirmar no Ads Manager.",
+     "en": "Pixel dimensions, max file size, accepted file types, character limits, favicon size and cropping rules are not published by OpenAI — confirm in Ads Manager.",
+     "es": "Dimensiones en píxeles, peso máximo, extensiones aceptadas, límites de caracteres, dimensiones del favicon y reglas de recorte no son publicados por OpenAI — confirmar en Ads Manager."
+    }
+   ],
+   "version": "1.0",
+   "updated": "2026-11-12",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    }
+   ]
+  }
+ ]
+}

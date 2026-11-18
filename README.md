@@ -20,3 +20,6 @@ Sem etapa de build: diretório de publicação = raiz do repositório.
 `python3 tools/build_es.py` gera `es.html` e `data/kit.es.json` a partir da versão em português (traduções em `tools/es_map.json`).
 Portfólio exclusivo do espanhol: mesmos produtos ocultos do inglês, mais Netflix, Prime Video, HBO Max, Sync Experience, Game Adz e ChatGPT Ads (lista `ES_INATIVOS`).
 Sempre que `index.html` ou `data/kit.json` mudarem, rode os dois scripts (`build_en.py` e `build_es.py`).
+
+## Especificações Técnicas
+A Central de Especificações Técnicas fica em `especificacoes/` (endereço `/especificacoes/`). Veja `especificacoes/README.md`. Validação: `python3 tools/specs_check.py`.
