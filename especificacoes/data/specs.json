@@ -5253,9 +5253,9 @@
         "es": "E-mail o teléfono vinculado a la cuenta de TikTok, para iniciar sesión y gestionar permisos."
        },
        {
-        "pt": "ID do TikTok Business Center da E/UP: Informação técnica pendente de validação",
-        "en": "E/UP TikTok Business Center ID: Technical information pending validation",
-        "es": "ID del TikTok Business Center de E/UP: Información técnica pendiente de validación"
+        "pt": "ID do TikTok Business Center da E/UP: 7138767142710755330",
+        "en": "E/UP TikTok Business Center ID: 7138767142710755330",
+        "es": "ID del TikTok Business Center de E/UP: 7138767142710755330"
        },
        {
         "pt": "Conta empresarial no TikTok: seu perfil precisa ser uma conta empresarial (não pessoal) para anúncios. Se não for, veja o passo 1.",
@@ -5344,9 +5344,9 @@
         "es": "En el menú de la izquierda, haga clic en Activos (Assets) > Cuentas de TikTok (TikTok Accounts) y seleccione su perfil."
        },
        {
-        "pt": "Clique em Adicionar Parceiro (Add Partner) ou Atribuir Parceiro (Assign Partner) e insira o ID do Business Center da E/UP.",
-        "en": "Click Add Partner or Assign Partner and enter the E/UP Business Center ID.",
-        "es": "Haga clic en Agregar socio (Add Partner) o Asignar socio (Assign Partner) e ingrese el ID del Business Center de E/UP."
+        "pt": "Clique em Adicionar Parceiro (Add Partner) ou Atribuir Parceiro (Assign Partner) e insira o ID do Business Center da E/UP: 7138767142710755330.",
+        "en": "Click Add Partner or Assign Partner and enter the E/UP Business Center ID: 7138767142710755330.",
+        "es": "Haga clic en Agregar socio (Add Partner) o Asignar socio (Assign Partner) e ingrese el ID del Business Center de E/UP: 7138767142710755330."
        },
        {
         "pt": "Marque Administrador (recomendado para criar e gerenciar anúncios, gerenciar conteúdo e acessar relatórios) e clique em Confirmar. A E/UP recebe a notificação e aceita o acesso.",
@@ -5354,13 +5354,6 @@
         "es": "Marque Administrador (recomendado para crear y gestionar anuncios, gestionar contenido y acceder a informes) y haga clic en Confirmar. E/UP recibe la notificación y acepta el acceso."
        }
       ]
-     }
-    ],
-    "pending": [
-     {
-      "pt": "ID do TikTok Business Center da E/UP: a fonte traz dois números diferentes. Confirme com a equipe E/UP antes de conceder o acesso.",
-      "en": "E/UP TikTok Business Center ID: the source shows two different numbers. Confirm with the E/UP team before granting access.",
-      "es": "ID del TikTok Business Center de E/UP: la fuente muestra dos números distintos. Confirme con el equipo de E/UP antes de dar el acceso."
      }
     ]
    },
@@ -5468,14 +5461,19 @@
      ]
     }
    ],
-   "version": "1.0",
-   "updated": "2026-11-12",
+   "version": "1.1",
+   "updated": "2026-11-18",
    "active": true,
    "log": [
     {
      "date": "2026-11-12",
      "version": "1.0",
      "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "ID do TikTok Business Center da E/UP confirmado"
     }
    ]
   },
