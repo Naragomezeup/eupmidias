@@ -41,6 +41,19 @@ ES_INATIVOS = EN_INATIVOS + ['netflix', 'prime-video', 'hbo-max', 'sync-experien
 for p in es['produtos']:
     if p['id'] in ES_INATIVOS:
         p['status'] = 'inativo'
+# Versão ES: 19 soluções (em vez de 36+) e sem o logo da Pluto TV no ecossistema de CTV
+es['quemSomos']['apresentacao'] = es['quemSomos']['apresentacao'].replace('Reunimos más de 36 soluciones', 'Reunimos 19 soluciones')
+for n in es['numeros'].get('itens', es['numeros']) if isinstance(es['numeros'], dict) else es['numeros']:
+    if isinstance(n, dict) and n.get('valor') == '36+':
+        n['valor'] = '19'
+def tira_pluto(o):
+    if isinstance(o, dict):
+        for v in o.values(): tira_pluto(v)
+    elif isinstance(o, list):
+        if 'assets/p/logo-plutotv.png' in o: o.remove('assets/p/logo-plutotv.png')
+        for v in o: tira_pluto(v)
+for p in es['produtos']:
+    if p['id'] == 'ctv': tira_pluto(p)
 json.dump(es, open(P('data', 'kit.es.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
 UI = [
@@ -49,7 +62,7 @@ UI = [
  ('.s-capa .apoio{position:absolute;left:110px;top:788px;width:470px;font:700 33px/1.32 var(--f-body)', '.s-capa .apoio{position:absolute;left:110px;top:780px;width:600px;font:700 30px/1.3 var(--f-body)'),
  ('assets/logo-lockup.png', 'assets/logo-lockup-es.png'),
  ('assets/kv-miolo.webp', 'assets/kv-miolo-es.webp'),
- ('E.UP. Simplesmente diferente. Mais de 36 soluções de mídia em seis frentes de atuação.', 'E.UP. Simplemente diferente. Más de 36 soluciones de medios en seis frentes de actuación.'),
+ ('E.UP. Simplesmente diferente. Mais de 36 soluções de mídia em seis frentes de atuação.', 'E.UP. Simplemente diferente. 19 soluciones de medios en seis frentes de actuación.'),
  ('E.UP Mídias, ir para a capa', 'E.UP Mídias, ir a la portada'), ('aria-label="Páginas"', 'aria-label="Páginas"'),
  ('>Quem somos<', '>Quiénes somos<'), ('>Nosso jeito<', '>Nuestra forma<'), ('>Números<', '>Números<'), ('>Frentes<', '>Frentes<'), ('>Soluções<', '>Soluciones<'),
  ('>Baixar PDF<', '>Descargar PDF<'), ('>Fale com a E.UP<', '>Habla con E.UP<'), ('>Notas de revisão<', '>Notas de revisión<'),
@@ -69,7 +82,7 @@ UI = [
  ('alt="QR code para o WhatsApp comercial da E.UP"', 'alt="Código QR para el WhatsApp comercial de E.UP"'),
  ("'Capa'", "'Portada'"), ("'Quem somos'", "'Quiénes somos'"), ("'Nosso jeito'", "'Nuestra forma'"), ("'Números'", "'Números'"), ("'Frentes'", "'Frentes'"), ("'Menu'", "'Menú'"),
  ("'Funil completo'", "'Embudo completo'"), ("'Contato'", "'Contacto'"), ('← Voltar ao menu', '← Volver al menú'),
- ('>Fonte: ', '>Fuente: '), ("' soluções\"", "' soluciones\""), ('36+ SOLUÇÕES', '36+ SOLUCIONES'), ('>Frente de atuação<', '>Frente de actuación<'),
+ ('>Fonte: ', '>Fuente: '), ("' soluções\"", "' soluciones\""), ('36+ SOLUÇÕES', '19 SOLUCIONES'), ('>Frente de atuação<', '>Frente de actuación<'),
  ("' soluções'", "' soluciones'"), ("' disponível'", "' disponible'"), ('>Ver<', '>Ver<'), ('>Em migração<', '>Próximamente<'),
  ('Preparando o PDF… na janela de impressão, escolha “Salvar como PDF”.', 'Preparando el PDF… en la ventana de impresión, elige “Guardar como PDF”.'),
  ('Não foi possível abrir a impressão neste navegador.', 'No fue posible abrir la impresión en este navegador.'),

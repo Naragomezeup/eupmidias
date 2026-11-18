@@ -34,7 +34,7 @@
  },
  "quemSomos": {
   "titulo": "Una trading desk diferente.",
-  "apresentacao": "Una trading desk diferente en la forma de escuchar, entender, planificar, ejecutar y acompañar. Reunimos más de 36 soluciones de medios en seis frentes de actuación, combinando inteligencia estratégica y excelencia operativa para construir el camino adecuado para cada desafío.",
+  "apresentacao": "Una trading desk diferente en la forma de escuchar, entender, planificar, ejecutar y acompañar. Reunimos 19 soluciones de medios en seis frentes de actuación, combinando inteligencia estratégica y excelencia operativa para construir el camino adecuado para cada desafío.",
   "manifesto": [
    "Diferente en la forma de escuchar.",
    "En la atención a cada cliente.",
@@ -89,7 +89,7 @@
  "numeros": [
   {
    "id": "solucoes",
-   "valor": "36+",
+   "valor": "19",
    "rotulo": "soluciones de medios",
    "texto": "No pensamos en formatos. Pensamos en posibilidades."
   },
@@ -1019,8 +1019,7 @@
       "assets/p/ctv-jpnews.webp",
       "assets/p/ctv-sbt.webp",
       "assets/p/ctv-lg.webp",
-      "assets/p/ctv-sky.webp",
-      "assets/p/logo-plutotv.png"
+      "assets/p/ctv-sky.webp"
      ],
      "imagem": "assets/p/img-ctv-tv.webp"
     }

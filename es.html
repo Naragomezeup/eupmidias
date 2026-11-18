@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Media Kit E.UP</title>
-<meta name="description" content="E.UP. Simplemente diferente. Más de 36 soluciones de medios en seis frentes de actuación.">
+<meta name="description" content="E.UP. Simplemente diferente. 19 soluciones de medios en seis frentes de actuación.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400;1,500&family=Outfit:wght@300;400;500;600;700&family=Figtree:ital,wght@0,400;0,500;0,600;0,700;0,800;1,700;1,800&display=swap" rel="stylesheet">
@@ -475,7 +475,7 @@ function buildMandala(){
     var L=polar(305,mid),an=Math.cos(mid)>.25?'start':(Math.cos(mid)<-.25?'end':'middle'),w=f.nome.split(' '),lines=f.nome.length>18?[w.slice(0,Math.ceil(w.length/2)).join(' '),w.slice(Math.ceil(w.length/2)).join(' ')]:[f.nome],y0=L[1]-(lines.length-1)*9+5;
     o+='<text class="lbl" text-anchor="'+an+'">'+lines.map(function(l,li){return '<tspan x="'+L[0].toFixed(1)+'" y="'+(y0+li*19).toFixed(1)+'">'+esc(l)+'</tspan>'}).join('')+'</text></g>';
   });
-  o+='<circle cx="350" cy="350" r="94" fill="#fff" stroke="rgba(23,24,59,.1)"/><image href="assets/logo-eup.png" x="290" y="300" width="120" height="67"/><text x="350" y="398" text-anchor="middle" style="font:600 12px Figtree,sans-serif;letter-spacing:.14em;fill:#5D5A78">36+ SOLUCIONES</text>';
+  o+='<circle cx="350" cy="350" r="94" fill="#fff" stroke="rgba(23,24,59,.1)"/><image href="assets/logo-eup.png" x="290" y="300" width="120" height="67"/><text x="350" y="398" text-anchor="middle" style="font:600 12px Figtree,sans-serif;letter-spacing:.14em;fill:#5D5A78">19 SOLUCIONES</text>';
   svg.innerHTML=o;
   svg.addEventListener('click',function(e){var d=e.target.closest('.pdot');if(d){var p=KIT.produtos.find(function(x){return x.id===d.dataset.p});if(live(p))location.hash='p-'+p.id;else sel(p.frente);return}var g=e.target.closest('.seg');if(g)sel(g.dataset.f)});
   svg.addEventListener('keydown',function(e){var g=e.target.closest('.seg');if(g&&(e.key==='Enter'||e.key===' ')){e.preventDefault();sel(g.dataset.f)}});
