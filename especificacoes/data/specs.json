@@ -712,9 +712,9 @@
     "es": "Video Programático"
    },
    "tagline": {
-    "pt": "Vídeo em medidas-padrão, com banner companheiro opcional",
-    "en": "Standard video, with optional companion banner",
-    "es": "Video en medidas estándar, con banner acompañante opcional"
+    "pt": "Vídeo com banner companheiro (altamente recomendado)",
+    "en": "Video with companion banner (highly recommended)",
+    "es": "Video con banner acompañante (muy recomendado)"
    },
    "keywords": "video vídeo programatico banner companheiro",
    "source": {
@@ -724,16 +724,16 @@
    },
    "formats": [
     {
-     "id": "video-programatico-video",
+     "id": "video-banner",
      "name": {
-      "pt": "Vídeo",
-      "en": "Video",
-      "es": "Video"
+      "pt": "Vídeo + banner companheiro",
+      "en": "Video + companion banner",
+      "es": "Video + banner acompañante"
      },
      "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir. O banner companheiro é entregue junto com o vídeo: alguns canais aceitam banner companheiro, exibido ao lado do vídeo ou dentro dele, e o envio é altamente recomendado.",
+      "en": "Assets must be produced in one of the standard sizes below. The companion banner is delivered with the video: some channels accept a companion banner shown next to or inside the video, and sending it is highly recommended.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación. El banner acompañante se entrega junto con el video: algunos canales aceptan banner acompañante, que se muestra al lado del video o dentro de él, y se recomienda mucho enviarlo."
      },
      "specs": [
       [
@@ -927,34 +927,12 @@
         "en": "Loudness aligned with IAB US spec of -24LKFS +/- 2LKFS",
         "es": "Loudness alineado con la especificación IAB US de -24LKFS +/- 2LKFS"
        }
-      ]
-     ]
-    },
-    {
-     "id": "video-programatico-companion",
-     "name": {
-      "pt": "Banner companheiro (opcional)",
-      "en": "Companion banner (optional)",
-      "es": "Banner acompañante (opcional)"
-     },
-     "specs": [
-      [
-       {
-        "pt": "Descrição",
-        "en": "Description",
-        "es": "Descripción"
-       },
-       {
-        "pt": "Alguns canais aceitam “banner companheiro” que é exibido ao lado do vídeo ou dentro dele.",
-        "en": "Some channels accept a “companion banner” displayed next to or inside the video.",
-        "es": "Algunos canales aceptan “banner acompañante”, que se muestra al lado del video o dentro de él."
-       }
       ],
       [
        {
-        "pt": "Arquivos",
-        "en": "Files",
-        "es": "Archivos"
+        "pt": "Banner companheiro (altamente recomendado) — Arquivos",
+        "en": "Companion banner (highly recommended) — Files",
+        "es": "Banner acompañante (muy recomendado) — Archivos"
        },
        {
         "pt": "É altamente recomendado enviar 3 arquivos seguindo as especificações de display.",
@@ -964,20 +942,32 @@
       ],
       [
        {
-        "pt": "Referência",
-        "en": "Reference",
-        "es": "Referencia"
+        "pt": "Banner companheiro (altamente recomendado) — Referência",
+        "en": "Companion banner (highly recommended) — Reference",
+        "es": "Banner acompañante (muy recomendado) — Referencia"
        },
        {
         "pt": "Especificações de Display Programático (medidas e especificações gerais JPEG/PNG/GIF)",
         "en": "Programmatic Display specifications (sizes and general JPEG/PNG/GIF rules)",
         "es": "Especificaciones de Display Programático (medidas y reglas generales JPEG/PNG/GIF)"
        }
+      ],
+      [
+       {
+        "pt": "Banner companheiro (altamente recomendado) — Medidas e arquivos",
+        "en": "Companion banner (highly recommended) — Sizes and files",
+        "es": "Banner acompañante (muy recomendado) — Medidas y archivos"
+       },
+       {
+        "pt": "320x50, 300x50, 300x250, 336x280, 728x90, 160x600, 320x480, 300x600 ou 970x250 · Jpg/JPEG, png, gif · peso máximo 500kb",
+        "en": "320x50, 300x50, 300x250, 336x280, 728x90, 160x600, 320x480, 300x600 or 970x250 · Jpg/JPEG, png, gif · maximum file size 500kb",
+        "es": "320x50, 300x50, 300x250, 336x280, 728x90, 160x600, 320x480, 300x600 o 970x250 · Jpg/JPEG, png, gif · peso máximo 500kb"
+       }
       ]
      ]
     }
    ],
-   "version": "1.1",
+   "version": "1.2",
    "updated": "2026-11-18",
    "active": true,
    "log": [
@@ -990,6 +980,11 @@
      "date": "2026-11-18",
      "version": "1.1",
      "note": "Separado do pacote anterior para seleção individual"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.2",
+     "note": "Vídeo e banner companheiro unificados em uma única peça; banner mantido como altamente recomendado, conforme a apresentação master (p. 10)"
     }
    ],
    "order": 4
@@ -1295,9 +1290,9 @@
     "es": "Audio Programático"
    },
    "tagline": {
-    "pt": "Áudio MP3 e banner companheiro",
-    "en": "MP3 audio and companion banner",
-    "es": "Audio MP3 y banner acompañante"
+    "pt": "Áudio MP3 com banner companheiro obrigatório",
+    "en": "MP3 audio with required companion banner",
+    "es": "Audio MP3 con banner acompañante obligatorio"
    },
    "keywords": "audio áudio programatico audio ads mp3",
    "source": {
@@ -1307,31 +1302,31 @@
    },
    "formats": [
     {
-     "id": "audio-mp3",
+     "id": "audio-banner",
      "name": {
-      "pt": "Áudio",
-      "en": "Audio",
-      "es": "Audio"
+      "pt": "Áudio + banner companheiro",
+      "en": "Audio + companion banner",
+      "es": "Audio + banner acompañante"
      },
      "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+      "pt": "Entrega em conjunto: o arquivo de áudio e o banner companheiro (obrigatório) formam uma única peça.",
+      "en": "Delivered together: the audio file and the companion banner (required) make up a single asset.",
+      "es": "Entrega en conjunto: el archivo de audio y el banner acompañante (obligatorio) forman una única pieza."
      },
      "specs": [
       [
        {
-        "pt": "Formato do arquivo",
-        "en": "File format",
-        "es": "Formato del archivo"
+        "pt": "Áudio — Formato do arquivo",
+        "en": "Audio — File format",
+        "es": "Audio — Formato del archivo"
        },
        "MP3"
       ],
       [
        {
-        "pt": "Duração",
-        "en": "Duration",
-        "es": "Duración"
+        "pt": "Áudio — Duração",
+        "en": "Audio — Duration",
+        "es": "Audio — Duración"
        },
        {
         "pt": "Até 30s",
@@ -1341,40 +1336,25 @@
       ],
       [
        {
-        "pt": "Peso máximo",
-        "en": "Maximum file size",
-        "es": "Peso máximo"
+        "pt": "Áudio — Peso máximo",
+        "en": "Audio — Maximum file size",
+        "es": "Audio — Peso máximo"
        },
        "1mb"
-      ]
-     ]
-    },
-    {
-     "id": "audio-companion",
-     "name": {
-      "pt": "Banner companheiro",
-      "en": "Companion banner",
-      "es": "Banner acompañante"
-     },
-     "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
-     },
-     "specs": [
+      ],
       [
        {
-        "pt": "Formato do arquivo",
-        "en": "File format",
-        "es": "Formato del archivo"
+        "pt": "Banner companheiro (obrigatório) — Formato do arquivo",
+        "en": "Companion banner (required) — File format",
+        "es": "Banner acompañante (obligatorio) — Formato del archivo"
        },
        "JPEG"
       ],
       [
        {
-        "pt": "Dimensões",
-        "en": "Dimensions",
-        "es": "Dimensiones"
+        "pt": "Banner companheiro (obrigatório) — Dimensões",
+        "en": "Companion banner (required) — Dimensions",
+        "es": "Banner acompañante (obligatorio) — Dimensiones"
        },
        {
         "pt": "300x250, 728x90, ou 300x60",
@@ -1384,9 +1364,9 @@
       ],
       [
        {
-        "pt": "Animação",
-        "en": "Animation",
-        "es": "Animación"
+        "pt": "Banner companheiro (obrigatório) — Animação",
+        "en": "Companion banner (required) — Animation",
+        "es": "Banner acompañante (obligatorio) — Animación"
        },
        {
         "pt": "até 15 seconds",
@@ -1395,20 +1375,29 @@
        }
       ],
       [
-       "FPS",
+       {
+        "pt": "Banner companheiro (obrigatório) — FPS",
+        "en": "Companion banner (required) — FPS",
+        "es": "Banner acompañante (obligatorio) — FPS"
+       },
        "18-24"
       ]
      ]
     }
    ],
-   "version": "1.0",
-   "updated": "2026-11-12",
+   "version": "1.1",
+   "updated": "2026-11-18",
    "active": true,
    "log": [
     {
      "date": "2026-11-12",
      "version": "1.0",
      "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Áudio e banner companheiro unificados em uma única peça; banner companheiro obrigatório (confirmado pela E/UP)"
     }
    ]
   },
@@ -1774,9 +1763,9 @@
     "es": "Spotify y Plataformas de Audio"
    },
    "tagline": {
-    "pt": "Áudio, banner companheiro e vídeo",
-    "en": "Audio, companion banner and video",
-    "es": "Audio, banner acompañante y video"
+    "pt": "Áudio com banner companheiro obrigatório e vídeo",
+    "en": "Audio with required companion banner, and video",
+    "es": "Audio con banner acompañante obligatorio y video"
    },
    "keywords": "spotify deezer plataformas de audio streaming de audio spotify ads",
    "source": {
@@ -1786,23 +1775,23 @@
    },
    "formats": [
     {
-     "id": "spotify-audio",
+     "id": "spotify-audio-banner",
      "name": {
-      "pt": "Áudio",
-      "en": "Audio",
-      "es": "Audio"
+      "pt": "Áudio + banner companheiro",
+      "en": "Audio + companion banner",
+      "es": "Audio + banner acompañante"
      },
      "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+      "pt": "Entrega em conjunto: o arquivo de áudio e o banner companheiro (obrigatório) formam uma única peça.",
+      "en": "Delivered together: the audio file and the companion banner (required) make up a single asset.",
+      "es": "Entrega en conjunto: el archivo de audio y el banner acompañante (obligatorio) forman una única pieza."
      },
      "specs": [
       [
        {
-        "pt": "Formato do arquivo",
-        "en": "File format",
-        "es": "Formato del archivo"
+        "pt": "Áudio — Formato do arquivo",
+        "en": "Audio — File format",
+        "es": "Audio — Formato del archivo"
        },
        {
         "pt": "MP3, WAV ou OGG",
@@ -1812,9 +1801,9 @@
       ],
       [
        {
-        "pt": "Duração",
-        "en": "Duration",
-        "es": "Duración"
+        "pt": "Áudio — Duração",
+        "en": "Audio — Duration",
+        "es": "Audio — Duración"
        },
        {
         "pt": "Até 30 segundos",
@@ -1824,36 +1813,21 @@
       ],
       [
        {
-        "pt": "Peso",
-        "en": "File size",
-        "es": "Peso"
+        "pt": "Áudio — Peso",
+        "en": "Audio — File size",
+        "es": "Audio — Peso"
        },
        {
         "pt": "Menor que 50 MB",
         "en": "Less than 50 MB",
         "es": "Menor a 50 MB"
        }
-      ]
-     ]
-    },
-    {
-     "id": "spotify-companion",
-     "name": {
-      "pt": "Banner companheiro",
-      "en": "Companion banner",
-      "es": "Banner acompañante"
-     },
-     "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
-     },
-     "specs": [
+      ],
       [
        {
-        "pt": "Formato do arquivo",
-        "en": "File format",
-        "es": "Formato del archivo"
+        "pt": "Banner companheiro (obrigatório) — Formato do arquivo",
+        "en": "Companion banner (required) — File format",
+        "es": "Banner acompañante (obligatorio) — Formato del archivo"
        },
        {
         "pt": "JPEG ou PNG",
@@ -1863,17 +1837,17 @@
       ],
       [
        {
-        "pt": "Dimensões",
-        "en": "Dimensions",
-        "es": "Dimensiones"
+        "pt": "Banner companheiro (obrigatório) — Dimensões",
+        "en": "Companion banner (required) — Dimensions",
+        "es": "Banner acompañante (obligatorio) — Dimensiones"
        },
        "Desktop: 800×435 · Mobile: 630×920"
       ],
       [
        {
-        "pt": "Peso",
-        "en": "File size",
-        "es": "Peso"
+        "pt": "Banner companheiro (obrigatório) — Peso",
+        "en": "Companion banner (required) — File size",
+        "es": "Banner acompañante (obligatorio) — Peso"
        },
        "100kb"
       ]
@@ -1939,14 +1913,19 @@
      ]
     }
    ],
-   "version": "1.0",
-   "updated": "2026-11-12",
+   "version": "1.1",
+   "updated": "2026-11-18",
    "active": true,
    "log": [
     {
      "date": "2026-11-12",
      "version": "1.0",
      "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Áudio e banner companheiro unificados em uma única peça; banner companheiro obrigatório (confirmado pela E/UP)"
     }
    ]
   },
