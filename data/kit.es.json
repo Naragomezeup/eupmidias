@@ -1,0 +1,2768 @@
+{
+ "meta": {
+  "versao": "0.4.2",
+  "atualizadoEm": "2026-11-17",
+  "status": "prototipo-em-avaliacao",
+  "fontes": [
+   "MIDIA_KIT_2026_CLIENTES (10).pdf — export do Canva, 273 páginas",
+   "Midia Kit Capa.png, Midia Kit Miolo.png, Encerramento.png — KV aprovado",
+   "EUP_Comunicacao_Oficial_Simplesmente_Diferente_Atualizada.docx",
+   "EUP_Textos_Institucionais_Versao_Integral_Portugues.docx",
+   "EUP_Media_Kit_PT.docx",
+   "EUP_MediaKit_Layout_PT.docx",
+   "EUP_Cards_Lancamento_Simplesmente_Diferente.docx",
+   "Material1_NaoPareDeAnunciar_EUP 3.pdf — nomes das seis frentes"
+  ],
+  "idioma": "es"
+ },
+ "marca": {
+  "assinatura": "E.UP. Simplemente diferente.",
+  "campanha": "Diferente. Y punto.",
+  "conceito": [
+   "Ni mejor.",
+   "Ni peor.",
+   "Diferente."
+  ],
+  "site": "e-up.tech",
+  "social": "/eupbr"
+ },
+ "capa": {
+  "titulo1": "Diferente.",
+  "titulo2": "Y punto",
+  "apoio": "Somos diferentes en la forma de escuchar, entender, planificar y entregar.",
+  "cta": "Explorar soluciones"
+ },
+ "quemSomos": {
+  "titulo": "Una trading desk diferente.",
+  "apresentacao": "Una trading desk diferente en la forma de escuchar, entender, planificar, ejecutar y acompañar. Reunimos más de 36 soluciones de medios en seis frentes de actuación, combinando inteligencia estratégica y excelencia operativa para construir el camino adecuado para cada desafío.",
+  "manifesto": [
+   "Diferente en la forma de escuchar.",
+   "En la atención a cada cliente.",
+   "En la rapidez para responder.",
+   "En la disposición para resolver.",
+   "Diferente en la estrategia. En la operación. En el cuidado de cada entrega.",
+   "Porque creemos que una trading desk puede ir más allá de operar medios.",
+   "Puede entender antes de proponer. Puede estar cerca cuando importa. Puede asumir cada desafío como propio.",
+   "Y puede hacer de lo acordado apenas el comienzo.",
+   "No elegimos ser diferentes para compararnos.",
+   "Elegimos ser diferentes porque esa es nuestra forma de hacer las cosas.",
+   "Y cuando esa forma se traduce en confianza, permanencia y resultados, la diferencia deja de ser discurso.",
+   "Se ve en la entrega."
+  ]
+ },
+ "jeito": {
+  "titulo": "Hay muchas formas de operar medios.",
+  "apoio": "La nuestra empieza por la forma de escuchar, pensar, resolver y entregar.",
+  "territorios": [
+   {
+    "id": "atendimento",
+    "nome": "Atención",
+    "titulo": "Hay diferencias que empiezan con el primer hola.",
+    "texto": "Atención cercana, acompañamiento y atención real al desafío de cada cliente."
+   },
+   {
+    "id": "agilidade",
+    "nome": "Agilidad",
+    "titulo": "La diferencia también está en el tiempo de respuesta.",
+    "texto": "Agilidad para seguir el ritmo de las campañas y disposición para resolver."
+   },
+   {
+    "id": "estrategia",
+    "nome": "Estrategia",
+    "titulo": "La diferencia está en entender antes de proponer.",
+    "texto": "Cada recomendación empieza por el objetivo del cliente, no por una lista de formatos."
+   },
+   {
+    "id": "performance",
+    "nome": "Performance",
+    "titulo": "Lo acordado es solo el comienzo.",
+    "texto": "Excelencia operativa, acompañamiento cercano y compromiso con la entrega."
+   },
+   {
+    "id": "relacionamento",
+    "nome": "Relación",
+    "titulo": "La diferencia también está en quien se queda.",
+    "texto": "Conquistar es importante. Permanecer es otra historia."
+   }
+  ]
+ },
+ "numeros": [
+  {
+   "id": "solucoes",
+   "valor": "36+",
+   "rotulo": "soluciones de medios",
+   "texto": "No pensamos en formatos. Pensamos en posibilidades."
+  },
+  {
+   "id": "frentes",
+   "valor": "6",
+   "rotulo": "frentes de actuación",
+   "texto": "Organizadas para encontrar el camino adecuado para cada desafío."
+  },
+  {
+   "id": "renovacao",
+   "valor": "+70%",
+   "rotulo": "de nuestros clientes renovaron en los últimos 6 meses",
+   "texto": "Más del 70% de nuestros clientes renovaron en los últimos 6 meses."
+  },
+  {
+   "id": "streaming",
+   "valor": "Pioneros",
+   "rotulo": "en streaming",
+   "texto": "Pioneros en streaming, acompañamos la evolución de los entornos de consumo y ampliamos continuamente las posibilidades para las marcas."
+  }
+ ],
+ "frentes": [
+  {
+   "id": "streaming-ctv",
+   "nome": "Streaming & CTV",
+   "cor": "#CC1338"
+  },
+  {
+   "id": "programatica",
+   "nome": "Medios programáticos",
+   "cor": "#4A3F7C"
+  },
+  {
+   "id": "audio",
+   "nome": "Audio digital",
+   "cor": "#FD3A60"
+  },
+  {
+   "id": "retail-mobile",
+   "nome": "Formatos especiales",
+   "cor": "#7A62B8"
+  },
+  {
+   "id": "experiencias",
+   "nome": "Experiencias especiales",
+   "cor": "#E2557A"
+  },
+  {
+   "id": "parceiros",
+   "nome": "Plataformas digitales",
+   "cor": "#2B2A55"
+  }
+ ],
+ "frentesNota": "Nombres de los frentes ajustados el 17/11/2026: “Formatos especiales” (antes Retail & mobile) y “Plataformas digitales” (antes Socios de proyectos especiales).",
+ "produtos": [
+  {
+   "id": "disney",
+   "nome": "Disney+",
+   "frente": "streaming-ctv",
+   "ordem": 1,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "20–23",
+   "chamada": "Historias que conectan. Presencia que tiene sentido.",
+   "descricao": "Disney+ se destaca entre los servicios de streaming del mercado y conecta con streamers diversos y comprometidos, demostrando que es una marca para todos.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Complementariedad entre TV lineal y streaming",
+     "titulo": "Diferentes perfiles de audiencia, con mayor alcance",
+     "itens": [
+      {
+       "valor": "30 M",
+       "rotulo": "afirman haber usado Disney+ en los últimos 3 meses"
+      },
+      {
+       "valor": "+60%",
+       "rotulo": "aumento de audiencia"
+      },
+      {
+       "valor": "+55%",
+       "rotulo": "de aumento de cuota de mercado (VOD)"
+      },
+      {
+       "valor": "+38%",
+       "rotulo": "aumento del alcance promedio"
+      },
+      {
+       "valor": "1h55",
+       "rotulo": "tiempo promedio por día viendo Disney+"
+      },
+      {
+       "valor": "44%",
+       "rotulo": "lo consumen a diario"
+      },
+      {
+       "valor": "56%",
+       "rotulo": "lo consumen semanalmente"
+      }
+     ]
+    },
+    {
+     "tipo": "numeros",
+     "eyebrow": "Engagement potenciado",
+     "titulo": "La fuerza de Disney+ y el poder de ESPN",
+     "grupos": [
+      {
+       "titulo": "La fuerza · Disney+",
+       "itens": [
+        {
+         "valor": "TOP2",
+         "rotulo": "streaming de América Latina"
+        },
+        {
+         "valor": "98%",
+         "rotulo": "awareness entre 16 y 65 años"
+        },
+        {
+         "valor": "76%",
+         "rotulo": "contenido original y de alta calidad"
+        },
+        {
+         "valor": "71%",
+         "rotulo": "“Es para todos en mi casa”"
+        }
+       ]
+      },
+      {
+       "titulo": "El poder · ESPN",
+       "itens": [
+        {
+         "valor": "#1",
+         "rotulo": "marca de transmisión deportiva en el mundo"
+        },
+        {
+         "valor": "+4 mil",
+         "rotulo": "partidos de fútbol en vivo por año"
+        },
+        {
+         "valor": "72%",
+         "rotulo": "dicen que Disney+ “tiene variedad de deportes”"
+        },
+        {
+         "valor": "68%",
+         "rotulo": "“Es una autoridad en deportes”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "numeros",
+     "eyebrow": "Perfil de la audiencia",
+     "titulo": "Streamers diversos y comprometidos",
+     "itens": [
+      {
+       "valor": "49%",
+       "rotulo": "mujeres"
+      },
+      {
+       "valor": "51%",
+       "rotulo": "hombres"
+      },
+      {
+       "valor": "79%",
+       "rotulo": "clase AB"
+      },
+      {
+       "valor": "46%",
+       "rotulo": "18–34 años"
+      },
+      {
+       "valor": "76%",
+       "rotulo": "18–49 años"
+      },
+      {
+       "valor": "77%",
+       "rotulo": "25–54 años"
+      },
+      {
+       "valor": "25%",
+       "rotulo": "Generación Z"
+      },
+      {
+       "valor": "48%",
+       "rotulo": "Millennials"
+      },
+      {
+       "valor": "65%",
+       "rotulo": "hogares con niños"
+      }
+     ],
+     "listas": [
+      {
+       "titulo": "Intereses principales",
+       "itens": [
+        "Tecnología",
+        "Viajes",
+        "Practicar y ver deportes",
+        "Mascotas",
+        "Cine"
+       ]
+      },
+      {
+       "titulo": "Se describen como",
+       "itens": [
+        "De mente abierta",
+        "Enfocados en su carrera",
+        "Exploradores del mundo",
+        "Interesados en nuevas culturas",
+        "Sociables"
+       ]
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-disney.webp"
+  },
+  {
+   "id": "netflix",
+   "nome": "Netflix",
+   "frente": "streaming-ctv",
+   "ordem": 2,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "24–28",
+   "chamada": "Sua marca presente onde a atenção acontece.",
+   "descricao": "Netflix é a principal plataforma de streaming no Brasil.",
+   "paginas": [
+    {
+     "tipo": "destaque",
+     "valor": "65%",
+     "rotulo": "dos usuários de OTT (over-the-top) no Brasil assistem à Netflix por mês",
+     "grafico": {
+      "tipo": "rosca",
+      "titulo": "Share de assinaturas de streaming no Brasil",
+      "dados": [
+       {
+        "rotulo": "Netflix",
+        "valor": 65
+       },
+       {
+        "rotulo": "Globoplay",
+        "valor": 15
+       },
+       {
+        "rotulo": "Outras",
+        "valor": 12
+       },
+       {
+        "rotulo": "Prime Video",
+        "valor": 8
+       }
+      ],
+      "fonte": "Brazil Chart: Kantar Ibope Media, março 2023, Share of Subscriptions; eMarketer, outubro 2022."
+     }
+    },
+    {
+     "tipo": "numeros",
+     "eyebrow": "Audiência Netflix Brasil",
+     "titulo": "Quem assiste à Netflix",
+     "grupos": [
+      {
+       "titulo": "Comportamento",
+       "itens": [
+        {
+         "valor": "53%",
+         "rotulo": "trocaram a TV a cabo pelo streaming"
+        },
+        {
+         "valor": "55%",
+         "rotulo": "dos novos assinantes escolhem o plano com anúncios"
+        },
+        {
+         "valor": "50%",
+         "rotulo": "das horas assistidas em TV"
+        },
+        {
+         "valor": "91%",
+         "rotulo": "assistem os TOP10"
+        }
+       ]
+      },
+      {
+       "titulo": "Perfil da audiência Netflix Brasil",
+       "itens": [
+        {
+         "valor": "29 anos",
+         "rotulo": "idade média"
+        },
+        {
+         "valor": "42%",
+         "rotulo": "casados"
+        },
+        {
+         "valor": "38%",
+         "rotulo": "têm crianças em casa"
+        },
+        {
+         "valor": "36%",
+         "rotulo": "nível superior ou mais"
+        },
+        {
+         "valor": "R$ 37 mil",
+         "rotulo": "de renda anual média"
+        },
+        {
+         "valor": "24%",
+         "rotulo": "têm renda familiar anual de R$ 48 mil"
+        },
+        {
+         "valor": "3,2",
+         "rotulo": "é a média de pessoas na residência"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-netflix-new.png",
+   "imagem": {
+    "src": "assets/netflix-audiencia.webp",
+    "alt": "Família assistindo conteúdo em casa"
+   },
+   "arte": "base-circulo"
+  },
+  {
+   "id": "prime-video",
+   "nome": "Prime Video",
+   "frente": "streaming-ctv",
+   "ordem": 3,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "29–32",
+   "chamada": "Entre o conteúdo que o público escolhe, a sua marca.",
+   "descricao": "O maior alcance de ads no streaming: uma audiência ampla, diversa e influente, que abrange tomadores de decisão com maior poder de compra.",
+   "paginas": [
+    {
+     "tipo": "destaque",
+     "valor": "19 mi",
+     "rotulo": "média mensal de audiência com acesso a conteúdo suportado por anúncio no Brasil",
+     "cards": [
+      {
+       "titulo": "Amazon",
+       "texto": "59% concluíram o ensino superior."
+      },
+      {
+       "titulo": "Prime Video",
+       "texto": "44% com renda de R$ 50K/ano. 82% de lares que compraram algum produto nos últimos 3 meses na Amazon."
+      },
+      {
+       "titulo": "Twitch",
+       "texto": "42% com renda de R$ 50K/ano. 60% compraram um produto porque o viram anunciado na Twitch."
+      }
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Esporte ao vivo",
+     "titulo": "Em 2025, continuaremos transmitindo NBA e Copa do Brasil",
+     "cols": 2,
+     "cards": [
+      {
+       "titulo": "NBA",
+       "texto": "Prime Video é o maior canal de NBA no Brasil, com 198 partidas na temporada 2024/2025: 130 jogos de temporada regular e 38 de playoffs.",
+       "valor": "72MM+ impressões"
+      },
+      {
+       "titulo": "Copa do Brasil",
+       "texto": "Prime Video é o destino para a Copa do Brasil: 54 partidas, 40 delas exclusivas no Prime Video.",
+       "valor": "143MM+ impressões em 2023"
+      }
+     ],
+     "logos": [
+      "assets/p/logo-nba.webp",
+      "assets/p/logo-copadobrasil.webp"
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-primevideo.png",
+   "imagem": {
+    "src": "assets/p/img-prime.webp",
+    "alt": "Família comemorando no sofá"
+   }
+  },
+  {
+   "id": "hbo-max",
+   "nome": "HBO Max",
+   "frente": "streaming-ctv",
+   "ordem": 4,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "33–49",
+   "chamada": "Grandes histórias. Novas possibilidades para sua marca.",
+   "descricao": "HBO Max é outra história. Em um ano, o plano Ad-Lite dobrou o seu alcance e triplicou o seu número de assinantes.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Crescimento",
+     "titulo": "Em 1 ano, o Ad-Lite dobrou o alcance e triplicou os assinantes",
+     "itens": [
+      {
+       "valor": "+2x",
+       "rotulo": "viewing subs (2025 x 2024)"
+      },
+      {
+       "valor": "+3x",
+       "rotulo": "paying subs (2025 x 2024)"
+      },
+      {
+       "valor": "65%",
+       "rotulo": "dos assinantes consomem conteúdos todos os meses na plataforma"
+      },
+      {
+       "valor": "~94%",
+       "rotulo": "taxa de complete view"
+      }
+     ],
+     "fonte": "Dados internos HBO Max 2024 e 2025, Ad-Lite."
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Consumo",
+     "titulo": "Presença no dia a dia do público",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Várias vezes na semana",
+       "texto": "7 em cada 10 viewers declaram consumir conteúdos da HBO Max várias vezes na semana. Quase metade consome todos os dias.",
+       "valor": "7 em 10"
+      },
+      {
+       "titulo": "Mais tempo de tela",
+       "texto": "Os viewers HBO Max passam mais de 13h por semana assistindo streaming, 17% a mais do que os viewers dos concorrentes.",
+       "valor": "+13h"
+      },
+      {
+       "titulo": "Fins de semana",
+       "texto": "Consumo consistente durante a semana, que se intensifica aos fins de semana.",
+       "valor": "Todo dia"
+      }
+     ],
+     "fonte": "BB NME Q2 2025; dados internos HBO Max 2025; GWI Brasil Q4 2024 a Q3 2025."
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "Catálogo e cultura",
+     "titulo": "Onde a cultura realmente acontece",
+     "paragrafos": [
+      "Em 2025, a HBO Max foi a plataforma mais premiada do Emmy (empatada com a Netflix), com 30 vitórias: Pinguim (9 prêmios), The Pitt (5) e Hacks (3), entre outros. Apple TV+ somou 21 e Disney+, 7.",
+      "O termo “euphoria makeup” tem mais de 716,9 milhões de visualizações no TikTok. Turismo, marcas e experiências relacionadas a The White Lotus ganham hype após sua exibição."
+     ],
+     "listaTitulo": "Conteúdo para todos",
+     "lista": [
+      "Kids & Family",
+      "Realities",
+      "Novelas",
+      "Filmes",
+      "Drama",
+      "Ação",
+      "Comédia",
+      "Documentários",
+      "Futebol ao vivo"
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Formatos",
+     "titulo": "O player com maior variedade de formatos para diferentes objetivos de marca",
+     "cols": 4,
+     "cards": [
+      {
+       "titulo": "Alcance",
+       "texto": "Pre-roll & mid-roll: não puláveis, com alcance e escala. Takeover: as duas primeiras impressões de 100% da base. Sequencial: narrativa em breaks sequenciais."
+      },
+      {
+       "titulo": "Recompensa",
+       "texto": "Brandblock: experiência exclusiva, com menos anúncios e anúncios mais curtos. Infront: três pre-rolls em sequência, com exclusividade e sem mid-roll."
+      },
+      {
+       "titulo": "Interação",
+       "texto": "Extendable, Pause Ads, Trivia e Carrossel: o viewer interage com a marca pelo controle remoto ou no momento do pause."
+      },
+      {
+       "titulo": "Conexión",
+       "texto": "Title Sponsorship, Promotional Frame e Promotional Bumper: a marca patrocina um título específico do catálogo."
+      }
+     ],
+     "faixa": "100% dos formatos non-skippable. Pre-roll e mid-roll disponíveis para venda programática via PG e PMP."
+    },
+    {
+     "tipo": "numeros",
+     "eyebrow": "Audiência",
+     "titulo": "Quem assiste à HBO Max no Brasil",
+     "intro": "Perfil da base do plano básico com anúncios.",
+     "itens": [
+      {
+       "valor": "56%",
+       "rotulo": "classes CD"
+      },
+      {
+       "valor": "40%",
+       "rotulo": "classes AB"
+      },
+      {
+       "valor": "54%",
+       "rotulo": "hombres"
+      },
+      {
+       "valor": "46%",
+       "rotulo": "mujeres"
+      },
+      {
+       "valor": "49%",
+       "rotulo": "millennials (25–44 anos)"
+      },
+      {
+       "valor": "20%",
+       "rotulo": "Geração Z (16–24 anos)"
+      }
+     ],
+     "listas": [
+      {
+       "titulo": "Segmentações de mídia",
+       "itens": [
+        "Demo: idade e gênero",
+        "Conteúdo: títulos e temáticas",
+        "Geográfica: regiões e estados",
+        "Clusters: gêneros contextuais"
+       ]
+      }
+     ],
+     "fonte": "GWI Core 2025, Streaming, Brasil e Global."
+    },
+    {
+     "tipo": "spec",
+     "eyebrow": "Clusters e 2026",
+     "titulo": "Target com precisão. Entrega com propósito.",
+     "intro": "Clusters criados a partir de análises geracionais, psicográficas, de interesses e atitudes.",
+     "colunas": [
+      {
+       "titulo": "Gerações",
+       "itens": [
+        "Gen X (1965–1980)",
+        "Millennials (1981–1996)",
+        "Gen Z (1997–2010)",
+        "Gen Alpha (a partir de 2011)"
+       ]
+      },
+      {
+       "titulo": "Clusters",
+       "itens": [
+        "Kids & Family",
+        "Gamer",
+        "Geek",
+        "Music & Awards Passionates",
+        "Well Informed",
+        "Digital Influencers",
+        "Streaming TV fans",
+        "Sports Enthusiast"
+       ]
+      },
+      {
+       "titulo": "Lançamentos 2026",
+       "itens": [
+        "Industry",
+        "Cavaleiro dos Sete Reinos",
+        "The Pitt",
+        "Dona Beja",
+        "Rooster",
+        "Euphoria",
+        "House of the Dragon",
+        "Cidade de Deus",
+        "Hacks",
+        "Half Man",
+        "Rouge"
+       ]
+      },
+      {
+       "titulo": "Ao vivo e always on",
+       "itens": [
+        "Paulistão",
+        "Champions League",
+        "Friends",
+        "Sex and the City",
+        "DC",
+        "The Big Bang Theory",
+        "Harry Potter"
+       ]
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-hbomax.png"
+  },
+  {
+   "id": "tnt-sports",
+   "nome": "TNT Sports + YouTube",
+   "frente": "streaming-ctv",
+   "ordem": 5,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "50–58",
+   "chamada": "A emoção do esporte. A presença da sua marca.",
+   "descricao": "O maior creator esportivo do Brasil. Atual casa da Champions League e do Paulistão e, a partir de 2027, da Sudamericana.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Player esportivo nº 1",
+     "titulo": "Maior do que a soma dos concorrentes",
+     "itens": [
+      {
+       "valor": "43,4 bi",
+       "rotulo": "de views, 63% acima da soma dos concorrentes"
+      },
+      {
+       "valor": "4,7 bi",
+       "rotulo": "de interações, 2x mais que o principal concorrente"
+      }
+     ],
+     "fonte": "Dados de janeiro a dezembro de 2025."
+    },
+    {
+     "tipo": "destaque",
+     "valor": "+12,5 mi",
+     "rotulo": "de inscritos no canal do YouTube",
+     "cards": [
+      {
+       "titulo": "Unique viewers",
+       "texto": "mais de 13,7 milhões por mês (jan–dez 2025).",
+       "valor": "+13,7 mi"
+      },
+      {
+       "titulo": "Horas assistidas",
+       "texto": "mais de 83 milhões.",
+       "valor": "+83 mi"
+      },
+      {
+       "titulo": "Video views",
+       "texto": "mais de 75 milhões por mês.",
+       "valor": "+75 mi"
+      }
+     ],
+     "fonte": "YouTube Analytics, 2025."
+    },
+    {
+     "tipo": "numeros",
+     "eyebrow": "Nossa audiência",
+     "titulo": "O player mais forte entre os jovens no digital",
+     "itens": [
+      {
+       "valor": "+85%",
+       "rotulo": "da base é de homens"
+      },
+      {
+       "valor": "+1,5 mi",
+       "rotulo": "de mulheres inscritas"
+      },
+      {
+       "valor": "+55%",
+       "rotulo": "da base tem mais de 25 anos"
+      },
+      {
+       "valor": "58%",
+       "rotulo": "abaixo dos 34 anos: 7 milhões de jovens no canal, proporção 18% maior que a da Cazé TV (49%)"
+      },
+      {
+       "valor": "87%",
+       "rotulo": "de homens (10,5 milhões): a maior concentração em relação a Cazé TV, ESPN, GETV e SporTV"
+      }
+     ],
+     "fonte": "YouTube Analytics jan–dez 2025; TNT Sports Brasil; Tubular Brasil, últimos 6 meses."
+    },
+    {
+     "tipo": "numeros",
+     "eyebrow": "Share por device",
+     "titulo": "Engajamento acima da média da plataforma",
+     "itens": [
+      {
+       "valor": "62%",
+       "rotulo": "mobile"
+      },
+      {
+       "valor": "31%",
+       "rotulo": "TV"
+      },
+      {
+       "valor": "7%",
+       "rotulo": "desktop"
+      },
+      {
+       "valor": "7,1%",
+       "rotulo": "de CTR, 255% acima da média da plataforma"
+      },
+      {
+       "valor": "10,3%",
+       "rotulo": "de VCR"
+      }
+     ],
+     "fonte": "YouTube Analytics 2025; Media Tech / Buzz Voice."
+    },
+    {
+     "tipo": "spec",
+     "eyebrow": "Programação",
+     "titulo": "O tempo inteiro, com uma programação completa",
+     "colunas": [
+      {
+       "titulo": "Ao vivo",
+       "itens": [
+        "Live do André Henning",
+        "De Placa",
+        "MFM e MFM Semanas de Champions",
+        "Arquibancada (todos os campeonatos)",
+        "Pós-jogo Último Lance Champions",
+        "Prorrogação"
+       ]
+      },
+      {
+       "titulo": "Diários e especiais",
+       "itens": [
+        "Fred e Bechler",
+        "De Sola a 10",
+        "De Zero a 10",
+        "MFM Especial Jogos Europeus",
+        "Mano a Mano"
+       ]
+      },
+      {
+       "titulo": "Cortes e recortes",
+       "itens": [
+        "Cortes De Sola",
+        "Conexão Europa",
+        "Jogos para Sempre",
+        "Vídeos de análises",
+        "Cortes De Placa"
+       ]
+      },
+      {
+       "titulo": "Com grande elenco",
+       "itens": [
+        "Ricardinho Martins",
+        "Renato Rodrigues",
+        "Marcelo Bechler",
+        "André Henning",
+        "Taynah Espinoza",
+        "Octavio Neto",
+        "VSR",
+        "Giovanna Kill",
+        "Mauro Beting",
+        "Victor Lopes"
+       ]
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-tntsports.png",
+   "logosArte": [
+    "assets/p/logo-tntsports.png",
+    "assets/p/icon-youtube.webp"
+   ]
+  },
+  {
+   "id": "globo",
+   "nome": "Produtos Globo",
+   "frente": "streaming-ctv",
+   "ordem": 6,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "59–74",
+   "chamada": "Diferentes conteúdos. Mais caminhos para sua marca.",
+   "descricao": "Vários produtos Globo para você incrementar a sua campanha, comprando via GAMA de forma programática. Mais agilidade, mais disponibilidade para suas estratégias e toda a audiência da líder de mercado à sua disposição.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Globoplay",
+     "titulo": "25 milhões de usuários mensais em todo o Brasil",
+     "paragrafos": [
+      "Com alcance médio de 25 milhões de usuários mensais, o Globoplay oferece um alcance inigualável para as empresas que desejam alcançar um público amplo e diversificado.",
+      "E agora você pode estar em todo o Globoplay com entrega de 30\" no mid-roll sem skip."
+     ],
+     "stats": [
+      {
+       "valor": "56%",
+       "rotulo": "da audiência do Globoplay é das classes AB"
+      },
+      {
+       "valor": "70%",
+       "rotulo": "da audiência da TV Globo é das classes C e DE"
+      }
+     ],
+     "imagem": "assets/p/img-globoplay.webp",
+     "fonte": "Insights de Mídia & Mercado | IM NIP Globo.",
+     "logo": "assets/p/logo-globoplay.png"
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "ge e Cartola",
+     "titulo": "O maior portal esportivo e o maior fantasy game do Brasil",
+     "cols": 2,
+     "cards": [
+      {
+       "titulo": "ge",
+       "texto": "Mais de 33,6 milhões de usuários únicos mensais. +741 milhões de visualizações de páginas por mês, +102 milhões de views em vídeos mensais, +25 milhões de seguidores nas redes e +1,3 bilhão de videoviews/mês no digital.",
+       "valor": "33,6 mi"
+      },
+      {
+       "titulo": "Cartola",
+       "texto": "Presente de abril a dezembro, em toda a temporada do Brasileirão Série A. Um dos públicos mais jovens da Globo (cerca de 61% entre 18 e 34 anos) e líder no público AB.",
+       "valor": "61% 18–34"
+      }
+     ],
+     "faixa": "Formatos: Display · Vídeo instream sem skip até 15\", com skip acima disso · Native",
+     "imagens": [
+      "assets/p/img-ge.webp",
+      "assets/p/img-cartola.webp"
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Notícias e entretenimento",
+     "titulo": "g1, globo.com, Gshow e Receitas",
+     "cols": 4,
+     "cards": [
+      {
+       "titulo": "g1",
+       "texto": "Um dos maiores portais de notícias do Brasil: política, economia, emprego, educação, saúde, meio ambiente, tecnologia, ciência, cultura e carros.",
+       "valor": "+56 mi"
+      },
+      {
+       "titulo": "globo.com",
+       "texto": "Jornalismo, esporte, entretenimento e mais. A porta de entrada para os demais produtos Globo.",
+       "valor": "+10 mi"
+      },
+      {
+       "titulo": "Gshow",
+       "texto": "Estratégia redesenhada com os criadores de conteúdo, acompanhando as transformações do consumo de mídia.",
+       "valor": "+14 mi"
+      },
+      {
+       "titulo": "Receitas",
+       "texto": "O portal gratuito conecta o ecossistema multiplataforma da Globo com a gastronomia.",
+       "valor": "+6 mi"
+      }
+     ],
+     "nota": "Usuários únicos por mês.",
+     "faixa": "Formatos: Display · Vídeo instream sem skip até 15\", com skip acima disso · Native",
+     "logos": [
+      "assets/p/logo-g1.webp",
+      "assets/p/logo-globocom.webp",
+      "assets/p/logo-gshow.webp"
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-globoplay.png",
+   "imagem": {
+    "src": "assets/p/img-globoplay.webp",
+    "alt": "Tela do Globoplay"
+   }
+  },
+  {
+   "id": "ctv",
+   "nome": "CTV",
+   "frente": "streaming-ctv",
+   "ordem": 7,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "75–83",
+   "chamada": "La experiencia de la TV conectada, con estrategia.",
+   "descricao": "La TV conectada representa la evolución del consumo de video: combina el impacto de la televisión tradicional con la inteligencia del digital para generar un impacto calificado, medible e integrado en todo el recorrido del consumidor.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Contexto",
+     "titulo": "El consumo en pantallas conectadas ya es una realidad consolidada",
+     "itens": [
+      {
+       "valor": "51%",
+       "rotulo": "de los usuarios usan Smart TVs para consumir contenido"
+      },
+      {
+       "valor": "36%",
+       "rotulo": "ya conocieron nuevos productos por anuncios en CTV"
+      },
+      {
+       "valor": "34%",
+       "rotulo": "buscaron en internet después de ver un anuncio en la TV conectada"
+      }
+     ],
+     "intro": "La CTV no es solo un canal de exposición: genera acción, consideración y continuidad del recorrido. Ya actúa más allá de la parte alta del embudo."
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Estrategia",
+     "titulo": "Tres pilares principales",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Impacto en pantalla grande",
+       "texto": "Entrega de video en un entorno inmersivo, con alto nivel de atención.",
+       "valor": "01"
+      },
+      {
+       "titulo": "Datos y segmentación",
+       "texto": "Uso de datos vía IP/Wi-Fi y de comportamiento para calificar la audiencia.",
+       "valor": "02"
+      },
+      {
+       "titulo": "Integración del recorrido",
+       "texto": "Conexión entre TV, móvil y desktop, lo que permite dar continuidad a la comunicación.",
+       "valor": "03"
+      }
+     ],
+     "faixa": "Resultado: mayor retención del mensaje, mayor recordación de marca y mejor percepción de valor."
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "Ecosistema de distribución",
+     "titulo": "Sin depender de un streaming específico",
+     "paragrafos": [
+      "La estrategia no depende de una plataforma específica, sino de un ecosistema completo de CTV, con gran variedad de canales FAST y fabricantes.",
+      "El crecimiento de los dispositivos conectados (Smart TVs, dispositivos y canales FAST) consolida a la CTV como uno de los principales puntos de contacto dentro del hogar."
+     ],
+     "logos": [
+      "assets/p/ctv-sony.webp",
+      "assets/p/ctv-tlc.webp",
+      "assets/p/ctv-jpnews.webp",
+      "assets/p/ctv-sbt.webp",
+      "assets/p/ctv-lg.webp",
+      "assets/p/ctv-sky.webp",
+      "assets/p/logo-plutotv.png"
+     ],
+     "imagem": "assets/p/img-ctv-tv.webp"
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-ctv-mulher.webp",
+    "alt": "Mujer viendo TV en casa"
+   },
+   "arte": "circulo"
+  },
+  {
+   "id": "youtube-insights",
+   "nome": "YouTube",
+   "frente": "streaming-ctv",
+   "ordem": 8,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "120–124",
+   "chamada": "Entender a la audiencia cambia la forma de alcanzarla.",
+   "descricao": "En Brasil, YouTube tiene más de 120 millones de usuarios conectados al mes. Es la plataforma de video favorita de los brasileños, incluida la Generación Z (18–24 años).",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "YouTube también es un canal",
+     "titulo": "Dale play a esta idea",
+     "intro": "No solemos pensar en YouTube como un canal de CTV, pero tiene más de 76 millones de espectadores. Un estudio de Offerwise muestra dónde prefieren ver los videos de la plataforma:",
+     "itens": [
+      {
+       "valor": "120 M",
+       "rotulo": "de usuarios conectados al mes"
+      },
+      {
+       "valor": "76 M",
+       "rotulo": "de espectadores"
+      },
+      {
+       "valor": "78%",
+       "rotulo": "smartphones, Smart TVs, desktops o laptops y tablets"
+      },
+      {
+       "valor": "74%",
+       "rotulo": "Smart TVs"
+      }
+     ],
+     "fonte": "Blog de YouTube; Offerwise."
+    },
+    {
+     "tipo": "galeria",
+     "eyebrow": "Comunidades",
+     "titulo": "Conéctate con tu público dentro de comunidades comprometidas con el contenido y con sus creadores favoritos",
+     "intro": "Algunos ejemplos de canales que podemos segmentar para tus campañas.",
+     "imagens": [
+      {
+       "src": "assets/p/img-yt1.webp",
+       "legenda": "Noticias"
+      },
+      {
+       "src": "assets/p/img-yt3.webp",
+       "legenda": "Deportes"
+      },
+      {
+       "src": "assets/p/img-yt2.webp",
+       "legenda": "Gastronomía"
+      },
+      {
+       "src": "assets/p/img-yt4.webp",
+       "legenda": "Entretenimiento"
+      },
+      {
+       "src": "assets/p/img-yt5.webp",
+       "legenda": "Podcasts"
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/icon-youtube.webp"
+  },
+  {
+   "id": "pluto-tv",
+   "nome": "Pluto TV",
+   "frente": "streaming-ctv",
+   "ordem": 9,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "125–127",
+   "chamada": "Sua marca em novas formas de assistir.",
+   "descricao": "Primeiro streaming gratuito do mundo. Sua marca em mídia segmentada em CTV, web e mobile.",
+   "paginas": [
+    {
+     "tipo": "spec",
+     "eyebrow": "Segmentações e clusters",
+     "titulo": "Pluto TV",
+     "colunas": [
+      {
+       "titulo": "Geo",
+       "itens": [
+        "País",
+        "UF",
+        "Cidade"
+       ]
+      },
+      {
+       "titulo": "Device",
+       "itens": [
+        "CTV",
+        "Mobile",
+        "Web"
+       ]
+      },
+      {
+       "titulo": "Contextual",
+       "itens": [
+        "Categoria",
+        "Cluster"
+       ]
+      },
+      {
+       "titulo": "Clusters",
+       "itens": [
+        "Filmes e séries",
+        "VOD",
+        "Música",
+        "Curiosidades",
+        "Infantil",
+        "Estilo de vida",
+        "Comédia",
+        "Investigação",
+        "Deportes",
+        "Entretenimiento",
+        "Anime & Geek",
+        "Noticias"
+       ]
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-plutotv.png"
+  },
+  {
+   "id": "midia-programatica",
+   "nome": "Medios programáticos",
+   "frente": "programatica",
+   "ordem": 1,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "5–8, 154–156",
+   "chamada": "La tecnología opera. La estrategia marca la diferencia.",
+   "descricao": "Practicidad y tecnología. Muchos más datos y resultados. Con sistemas de localización, datos de audiencia e inteligencia artificial, los medios programáticos son una excelente herramienta para optimizar y gestionar tus campañas.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Cómo los medios programáticos pueden ayudar a tu marca",
+     "titulo": "La solución que automatiza la compra y venta de espacios publicitarios",
+     "paragrafos": [
+      "El mundo evoluciona constantemente. Comportamientos, productos y servicios cambian todo el tiempo. En la publicidad no es diferente: los medios programáticos nacieron de las nuevas exigencias del público y de los anunciantes.",
+      "Con el desarrollo de las DSP (demand-side platforms), es posible comprar medios de forma automatizada en los principales sitios web y aplicaciones."
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Medios programáticos",
+     "titulo": "Alcanza a la audiencia correcta, en el momento correcto",
+     "cols": 2,
+     "cards": [
+      {
+       "titulo": "Eficiencia e inteligencia",
+       "texto": "Sea cual sea tu audiencia y tu objetivo, diseñamos las mejores estrategias para que encuentres a tu cliente dondequiera que esté."
+      },
+      {
+       "titulo": "Automatización, escala y performance",
+       "texto": "Una entrega totalmente medible y optimizada en tiempo real. Es posible configurar cada etapa del embudo, del awareness a la conversión, con segmentaciones por comportamiento, geolocalización, intereses, datos demográficos y mucho más."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dados",
+   "nome": "Uso de datos",
+   "frente": "programatica",
+   "ordem": 2,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "6, 13–14",
+   "chamada": "Los datos solo marcan la diferencia cuando ayudan a decidir.",
+   "descricao": "Performance basada en datos: una solución de datos inteligentes que potencia el performance con datos exclusivos.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Data Marketplace",
+     "titulo": "Performance basada en datos",
+     "itens": [
+      {
+       "valor": "500 mil+",
+       "rotulo": "segmentaciones disponibles"
+      },
+      {
+       "valor": "Todos",
+       "rotulo": "los grandes proveedores de datos globales y locales"
+      }
+     ],
+     "listas": [
+      {
+       "titulo": "Tipos de datos",
+       "itens": [
+        "De comportamiento",
+        "Consumo",
+        "Demográficos",
+        "Contextuales",
+        "Geolocalización"
+       ]
+      },
+      {
+       "titulo": "Diferenciales",
+       "itens": [
+        "Integraciones diversas",
+        "Mejores resultados en entrega de video",
+        "Deals nativos",
+        "Todos los streamings",
+        "Fácil integración con DOOH"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marketplace",
+   "nome": "Marketplace",
+   "frente": "programatica",
+   "ordem": 3,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "9–11",
+   "chamada": "Más posibilidades. Una estrategia para cada desafío.",
+   "descricao": "Marketplace Premium: elige dónde merece estar tu marca y nosotros la llevamos allí. En casa, en la calle, en todas partes.",
+   "paginas": []
+  },
+  {
+   "id": "amazon-dsp",
+   "nome": "Amazon DSP",
+   "frente": "programatica",
+   "ordem": 4,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "193–200, 207–208",
+   "chamada": "La decisión correcta empieza con la lectura correcta.",
+   "descricao": "La plataforma de medios programáticos de Amazon conecta marcas con consumidores a partir de datos reales de comportamiento, intención y consumo, dentro y fuera del ecosistema Amazon, en entornos premium, brand safe y de gran escala.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Ecosistema de medios data driven",
+     "titulo": "Datos first-party transaccionales",
+     "paragrafos": [
+      "A diferencia de las plataformas programáticas tradicionales, Amazon DSP usa datos first-party transaccionales, originados en hábitos reales de compra, navegación, búsqueda de productos y consumo de contenido. Esto permite campañas más eficientes en awareness, consideración y performance.",
+      "Estudios globales indican que las campañas basadas en datos de intención de compra logran mejoras significativas en relevancia, recordación de marca y eficiencia de la inversión."
+     ],
+     "listaTitulo": "Por qué es un diferencial en la planificación",
+     "lista": [
+      "Datos de comportamiento real de consumo, no solo intereses inferidos",
+      "Escala masiva con control de frecuencia",
+      "Activación omnicanal (display, video, audio y streaming)",
+      "Entornos premium",
+      "Actuación integrada en la parte alta, media y baja del embudo"
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Formatos de Amazon DSP",
+     "titulo": "Un formato para cada rol estratégico",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Display · awareness",
+       "texto": "Presencia, alcance calificado y frecuencia continua en sitios y apps asociados de Amazon, con segmentación por intención de compra por categoría."
+      },
+      {
+       "titulo": "Display · tráfico calificado",
+       "texto": "Visitas más calificadas a sitios y landing pages, priorizando públicos que ya demostraron una intención concreta de compra."
+      },
+      {
+       "titulo": "Video programático",
+       "texto": "Storytelling y atributos en formatos in-stream y out-stream. El video puede aumentar la recordación de marca hasta en un 80% con datos calificados."
+      }
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "El rol en el embudo",
+     "titulo": "Todo dentro de un único ecosistema de datos",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Parte alta del embudo",
+       "texto": "Display, video, audio y Twitch para alcance y recordación."
+      },
+      {
+       "titulo": "Parte media del embudo",
+       "texto": "Refuerzo del mensaje, consideración y atributos."
+      },
+      {
+       "titulo": "Parte baja del embudo",
+       "texto": "Tráfico calificado y remarketing con públicos de alta intención."
+      }
+     ],
+     "faixa": "No es solo alcance. Es presencia con inteligencia."
+    }
+   ],
+   "logo": "assets/p/logo-amazon.webp"
+  },
+  {
+   "id": "webedia",
+   "nome": "Webedia",
+   "frente": "programatica",
+   "ordem": 5,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "209–210",
+   "chamada": "Conteúdo, contexto e presença com propósito.",
+   "descricao": "Você escolhe a melhor estratégia: instream, outstream ou display.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Webedia",
+     "titulo": "Escala em portais de conteúdo",
+     "itens": [
+      {
+       "valor": "+1 bi",
+       "rotulo": "de impressões totais"
+      },
+      {
+       "valor": "+70 mi",
+       "rotulo": "de usuários únicos por mês"
+      },
+      {
+       "valor": "+100 mi",
+       "rotulo": "de views no site por mês"
+      }
+     ],
+     "logos": [
+      "assets/p/logo-tudogostoso.webp",
+      "assets/p/logo-minhavida.webp",
+      "assets/p/logo-purepeople.webp",
+      "assets/p/logo-ign.webp",
+      "assets/p/logo-adorocinema.webp"
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-webedia.png"
+  },
+  {
+   "id": "audio-digital",
+   "nome": "Plataformas de audio",
+   "frente": "audio",
+   "ordem": 1,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "128–139",
+   "chamada": "Tu marca también tiene espacio en lo que el público escucha.",
+   "descricao": "El audio dejó de ser un formato complementario y pasó a ocupar un papel central en la rutina del consumidor: en el auto, en el gimnasio, en el trabajo y en el ocio, en momentos de alta atención y sin la saturación visual de otros medios.",
+   "paginas": [
+    {
+     "tipo": "cards",
+     "eyebrow": "Un pilar estratégico",
+     "titulo": "Tres funciones principales del audio",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Presencia continua y contextual",
+       "texto": "Impactar al consumidor en diferentes momentos del día, acompañando su recorrido de forma natural y no intrusiva.",
+       "valor": "01"
+      },
+      {
+       "titulo": "Construcción de marca con alta atención",
+       "texto": "El audio crea una conexión más íntima con el usuario, favoreciendo la retención del mensaje y la asociación emocional.",
+       "valor": "02"
+      },
+      {
+       "titulo": "Precisión e inteligencia de datos",
+       "texto": "Segmentaciones de comportamiento, demográficas y contextuales para reducir la dispersión y aumentar la relevancia.",
+       "valor": "03"
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "El audio digital como canal estratégico",
+     "titulo": "Movilidad: el gran diferencial del audio",
+     "paragrafos": [
+      "El consumo online ya supera al tradicional en ciertos momentos, y el digital representa más de la mitad del alcance entre los grandes players. El 64% de la audiencia total de audio ya está soportada por anuncios.",
+      "El audio no depende de la atención visual: se consume de forma individual, sin competencia de múltiples estímulos, en momentos de concentración o relajación. Resultado: mayor retención del mensaje, mayor recordación de marca y una asociación emocional más fuerte."
+     ],
+     "listaTitulo": "Presente donde otros medios no llegan",
+     "lista": [
+      "Durante los traslados (auto, transporte público)",
+      "Durante la actividad física",
+      "En el trabajo",
+      "En las tareas del día a día"
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Spotify, Deezer y Amazon Music",
+     "titulo": "Escala + inteligencia",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Spotify",
+       "texto": "Más de 600 millones de usuarios activos al mes. Gran capacidad para entender hábitos y preferencias. Liderazgo en el consumo de audio digital."
+      },
+      {
+       "titulo": "Amazon Music (vía DSP)",
+       "texto": "Datos basados en comportamiento real e intención. Integración con todo el ecosistema Amazon. Entornos premium y alta calidad de entrega."
+      },
+      {
+       "titulo": "Deezer y radios online",
+       "texto": "Complemento de cobertura, ampliación de frecuencia y diversificación de inventario."
+      }
+     ],
+     "logos": [
+      "assets/p/logo-spotify-full.png",
+      "assets/p/logo-amazonmusic-black.png",
+      "assets/p/logo-deezer.png",
+      "assets/p/logo-youtubemusic.png"
+     ]
+    },
+    {
+     "tipo": "spec",
+     "eyebrow": "Cómo anunciar",
+     "titulo": "Integrado vía medios programáticos",
+     "intro": "Conectamos la marca con las principales plataformas de audio digital, como Spotify, Deezer y radios online, con escala, eficiencia e inteligencia de datos.",
+     "colunas": [
+      {
+       "titulo": "Plataformas",
+       "itens": [
+        "Spotify Ads",
+        "Deezer",
+        "Radios online"
+       ]
+      },
+      {
+       "titulo": "Objetivos",
+       "itens": [
+        "Escuchas"
+       ]
+      },
+      {
+       "titulo": "Formato",
+       "itens": [
+        "Spot de hasta 30\""
+       ]
+      },
+      {
+       "titulo": "Segmentaciones",
+       "itens": [
+        "Región geográfica",
+        "Comportamientos",
+        "Datos demográficos",
+        "Contexto"
+       ]
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/icon-fone.png"
+  },
+  {
+   "id": "spotify",
+   "nome": "Spotify",
+   "frente": "audio",
+   "ordem": 2,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "140–144",
+   "chamada": "Presencia que sigue el ritmo del público.",
+   "descricao": "Spotify Ads ofrece una estructura completa de configuración de campañas, que permite personalizarlas según los objetivos y necesidades de cada estrategia.",
+   "paginas": [
+    {
+     "tipo": "destaque",
+     "valor": "600 M+",
+     "rotulo": "de usuarios activos al mes",
+     "cards": [
+      {
+       "titulo": "Escala",
+       "texto": "Spotify cuenta con más de 600 millones de usuarios activos al mes, con un alcance masivo en un entorno altamente comprometido."
+      },
+      {
+       "titulo": "Inventario con anuncios",
+       "texto": "Más de 379 millones de usuarios están en la versión con anuncios, lo que amplía significativamente las oportunidades de impacto."
+      },
+      {
+       "titulo": "Liderazgo de mercado",
+       "texto": "En el segmento de audio digital, Spotify lidera en consumo y relevancia, y se consolida como la principal plataforma del país."
+      },
+      {
+       "titulo": "Precisión",
+       "texto": "La plataforma usa datos de comportamiento y hábitos de consumo para entregar campañas altamente segmentadas y relevantes, conectando marcas y audiencias de forma eficiente."
+      }
+     ]
+    },
+    {
+     "tipo": "spec",
+     "eyebrow": "Cómo anunciar",
+     "titulo": "Cómo anunciar",
+     "colunas": [
+      {
+       "titulo": "Plataformas",
+       "itens": [
+        "Spotify Ads"
+       ]
+      },
+      {
+       "titulo": "Objetivos",
+       "itens": [
+        "Visualizaciones de video",
+        "Escuchas de Spot",
+        "Alcance"
+       ]
+      },
+      {
+       "titulo": "Formatos",
+       "itens": [
+        "Video",
+        "Spot"
+       ]
+      },
+      {
+       "titulo": "Segmentaciones",
+       "itens": [
+        "Región geográfica",
+        "Comportamientos",
+        "Datos demográficos",
+        "Contexto"
+       ]
+      }
+     ],
+     "cards": [
+      {
+       "titulo": "Anuncios en video",
+       "texto": "Los anuncios en video se muestran en las sesiones de streaming mientras el usuario navega por el catálogo para descubrir música y podcasts. Aprovecha la mayor visibilidad del sector."
+      }
+     ],
+     "imagem": "assets/spotify-video-ads.webp"
+    }
+   ],
+   "logo": "assets/p/logo-spotify-full.png",
+   "imagem": {
+    "src": "assets/spotify-video-ads.webp",
+    "alt": "Anuncios en video en Spotify"
+   }
+  },
+  {
+   "id": "amazon-music",
+   "nome": "Amazon Music",
+   "frente": "audio",
+   "ordem": 3,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "145–149",
+   "chamada": "Conexiones que empiezan por el sonido.",
+   "descricao": "Amazon Music, integrado a Amazon DSP, permite impactar a los usuarios en momentos en que otras pantallas no están en foco, creando una conexión directa, íntima y memorable con la marca.",
+   "paginas": [
+    {
+     "tipo": "cards",
+     "eyebrow": "Por qué el audio es estratégico",
+     "titulo": "Alta atención y baja saturación publicitaria",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Lo que dicen los estudios",
+       "texto": "Los anuncios en audio muestran altos índices de recordación espontánea y fuerte asociación emocional. Las campañas integradas (audio + display o video) potencian los resultados de awareness."
+      },
+      {
+       "titulo": "Diferencial en el DSP",
+       "texto": "Segmentación basada en comportamiento e intención, entornos premium sin exceso de anuncios e integración con display y video para reforzar la frecuencia."
+      },
+      {
+       "titulo": "Perfil del público",
+       "texto": "Adulto y económicamente activo, con fuerte presencia en el rango de 25 a 44 años. Multitarea, conectado a lo largo del día entre móvil, parlantes inteligentes y dispositivos conectados."
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-amazonmusic-black.png",
+   "imagem": {
+    "src": "assets/p/img-amazonmusic.webp",
+    "alt": "Amazon Music"
+   }
+  },
+  {
+   "id": "geofence",
+   "nome": "Geofence",
+   "frente": "retail-mobile",
+   "ordem": 1,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "157",
+   "chamada": "Segmentación geolocalizada (GPS).",
+   "descricao": "Usa puntos de latitud y longitud para impactar a personas que pasaron por esos lugares, incluso después de que se hayan desplazado.",
+   "paginas": [
+    {
+     "tipo": "cards",
+     "eyebrow": "Foco en entrega regional",
+     "titulo": "Impacta la zona cercana a tu negocio",
+     "cols": 2,
+     "cards": [
+      {
+       "titulo": "Nuevos visitantes",
+       "texto": "Atrae nuevos visitantes a tu punto físico con campañas y promociones personalizadas. Dirige la entrega a los barrios y calles cercanos a tu negocio."
+      },
+      {
+       "titulo": "Precisión",
+       "texto": "Entregas para quienes pasaron por tu tienda. Combínalo con otros canales, como DOOH."
+      }
+     ],
+     "faixa": "Disponible a partir de 10 direcciones · Radio mínimo de 5 km alrededor de la dirección"
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-geofence-pin.webp",
+    "alt": "Pin de ubicación sobre el mapa de una ciudad"
+   },
+   "arte": "circulo"
+  },
+  {
+   "id": "drive-to-store",
+   "nome": "Drive to Store con Footfall",
+   "frente": "retail-mobile",
+   "ordem": 2,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "158",
+   "chamada": "Impacta a tu cliente en el lugar y el momento correctos.",
+   "descricao": "Usa los insights de ubicación de los usuarios para crear públicos relevantes y segmentarlos en el lugar y el momento correctos.",
+   "paginas": [
+    {
+     "tipo": "cards",
+     "eyebrow": "Foco en entrega regional",
+     "titulo": "Impacta la zona cercana a tu negocio u otras ubicaciones",
+     "cols": 2,
+     "cards": [
+      {
+       "titulo": "Visita asistida",
+       "texto": "Lleva a tu cliente a tu tienda física a través de la visita asistida."
+      },
+      {
+       "titulo": "Precisión",
+       "texto": "Entregas para quienes están cerca de tu tienda."
+      }
+     ],
+     "faixa": "Radio mínimo de 4 km alrededor de la dirección"
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-store.webp",
+    "alt": "Tienda física"
+   }
+  },
+  {
+   "id": "telecom",
+   "nome": "Telecom Mídias",
+   "frente": "retail-mobile",
+   "ordem": 3,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "211–215, 220–226",
+   "chamada": "Novos pontos de contato. Novas possibilidades.",
+   "descricao": "Soluções de mídia digital baseadas em dados proprietários das operadoras de telefonia, para impactar consumidores de forma precisa, escalável e segura, diretamente nos seus dispositivos móveis.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Ecossistema de mídia mobile com dados first-party",
+     "titulo": "Claro, Vivo e TIM: mais de 220 milhões de smartphones",
+     "paragrafos": [
+      "Por meio da parceria com as três maiores operadoras do Brasil, as Telecom Mídias oferecem acesso a uma base superior a 220 milhões de smartphones conectados, cobrindo praticamente toda a população móvel ativa do país.",
+      "Segundo dados do mercado, 120 milhões de brasileiros acessam a internet exclusivamente pelo celular."
+     ],
+     "listaTitulo": "Diferencial estratégico",
+     "lista": [
+      "Dados first-party das operadoras",
+      "Cobertura nacional e escala massiva",
+      "Hyper targeting avançado",
+      "Fraude zero",
+      "Ambientes brand safe",
+      "Ativação multicanal (push, SMS, RCS, display e vídeo)"
+     ],
+     "logosLado": [
+      "assets/p/logo-claro.png",
+      "assets/p/logo-vivo.png",
+      "assets/p/logo-tim.png"
+     ]
+    },
+    {
+     "tipo": "spec",
+     "eyebrow": "Hyper targeting",
+     "titulo": "Dados que fazem a diferença",
+     "intro": "Segmentações extremamente precisas, combinando múltiplas camadas de dados:",
+     "colunas": [
+      {
+       "titulo": "Perfil",
+       "itens": [
+        "DDD, estado e cidade",
+        "Idade e gênero",
+        "Score de crédito"
+       ]
+      },
+      {
+       "titulo": "Consumo",
+       "itens": [
+        "Tipo de plano e gasto mensal",
+        "Perfil digital e preferências de consumo"
+       ]
+      },
+      {
+       "titulo": "Dispositivo",
+       "itens": [
+        "Modelo de aparelho e sistema operacional",
+        "Apps instalados"
+       ]
+      },
+      {
+       "titulo": "Localização",
+       "itens": [
+        "Geolocalización",
+        "Geofencing",
+        "Rotas de mobilidade"
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "passos",
+     "eyebrow": "Aplicação em PJ (B2B)",
+     "titulo": "O anunciante compra o público PJ certo",
+     "intro": "A comunicação em PJ utiliza informações reais do CNPJ, associadas ao uso da linha corporativa, para impactar decisores corporativos.",
+     "passos": [
+      {
+       "titulo": "A marca compra o target",
+       "texto": "Por CNPJ, CNAE, porte da empresa e localização (estado, cidade ou região)."
+      },
+      {
+       "titulo": "A operadora identifica o comportamento",
+       "texto": "Qual canal gera maior taxa de abertura, qual formato responde melhor e qual meio é mais eficiente para cada perfil."
+      },
+      {
+       "titulo": "A entrega é automática pelo melhor canal",
+       "texto": "Push (impacto direto e imediato), RCS (formato rico e interativo, como um mini-site) ou e-mail (comunicações formais e institucionais)."
+      }
+     ],
+     "faixa": "Aplicações: vendas corporativas · serviços financeiros e crédito PJ · telecom, tecnologia e SaaS · educação corporativa · geração de leads B2B · ativações por CNAE"
+    }
+   ],
+   "logosArte": [
+    "assets/p/logo-claro.png",
+    "assets/p/logo-vivo.png",
+    "assets/p/logo-tim.png"
+   ]
+  },
+  {
+   "id": "canais-impacto",
+   "nome": "Canais de Impacto",
+   "frente": "retail-mobile",
+   "ordem": 4,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "216–219",
+   "chamada": "Presença que encontra o público no cotidiano.",
+   "descricao": "Push, RCS e SMS: formatos de comunicação direta no dispositivo móvel, com personalização, geolocalização e call-to-action imediato.",
+   "paginas": [
+    {
+     "tipo": "cards",
+     "eyebrow": "Push, RCS e SMS",
+     "titulo": "Imediaticidade para promoções, tráfego e conversão",
+     "cols": 2,
+     "cards": [
+      {
+       "titulo": "Perfil del público",
+       "texto": "Público amplo e massivo, com forte penetração nas classes B e C, usuários conectados diariamente e alta taxa de leitura e resposta."
+      },
+      {
+       "titulo": "Por que investir",
+       "texto": "Formatos ideais para campanhas promocionais, geração de tráfego, ativações locais e conversão, com as segmentações de dados das operadoras."
+      }
+     ],
+     "imagem": "assets/p/img-push-rcs-sms.webp"
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-push-rcs-sms.webp",
+    "alt": "Canais de Impacto"
+   }
+  },
+  {
+   "id": "push",
+   "nome": "Push",
+   "frente": "retail-mobile",
+   "ordem": 5,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "227–229",
+   "chamada": "El mensaje correcto, en el momento que importa.",
+   "descricao": "Las notificaciones push aprovechan el consentimiento previo del suscriptor para entregar anuncios al instante en cualquier dispositivo.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Cómo funciona",
+     "titulo": "Visible incluso cuando el usuario no está navegando",
+     "itens": [
+      {
+       "valor": "2 mil M+",
+       "rotulo": "de impresiones disponibles por día"
+      }
+     ],
+     "listas": [
+      {
+       "titulo": "Por qué usarlo",
+       "itens": [
+        "Grandes volúmenes",
+        "Segmentación geográfica",
+        "Lo mejor para quienes quieren anunciar de forma agresiva"
+       ]
+      }
+     ],
+     "imagem": "assets/p/img-push.webp"
+    }
+   ]
+  },
+  {
+   "id": "tinder",
+   "nome": "Tinder",
+   "frente": "retail-mobile",
+   "ordem": 6,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "150–153",
+   "chamada": "Conexões relevantes começam pelo contexto certo.",
+   "descricao": "O app nº 1 em lifestyle ao redor do mundo. A atenção está na segunda tela.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Audiência do Tinder",
+     "titulo": "Tomadores de decisão, always on",
+     "itens": [
+      {
+       "valor": "7x/dia",
+       "rotulo": "usuários ativos abrem o aplicativo"
+      },
+      {
+       "valor": "6–10 PM",
+       "rotulo": "horário médio de maior tráfego"
+      },
+      {
+       "valor": "66%",
+       "rotulo": "da audiência está em Wi-Fi; 33% usam dados"
+      },
+      {
+       "valor": "70%",
+       "rotulo": "da audiência é formada por Gen Z e Millennials"
+      },
+      {
+       "valor": "+50%",
+       "rotulo": "dos membros do Tinder são da Geração Z"
+      }
+     ],
+     "imagem": "assets/p/img-tinder-tv.webp"
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "Formato",
+     "titulo": "Native Display Cards",
+     "paragrafos": [
+      "Os Native Display Cards permitem 100% de visibilidade: a audiência precisa tomar uma decisão e interagir com a publicidade através do swipe right ou swipe left (sim ou não) para continuar usando o aplicativo.",
+      "Ao interagir com o swipe right, o usuário é direcionado a uma URL de destino definida pelo anunciante."
+     ],
+     "imagem": "assets/p/img-tinder-cards.webp"
+    }
+   ],
+   "logo": "assets/p/logo-tinder-new.png",
+   "imagem": {
+    "src": "assets/p/img-tinder-cards.webp",
+    "alt": "Tinder"
+   }
+  },
+  {
+   "id": "uber",
+   "nome": "Uber",
+   "frente": "retail-mobile",
+   "ordem": 7,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "265–268",
+   "chamada": "Conecte sua marca aos usuários durante todo o trajeto.",
+   "descricao": "Controle a experiência do seu consumidor desde o momento em que ele solicita uma viagem no aplicativo até a chegada ao destino.",
+   "paginas": [
+    {
+     "tipo": "galeria",
+     "eyebrow": "Formatos",
+     "titulo": "Presença em toda a jornada da viagem",
+     "imagens": [
+      {
+       "src": "assets/p/img-uber-journey.webp",
+       "legenda": "Journey Ads: da solicitação da viagem até a chegada ao destino."
+      },
+      {
+       "src": "assets/p/img-uber-display.webp",
+       "legenda": "Display: chame a atenção do usuário com imagens e mensagens de alto impacto."
+      },
+      {
+       "src": "assets/p/img-uber-video.webp",
+       "legenda": "Vídeo: acompanhe o consumidor durante a viagem contando sua história."
+      }
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-uber-icon.png",
+   "imagem": {
+    "src": "assets/p/img-uber-journey.webp",
+    "alt": "Uber"
+   }
+  },
+  {
+   "id": "dooh",
+   "nome": "DOOH",
+   "frente": "retail-mobile",
+   "ordem": 8,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "269–272",
+   "chamada": "Sua marca no caminho das pessoas.",
+   "descricao": "Que tal anunciar em telas de alta definição espalhadas por todos os cantos do Brasil? Segmente seu anúncio como quiser e faça sua marca ser vista por milhões de pessoas, com a mais completa plataforma de anúncios em DOOH programático do mercado.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Visão geral · Inventário Brasil",
+     "titulo": "Dados gerais da segmentação, com base semanal",
+     "itens": [
+      {
+       "valor": "18.984",
+       "rotulo": "monitores"
+      },
+      {
+       "valor": "439,4 mi",
+       "rotulo": "impactos por semana"
+      },
+      {
+       "valor": "R$ 35,54",
+       "rotulo": "CPM médio (tabela)"
+      },
+      {
+       "valor": "25",
+       "rotulo": "estados"
+      },
+      {
+       "valor": "725",
+       "rotulo": "cidades"
+      },
+      {
+       "valor": "73",
+       "rotulo": "categorias"
+      }
+     ],
+     "imagem": "assets/p/img-dooh-detalhe.webp"
+    }
+   ]
+  },
+  {
+   "id": "sync-experience",
+   "nome": "Sync Experience",
+   "frente": "experiencias",
+   "ordem": 1,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "100–119",
+   "chamada": "Quando as telas se conectam, a experiência ganha força.",
+   "descricao": "A solução de sincronização entre mídia offline e digital, conectando inserções de TV, eventos, esportes, clima e outros gatilhos do mundo real com ações digitais em tempo real.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Diferencial estratégico",
+     "titulo": "Presente no momento exato de maior atenção",
+     "paragrafos": [
+      "A marca está presente no momento exato de maior atenção do consumidor, criando uma experiência integrada entre TV, CTV, mobile e desktop."
+     ],
+     "listaTitulo": "Diferenciales",
+     "lista": [
+      "Sincronização em tempo real com TV, esportes, clima e eventos",
+      "Ativação por gatilhos de marca, concorrência, categoria ou conteúdo",
+      "Proteção e amplificação do investimento em TV",
+      "Integração entre primeira e segunda tela",
+      "Continuidade de mensagem ao longo do funil"
+     ],
+     "imagem": "assets/p/img-ctv-tv.webp"
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Soluções dentro do Sync Experience",
+     "titulo": "TV Sync, Home Sync e Target CTV",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "TV Sync",
+       "texto": "Segunda tela sincronizada: a mídia digital entra no exato momento das inserções na TV. Amplifica alcance e frequência, aumenta o engajamento em picos de atenção, com CTR até 8x acima do benchmark digital."
+      },
+      {
+       "titulo": "Home Sync",
+       "texto": "Retargeting cross-device dos usuários impactados na CTV em outros dispositivos do mesmo lar, via sinal de Wi-Fi/IP. Evolui o usuário no funil, com performance superior a ações isoladas."
+      },
+      {
+       "titulo": "Target CTV",
+       "texto": "Segmentação em CTV usando Wi-Fi: guardamos a audiência de quem viu o anúncio no celular ou notebook e categorizamos as audiências com IA em segmentos (ex.: pais de pet)."
+      }
+     ],
+     "imagem": "assets/p/img-homesync.webp"
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "E.UP Context Sync",
+     "titulo": "Sincronização por clima, esporte e eventos",
+     "paragrafos": [
+      "Conecta a comunicação digital da marca a eventos e micro-momentos do mundo real. Gatilhos previamente configurados disparam a mídia sempre que um evento acontece, e os anúncios entram no ar imediatamente em mobile, desktop, display, vídeo ou formatos interativos."
+     ],
+     "listaTitulo": "Gatilhos",
+     "lista": [
+      "Clima: calor, frio, chuva, sol, mudanças bruscas de temperatura",
+      "Esportes: início do jogo, intervalo, gol, fim de partida, cartões, resultados",
+      "Eventos e programação: estreias, datas especiais, transmissões ao vivo, shows, premiações",
+      "Categorias e palavras-chave do contexto"
+     ],
+     "imagem": "assets/p/img-weather.webp"
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Context Sync na prática",
+     "titulo": "Weather Sync, Sport Sync e eventos",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Weather Sync",
+       "texto": "O criativo muda de acordo com o clima: bebidas em dias de calor, produtos de inverno em dias frios, farmacêuticos em mudanças bruscas. Com DCO, combina clima, contexto, horário e praça."
+      },
+      {
+       "titulo": "Sport Sync",
+       "texto": "O criativo reage aos micro-momentos do jogo: pré-jogo, início, intervalo, gol, cartões, fim de jogo. Cases de mercado demonstram VTR e CTR acima do benchmark."
+      },
+      {
+       "titulo": "Eventos e programação",
+       "texto": "Lançamentos e estreias, shows e festivais, datas comerciais, programas de TV e realities. A marca entra na conversa no exato momento em que o tema está em evidência."
+      }
+     ]
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Geolocalização e formatos",
+     "titulo": "Pinpoint, PinPeople e formatos",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Pinpoint",
+       "texto": "Segmentação de micro-raios de até 500 m."
+      },
+      {
+       "titulo": "PinPeople",
+       "texto": "Retargeting das audiências impactadas pelo Pinpoint, como pessoas que frequentaram eventos, shows e feiras."
+      },
+      {
+       "titulo": "Formatos",
+       "texto": "Display e rich media, vídeo digital, Story Adz, formatos interativos e integração com TV Sync e CTV. Tudo pode ser combinado com DCO."
+      }
+     ],
+     "imagem": "assets/p/img-pinpoint.webp"
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-weather.webp",
+    "alt": "Sync Experience"
+   }
+  },
+  {
+   "id": "omnisync",
+   "nome": "Omnisync",
+   "frente": "experiencias",
+   "ordem": 2,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "84–99",
+   "chamada": "De la exposición a la visita: un recorrido conectado.",
+   "descricao": "E.UP OMNISYNC™ Connected Audience Technology. From screen to store: una audiencia, múltiples pantallas, un recorrido conectado.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "El recorrido de la audiencia",
+     "titulo": "Tu consumidor no vive en una sola pantalla. ¿Por qué tu campaña debería hacerlo?",
+     "paragrafos": [
+      "El recorrido de consumo es continuo. El consumidor ve TV, usa el smartphone, navega en la computadora y se mueve por el mundo físico.",
+      "El desafío ya no es solo impactarlo. Es conectar esos diferentes momentos en una única estrategia de audiencia."
+     ],
+     "stats": [
+      {
+       "valor": "36%",
+       "rotulo": "ya conocieron nuevos productos a través de anuncios en CTV"
+      },
+      {
+       "valor": "34%",
+       "rotulo": "buscaron en internet después de ver un anuncio en la TV conectada"
+      }
+     ],
+     "faixa": "La CTV no solo genera exposición. Inicia recorridos."
+    },
+    {
+     "tipo": "passos",
+     "eyebrow": "Una tecnología. Cuatro capacidades.",
+     "titulo": "Impactar → conectar → reimpactar → medir",
+     "intro": "Una tecnología de E.UP que conecta la exposición en Connected TV con la continuidad de la comunicación en otros dispositivos y con la medición de la presencia en el mundo físico.",
+     "passos": [
+      {
+       "titulo": "CTV Impact",
+       "texto": "Impacto en la pantalla más grande de la casa: entorno inmersivo, audiencias calificadas por datos y video de alto impacto."
+      },
+      {
+       "titulo": "Household Sync",
+       "texto": "A partir de la exposición en CTV, señales como Wi-Fi/IP establecen la conexión con el entorno digital de ese hogar."
+      },
+      {
+       "titulo": "Cross-device",
+       "texto": "La comunicación continúa en smartphone, desktop y tablet, generando frecuencia y avance en el recorrido."
+      },
+      {
+       "titulo": "Drive to Store",
+       "texto": "Una capa de geolocalización mide las visitas observadas o atribuidas a los puntos físicos definidos por el anunciante."
+      }
+     ],
+     "faixa": "No es un público nuevo. Es la continuidad del mismo recorrido de audiencia."
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Una tecnología, no un paquete",
+     "titulo": "No es una combinación de medios. Es un recorrido de audiencia.",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "Inteligencia de audiencia",
+       "texto": "Comportamiento, intereses, demografía, consumo, contexto, geolocalización y audiencias personalizadas califican la estrategia desde el primer impacto."
+      },
+      {
+       "titulo": "Medición",
+       "texto": "Media exposure (impresiones, visualizaciones completas/VTR) → cross-device exposure (impresiones, clics) → store visit (visitas observadas/atribuidas, audiencia expuesta)."
+      },
+      {
+       "titulo": "Dónde tiene más sentido",
+       "texto": "Retail, supermercados, centros comerciales, concesionarias, restaurantes, farmacias, educación, inmobiliario, hotelería y redes de servicios."
+      }
+     ],
+     "faixa": "El cliente no compra cuatro campañas. Activa E.UP OMNISYNC™."
+    },
+    {
+     "tipo": "passos",
+     "eyebrow": "En la práctica",
+     "titulo": "Imagina una campaña de retail",
+     "passos": [
+      {
+       "titulo": "Impacto",
+       "texto": "Un consumidor del target ve el comercial en CTV."
+      },
+      {
+       "titulo": "Conexión",
+       "texto": "OMNISYNC™ conecta esa exposición con el entorno digital del hogar."
+      },
+      {
+       "titulo": "Continuidad",
+       "texto": "La comunicación se extiende a otros dispositivos asociados al hogar."
+      },
+      {
+       "titulo": "Reimpacto",
+       "texto": "Nuevos formatos refuerzan el mensaje y acompañan el recorrido."
+      },
+      {
+       "titulo": "Visita",
+       "texto": "La capa de Drive to Store mide las visitas observadas/atribuidas a los puntos físicos monitoreados."
+      }
+     ],
+     "faixa": "La pregunta deja de ser “¿cuántas personas vieron el comercial?” y pasa a ser “¿qué pasó después?”. OMNISYNC™ lo conecta todo."
+    }
+   ]
+  },
+  {
+   "id": "interactive-media",
+   "nome": "Interactive Media",
+   "frente": "experiencias",
+   "ordem": 3,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "159–161",
+   "chamada": "Más que aparecer. Crear interacción.",
+   "descricao": "E.UP Interactive Media reúne formatos digitales especiales e interactivos que transforman los medios tradicionales en experiencias de alto impacto, aumentando el tiempo de atención, el engagement y la recordación de marca.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Formatos especiales para engagement y atención real",
+     "titulo": "Tecnología propia, inventario premium e inteligencia contextual",
+     "paragrafos": [
+      "La solución permite que las marcas se conecten con el público correcto, en el contexto correcto y con formatos que estimulan una interacción real.",
+      "Estos formatos son ideales para marcas que buscan ir más allá de la exposición, creando experiencias memorables y mayor involucramiento con el mensaje."
+     ],
+     "listaTitulo": "Diferencial estratégico",
+     "lista": [
+      "Formatos rich media e interactivos",
+      "Segmentación contextual basada en IA semántica y reconocimiento de audio",
+      "Inventario premium y brand safe",
+      "Aumento comprobado de engagement y VTR",
+      "Integración con estrategias de display, video y móvil"
+     ],
+     "imagem": "assets/p/img-interactive-pessoa.webp",
+     "imagemFoto": true
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-interactive-pessoa.webp",
+    "alt": "Persona interactuando con la pantalla del celular"
+   },
+   "arte": "circulo"
+  },
+  {
+   "id": "game-adz",
+   "nome": "Game Adz",
+   "frente": "experiencias",
+   "ordem": 4,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "230–243",
+   "chamada": "Sua marca também faz parte do jogo.",
+   "descricao": "O E.UP Game Adz conecta marcas a consumidores em jogos e aplicativos, onde atenção, tempo de permanência e envolvimento são muito superiores à média dos ambientes digitais, com formatos interativos e não intrusivos.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Por que Game Adz funciona",
+     "titulo": "Mais de 59 milhões de brasileiros jogam milhões de horas online",
+     "paragrafos": [
+      "Entre jogos casuais, apps, e-sports e comunidades gamer, o usuário está ativo, não passivo; a atenção é voluntária; o tempo médio de exposição é maior; e a experiência com a marca é positiva.",
+      "Público jovem e adulto, com forte presença entre 18 e 44 anos, mobile first, engajado e aberto à experimentação. O Game Adz não se limita ao gamer hardcore: atinge também públicos casuais."
+     ],
+     "listaTitulo": "Onde a entrega acontece",
+     "lista": [
+      "Jogos casuais",
+      "Aplicativos mobile",
+      "Ambientes de e-sports",
+      "Comunidades e hubs gamer"
+     ],
+     "imagem": "assets/p/img-gameadz.webp"
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Variedade de formatos nos jogos",
+     "titulo": "Não é interrupção. É jogo aberto para a marca.",
+     "cols": 4,
+     "cards": [
+      {
+       "titulo": "Rewarded Video",
+       "texto": "O usuário escolhe assistir ao anúncio em troca de uma recompensa. Altíssima taxa de visualização completa e atenção total."
+      },
+      {
+       "titulo": "In-game Display & OOH",
+       "texto": "A marca dentro do cenário do jogo (placas, outdoors, painéis). Integração natural, alta lembrança e baixa rejeição."
+      },
+      {
+       "titulo": "Vídeo in-game",
+       "texto": "Vídeos vertical ou horizontal em pausas naturais do jogo. Alto VTR e ideal para storytelling curto."
+      },
+      {
+       "titulo": "Playable Ads (Enjoy Adz)",
+       "texto": "Anúncios jogáveis e gamificados. Engajamento profundo, alto tempo de interação e forte associação emocional."
+      }
+     ]
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-enjoyadz.webp",
+    "alt": "Game Adz"
+   }
+  },
+  {
+   "id": "twitch",
+   "nome": "Twitch",
+   "frente": "parceiros",
+   "ordem": 1,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "201–206",
+   "chamada": "Tu marca presente en las comunidades que participan.",
+   "descricao": "La principal plataforma global de live streaming, del ecosistema Amazon. Más que gaming: entretenimiento, cultura digital, música, deportes y lifestyle, con comunidades muy participativas.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "Perfil del público",
+     "titulo": "Early adopters, conectados con la innovación y el entretenimiento digital",
+     "itens": [
+      {
+       "valor": "75%",
+       "rotulo": "hombres"
+      },
+      {
+       "valor": "49%",
+       "rotulo": "entre 15 y 24 años"
+      },
+      {
+       "valor": "21%",
+       "rotulo": "entre 25 y 34 años"
+      },
+      {
+       "valor": "86%",
+       "rotulo": "interés en tecnología"
+      },
+      {
+       "valor": "86%",
+       "rotulo": "películas y cine"
+      },
+      {
+       "valor": "84%",
+       "rotulo": "juegos"
+      },
+      {
+       "valor": "83%",
+       "rotulo": "música"
+      },
+      {
+       "valor": "72%",
+       "rotulo": "computadoras y programación"
+      }
+     ],
+     "fonte": "Datos de Amazon."
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "Por qué invertir en Twitch",
+     "titulo": "Atención prolongada, con usuarios menos dispersos",
+     "paragrafos": [
+      "El tiempo promedio de atención en Twitch es significativamente mayor que en los videos bajo demanda, la tasa de engagement es más alta y la presencia de marcas en los lives genera una percepción de cercanía y autenticidad.",
+      "Premium Live: anuncio en video de hasta 30 s, incorporado durante las transmisiones en vivo en desktop, celulares y tablets. El anuncio no se puede omitir."
+     ],
+     "listaTitulo": "Rol en la estrategia de marca",
+     "lista": [
+      "Parte alta y media del embudo",
+      "Awareness en entornos de alto involucramiento",
+      "Asociación con entretenimiento, innovación y relevancia cultural",
+      "Fortalecimiento de atributos emocionales"
+     ],
+     "imagem": "assets/p/img-twitch.webp"
+    }
+   ],
+   "logo": "assets/p/logo-twitch-new.png",
+   "imagem": {
+    "src": "assets/p/img-twitch.webp",
+    "alt": "Twitch"
+   }
+  },
+  {
+   "id": "meta",
+   "nome": "Meta",
+   "frente": "parceiros",
+   "ordem": 2,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "244–247",
+   "chamada": "Presencia relevante donde ocurren las conversaciones.",
+   "descricao": "Brasil se destaca como el país con el cuarto mayor alcance de usuarios de Facebook: 130 millones.",
+   "paginas": [
+    {
+     "tipo": "cards",
+     "eyebrow": "Por qué anunciar",
+     "titulo": "Facebook, Instagram, Messenger y Audience Network",
+     "cols": 4,
+     "cards": [
+      {
+       "titulo": "Facebook",
+       "texto": "Brasil tiene el cuarto mayor alcance de usuarios del mundo.",
+       "valor": "130 M"
+      },
+      {
+       "titulo": "Instagram",
+       "texto": "Cerca de 95 millones de brasileños conectados; el 85% descubre nuevos productos y marcas en la plataforma.",
+       "valor": "95 M"
+      },
+      {
+       "titulo": "Messenger",
+       "texto": "Más de 103 millones de brasileños usan la app; el 76% dice que enviar mensajes a una empresa ayuda a confiar en la marca.",
+       "valor": "103 M"
+      },
+      {
+       "titulo": "Audience Network",
+       "texto": "Los mismos recursos de segmentación de las plataformas de Facebook, en miles de sitios y aplicaciones móviles."
+      }
+     ]
+    },
+    {
+     "tipo": "spec",
+     "eyebrow": "Cómo anunciar",
+     "titulo": "Campañas configuradas según el brief",
+     "colunas": [
+      {
+       "titulo": "Ubicaciones",
+       "itens": [
+        "Feed",
+        "Stories",
+        "Columna derecha",
+        "Mensajes",
+        "Marketplace, video in-stream y otros"
+       ]
+      },
+      {
+       "titulo": "Objetivos",
+       "itens": [
+        "Visitas al perfil",
+        "Interacción con publicaciones",
+        "Reproducciones de video",
+        "Tráfico al sitio web",
+        "Interacción por WhatsApp"
+       ]
+      },
+      {
+       "titulo": "Formato",
+       "itens": [
+        "Imagen, video o GIF único"
+       ]
+      },
+      {
+       "titulo": "Segmentaciones",
+       "itens": [
+        "Región geográfica",
+        "Intereses",
+        "Comportamientos",
+        "Datos demográficos",
+        "Retargeting y públicos similares"
+       ]
+      }
+     ],
+     "logos": [
+      "assets/p/logo-facebookads.webp"
+     ]
+    }
+   ],
+   "logo": "assets/p/logo-meta.webp"
+  },
+  {
+   "id": "tiktok",
+   "nome": "TikTok",
+   "frente": "parceiros",
+   "ordem": 3,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "248–252",
+   "chamada": "Creatividad para ser parte de la conversación.",
+   "descricao": "TikTok es una red social para crear y compartir videos cortos, que crece en usuarios y engagement en todo el mundo, con más descargas que Facebook y WhatsApp.",
+   "paginas": [
+    {
+     "tipo": "cards",
+     "eyebrow": "Destacados",
+     "titulo": "Relevancia, frecuencia e interés en los anuncios",
+     "cols": 4,
+     "cards": [
+      {
+       "titulo": "Relevancia",
+       "texto": "En 2020, TikTok ocupó el primer lugar entre las apps más descargadas de Play Store (Google).",
+       "valor": "#1"
+      },
+      {
+       "titulo": "Descargas",
+       "texto": "2 mil millones de descargas en el primer trimestre de 2020, según SensorTower.",
+       "valor": "2 mil M"
+      },
+      {
+       "titulo": "Frecuencia de uso",
+       "texto": "El 38% abre la app varias veces al día y el 37% al menos una vez al día (Opinion Box).",
+       "valor": "38%"
+      },
+      {
+       "titulo": "Interés en los anuncios",
+       "texto": "Más del 72% de los usuarios tiene interés en saber más sobre productos y marcas anunciados (Ebit | Nielsen).",
+       "valor": "72%"
+      }
+     ],
+     "fonte": "Oberlo, Opinion Box, Geek Publicitário y Poder360."
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "Soluciones para las marcas",
+     "titulo": "Anuncios con experiencia de contenido orgánico",
+     "paragrafos": [
+      "Los anuncios en TikTok se mezclan con los contenidos producidos en la plataforma, lo que ofrece una experiencia fluida a los usuarios.",
+      "El formato de video permite presentar el mensaje de forma interactiva, con un CTA para que el usuario haga clic y sepa más. Según la plataforma, la duración sugerida del anuncio es de 9 a 15 segundos."
+     ],
+     "imagem": "assets/p/img-tiktok2.webp"
+    }
+   ],
+   "imagem": {
+    "src": "assets/p/img-tiktok1.webp",
+    "alt": "TikTok"
+   },
+   "logo": "assets/p/logo-tiktok.png"
+  },
+  {
+   "id": "google-ads",
+   "nome": "Google Ads",
+   "frente": "parceiros",
+   "ordem": 4,
+   "status": "ativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "253–255",
+   "chamada": "Cuando aparece la intención, tu marca está presente.",
+   "descricao": "Con la red de búsqueda, muestras tu marca en el momento correcto, ofreciendo productos, servicios e información para cada tipo de búsqueda que hace el consumidor.",
+   "paginas": [
+    {
+     "tipo": "numeros",
+     "eyebrow": "El momento correcto",
+     "titulo": "Por qué anunciar",
+     "itens": [
+      {
+       "valor": "98 M",
+       "rotulo": "de usuarios brasileños conectados al mes"
+      },
+      {
+       "valor": "10,5 M",
+       "rotulo": "de visitantes diarios en Brasil"
+      },
+      {
+       "valor": "68%",
+       "rotulo": "de los usuarios de YouTube disfrutan ver anuncios relacionados con el siguiente video"
+      },
+      {
+       "valor": "+55%",
+       "rotulo": "de las personas buscan un producto en Google y luego lo ven en YouTube"
+      },
+      {
+       "valor": "40%",
+       "rotulo": "de las personas compran productos que descubrieron en YouTube"
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "eyebrow": "Formatos disponibles",
+     "titulo": "Anuncios de texto con extensiones",
+     "paragrafos": [
+      "Creas tu anuncio con título y descripción, y puedes agregar extensiones para mejorar el performance. Las más recomendadas son sitelinks, textos destacados y fragmentos estructurados."
+     ],
+     "listaTitulo": "Extensiones de anuncio",
+     "lista": [
+      "Llamada",
+      "Aplicación",
+      "Formulario de clientes potenciales",
+      "Sitelinks",
+      "Texto destacado",
+      "Mensajes",
+      "Precio",
+      "Promoción",
+      "Ubicación",
+      "Fragmentos estructurados"
+     ],
+     "imagem": "assets/p/img-google.webp"
+    }
+   ],
+   "logo": "assets/p/logo-googleads.png",
+   "imagem": {
+    "src": "assets/p/img-google.webp",
+    "alt": "Google Ads"
+   }
+  },
+  {
+   "id": "chatgpt-ads",
+   "nome": "ChatGPT Ads",
+   "frente": "parceiros",
+   "ordem": 5,
+   "status": "inativo",
+   "atualizadoEm": "2026-11-17",
+   "paginasOrigem": "256–264",
+   "chamada": "Novos contextos de descoberta. Novas possibilidades para marcas.",
+   "descricao": "Não é apenas aparecer para uma audiência. É aparecer quando existe uma intenção. O E.UP ChatGPT Ads posiciona sua marca no ambiente conversacional do ChatGPT, nos momentos em que as pessoas pesquisam, comparam e decidem.",
+   "paginas": [
+    {
+     "tipo": "texto",
+     "eyebrow": "Conceito do produto",
+     "titulo": "Publicidade contextual dentro da nova jornada de decisão",
+     "paragrafos": [
+      "Diferente da mídia baseada só em audiência ou palavras-chave, o ChatGPT Ads usa sinais de contexto e intenção da conversa para identificar oportunidades relevantes de exposição da marca.",
+      "A E.UP incorpora o ChatGPT Ads como uma nova camada de inteligência contextual, combinando mídia, contexto, intenção, dados e tecnologia: não apenas com base em quem as pessoas são, mas no que estão tentando descobrir, resolver ou decidir naquele momento."
+     ],
+     "faixa": "Busca → site → comparação → decisão passa a ser pergunta → exploração → comparação → recomendação → decisão. O ChatGPT Ads não substitui Google, Meta, YouTube, CTV, programática ou streaming: acrescenta a camada da intenção conversacional."
+    },
+    {
+     "tipo": "cards",
+     "eyebrow": "Modalidades de campanha",
+     "titulo": "Duas soluções, um único ecossistema",
+     "cols": 3,
+     "cards": [
+      {
+       "titulo": "E.UP ChatGPT Reach",
+       "texto": "Alcance, awareness e consideração. Indicado para branding, lançamentos, expansão regional e campanhas institucionais.",
+       "valor": "CPM"
+      },
+      {
+       "titulo": "E.UP ChatGPT Traffic",
+       "texto": "Geração de tráfego qualificado para sites, landing pages, ofertas e jornadas de conversão.",
+       "valor": "CPC"
+      },
+      {
+       "titulo": "Contextual Intent",
+       "texto": "A camada estratégica que une as duas: a marca aparece em contextos em que sua solução pode ser útil, não só “quem”, mas “o que” a pessoa busca resolver agora.",
+       "valor": "Diferencial"
+      }
+     ],
+     "faixa": "2 modalidades · 3 a 10 variações de criativo por oferta · segmentação geográfica por estado. First-mover advantage: quem começa agora aprende antes e cria benchmark próprio."
+    },
+    {
+     "tipo": "tabela",
+     "eyebrow": "Como funciona a entrega",
+     "titulo": "Sinais de contexto e intenção",
+     "intro": "A seleção do anúncio combina sinais de contexto e intenção: o conceito de Contextual Intent.",
+     "cabecalho": [
+      "Sinal considerado",
+      "O que representa",
+      "Por que importa"
+     ],
+     "linhas": [
+      [
+       "Contexto da conversa",
+       "O assunto e a intenção demonstrada pelo usuário durante a interação com o ChatGPT",
+       "Permite associar a marca a situações em que sua solução é efetivamente útil"
+      ],
+      [
+       "Context Hints",
+       "Indicações do anunciante sobre em quais conversas o produto é relevante",
+       "Funcionam como sinais, não como palavras-chave de correspondência exata"
+      ],
+      [
+       "Anúncio",
+       "Landing page, título, descrição e relevância esperada do criativo",
+       "Coerência entre imagem, headline e descrição aumenta a chance de correspondência"
+      ]
+     ],
+     "faixa": "O card do anúncio traz imagem ou logo, nome do anunciante, selo de identificação, título, descrição e menu de transparência do usuário."
+    }
+   ],
+   "logo": "assets/p/logo-chatgpt.png"
+  }
+ ],
+ "cases": {
+  "titulo": "Resultados que contam histórias.",
+  "apoio": "Conheça nossos cases.",
+  "status": "revisao",
+  "itens": [
+   {
+    "nome": "Janeiro a fevereiro"
+   },
+   {
+    "nome": "Março a abril"
+   },
+   {
+    "nome": "Geofence"
+   },
+   {
+    "nome": "Case Black Friday (vídeo)"
+   },
+   {
+    "nome": "Case Varejo"
+   },
+   {
+    "nome": "Case Construção Civil"
+   }
+  ],
+  "pendencia": "Os cases do media kit atual são links para outros designs do Canva (3 deles em modo edição). Somente resultados aprovados entram no microsite: enviar a versão aprovada de cada case."
+ },
+ "encerramento": {
+  "titulo": "Más posibilidades para tu marca.",
+  "apoio": "Una forma diferente de hacer que las cosas sucedan.",
+  "cta": "Habla con E.UP",
+  "qr": "assets/qr-whatsapp.png",
+  "email": "nara@f1rst-group.com",
+  "whatsapp": "(47) 99915-8231",
+  "whatsappLink": "https://wa.me/5547999158231"
+ },
+ "funil": {
+  "eyebrow": "Ejemplo de planificación",
+  "titulo": "El embudo completo",
+  "intro": "Un ejemplo de cómo las soluciones de E.UP pueden combinarse en todas las etapas del recorrido, del alcance a la visita. Toca una solución para ver los detalles.",
+  "etapas": [
+   {
+    "titulo": "Alcance y recordación",
+    "produtos": [
+     "disney",
+     "netflix",
+     "prime-video",
+     "hbo-max",
+     "tnt-sports",
+     "globo",
+     "ctv",
+     "pluto-tv",
+     "audio-digital",
+     "spotify",
+     "amazon-music",
+     "dooh",
+     "twitch"
+    ]
+   },
+   {
+    "titulo": "Consideración",
+    "produtos": [
+     "midia-programatica",
+     "dados",
+     "marketplace",
+     "youtube-insights",
+     "webedia",
+     "amazon-dsp",
+     "sync-experience",
+     "interactive-media",
+     "game-adz"
+    ]
+   },
+   {
+    "titulo": "Engagement",
+    "produtos": [
+     "meta",
+     "tiktok",
+     "tinder",
+     "uber",
+     "push",
+     "canais-impacto",
+     "telecom"
+    ]
+   },
+   {
+    "titulo": "Conversión y visita",
+    "produtos": [
+     {
+      "id": "midia-programatica",
+      "rotulo": "Medios programáticos: display, tráfico y remarketing"
+     },
+     "google-ads",
+     "chatgpt-ads",
+     "geofence",
+     "drive-to-store",
+     "omnisync"
+    ]
+   }
+  ],
+  "faixa": "Ejemplo ilustrativo: cada plan se construye a partir del objetivo y el desafío de cada cliente."
+ }
+}

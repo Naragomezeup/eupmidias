@@ -305,7 +305,7 @@ body.review .nota{display:block}
       <a href="#numeros">Numbers</a>
       <a href="#mandala">Areas</a>
       <a href="#solucoes" class="k">Solutions</a>
-      <a href="index.html" class="lang" hreflang="pt-BR">PT</a>
+      <a href="index.html" class="lang" hreflang="pt-BR">PT</a><a href="es.html" class="lang" hreflang="es">ES</a>
       <button type="button" class="pdf" id="btn-pdf">Download PDF</button>
       <a href="#contato" class="cta">Talk to E.UP</a>
     </nav>
@@ -493,7 +493,7 @@ function sel(fid){
 
 /* NOTAS DE REVISÃO */
 function toast(t){var el=$('#toast');el.textContent=t;el.classList.add('on');clearTimeout(toast._t);toast._t=setTimeout(function(){el.classList.remove('on')},4500)}
-function setupLang(){var l=$('.top nav a.lang');if(l)l.addEventListener('click',function(e){e.preventDefault();location.href=l.getAttribute('href')+location.hash})}
+function setupLang(){document.querySelectorAll('.top nav a.lang').forEach(function(l){l.addEventListener('click',function(e){e.preventDefault();location.href=l.getAttribute('href')+location.hash})})}
 function setupPdf(){
   var b=$('#btn-pdf'); if(!b)return;
   b.addEventListener('click',function(){

@@ -72,7 +72,7 @@ UI = [
  ('Não foi possível abrir a impressão neste navegador.', 'Could not open printing in this browser.'),
  ('O download em PDF funciona no site: ', 'PDF download works on the website: '),
  ('Atualizado em ', 'Updated on '), ("'Versão '", "'Version '"),
- ('<a href="en.html" class="lang" hreflang="en">EN</a>', '<a href="index.html" class="lang" hreflang="pt-BR">PT</a>'),
+ ('<a href="en.html" class="lang" hreflang="en">EN</a><a href="es.html" class="lang" hreflang="es">ES</a>', '<a href="index.html" class="lang" hreflang="pt-BR">PT</a><a href="es.html" class="lang" hreflang="es">ES</a>'),
 ]
 html = open(P('index.html'), encoding='utf-8').read()
 for a, b in UI:
