@@ -143,6 +143,9 @@ td.k{font-weight:600;width:34%;min-width:150px}
 .selitem strong{font-size:16px}
 .pills{display:flex;gap:6px;flex-wrap:wrap}
 .pill{display:inline-flex;gap:6px;align-items:center;border:1px solid var(--line);border-radius:999px;padding:4px 6px 4px 11px;font-size:13px;background:#FAF9FC}
+.fpick{display:grid;gap:6px;font-size:13px;color:var(--muted)}
+.fchip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:5px 11px;font-size:13px;font-weight:600;cursor:pointer;color:var(--ink)}
+.fchip[aria-pressed="true"]{background:var(--magenta);border-color:var(--magenta);color:#fff}
 .pill.off{opacity:.5;text-decoration:line-through}
 .pill button{border:0;background:var(--line);border-radius:50%;width:20px;height:20px;cursor:pointer;line-height:1;font-size:13px}
 label.f{display:grid;gap:5px;font-size:14px;font-weight:600;margin-bottom:12px}
@@ -226,7 +229,7 @@ const LOCALE = { pt:'pt-BR', en:'en-US', es:'es-ES' };
 
 const I18N = {
   pt: {
-    navLib:'Biblioteca', navCamp:'Minha campanha', navAdmin:'Administração', showEmail:'Mostrar e-mail', copy:'Copiar', copied:'E-mail copiado.', access:'Como dar acesso',
+    navLib:'Biblioteca', navCamp:'Minha campanha', navAdmin:'Administração', showEmail:'Mostrar e-mail', copy:'Copiar', copied:'E-mail copiado.', access:'Como dar acesso', pickFormats:'Escolha os formatos da campanha:',
     title1:'Especificações', title2:'Técnicas', title3:'E/UP',
     sub:'Tudo o que você precisa para produzir os materiais da sua campanha, em um só lugar.',
     media:'mídias', formats:'formatos', version:'Versão', updated:'Atualizado em', libVersion:'Base',
@@ -251,7 +254,7 @@ const I18N = {
     pdfSelected:'Mídias desta campanha',
   },
   en: {
-    navLib:'Library', navCamp:'My campaign', navAdmin:'Admin', showEmail:'Show e-mail', copy:'Copy', copied:'E-mail copied.', access:'How to grant access',
+    navLib:'Library', navCamp:'My campaign', navAdmin:'Admin', showEmail:'Show e-mail', copy:'Copy', copied:'E-mail copied.', access:'How to grant access', pickFormats:'Choose the campaign formats:',
     title1:'E/UP', title2:'Technical', title3:'Specifications',
     sub:'Everything you need to produce your campaign assets, in one place.',
     media:'media', formats:'formats', version:'Version', updated:'Updated', libVersion:'Library',
@@ -275,7 +278,7 @@ const I18N = {
     pdfSelected:'Media in this campaign',
   },
   es: {
-    navLib:'Biblioteca', navCamp:'Mi campaña', navAdmin:'Administración', showEmail:'Mostrar e-mail', copy:'Copiar', copied:'E-mail copiado.', access:'Cómo dar acceso',
+    navLib:'Biblioteca', navCamp:'Mi campaña', navAdmin:'Administración', showEmail:'Mostrar e-mail', copy:'Copiar', copied:'E-mail copiado.', access:'Cómo dar acceso', pickFormats:'Elija los formatos de la campaña:',
     title1:'Especificaciones', title2:'Técnicas', title3:'E/UP',
     sub:'Todo lo que necesita para producir los materiales de su campaña, en un solo lugar.',
     media:'medios', formats:'formatos', version:'Versión', updated:'Actualizado el', libVersion:'Base',
@@ -415,13 +418,14 @@ function renderGrid(){
       <h3>${esc(tr(m.names)||m.name)}</h3>
       <p>${esc(tr(m.tagline))}</p>
       <div class="meta"><span>${L().fmtCount(m.formats.length)}</span><span>·</span><span>v${esc(r.version)}</span><span>·</span><span>${fmtDate(r.updated)}</span></div>
-      <label class="check"><input type="checkbox" data-selmedia="${m.id}" ${full?'checked':''}> ${any&&!full ? `${L().added} (${S.sel[m.id].length}/${m.formats.length})` : (full?L().added:L().add)}</label>
+      ${m.formats.length===1
+        ? `<label class="check"><input type="checkbox" data-selfmt="${m.id}|${m.formats[0].id}" ${full?'checked':''}> ${full?L().added:L().add}</label>`
+        : `<div class="fpick"><span>${L().pickFormats}</span><div class="pills">${m.formats.map(f=>`<button type="button" class="fchip" data-togglefmt="${m.id}|${f.id}" aria-pressed="${isSel(m.id,f.id)}">${isSel(m.id,f.id)?'✓ ':'+ '}${esc(tr(f.name))}</button>`).join('')}</div></div>`}
       <div class="actions">
         <a class="btn" href="#m-${m.id}">${L().view}</a>
         <button type="button" class="btn ghost" data-pdf="${m.id}">${L().pdf}</button>
       </div>
     </article>`; }).join('');
-  g.querySelectorAll('input[data-selmedia]').forEach(cb => { const id = cb.dataset.selmedia; if (mediaAnySel(id) && !mediaFullySel(id)) cb.indeterminate = true; });
 }
 
 /* ───────── render: detalhe ───────── */
@@ -449,7 +453,6 @@ function renderDetail(id){
     </div>
     <div class="dactions">
       <button type="button" class="btn pink" data-pdf="${m.id}" data-pdftab="${esc(tab)}">${pdfLabel}</button>
-      <button type="button" class="btn ghost" data-selmedia-btn="${m.id}">${mediaFullySel(m.id) ? '✓ '+L().added : L().addAll}</button>
     </div>
   </section>
   ${m.formats.length>1 ? `<div class="tabs" role="group" aria-label="${L().formats}"><button type="button" data-tab="all" aria-pressed="${tab==='all'}">${L().allFormats}</button>${m.formats.map(f=>`<button type="button" data-tab="${f.id}" aria-pressed="${tab===f.id}">${esc(tr(f.name))}</button>`).join('')}</div>` : '<div style="height:18px"></div>'}

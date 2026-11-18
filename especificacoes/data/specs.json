@@ -1,7 +1,7 @@
 {
  "library": {
-  "version": "1.0",
-  "updated": "2026-11-12"
+  "version": "1.1",
+  "updated": "2026-11-18"
  },
  "categories": [
   {
@@ -79,33 +79,32 @@
  ],
  "media": [
   {
-   "id": "display",
-   "name": "Mídia Programática Display",
+   "id": "display-programatico",
+   "name": "Display Programático",
    "cat": "display",
-   "order": 1,
    "names": {
-    "pt": "Mídia Programática Display",
+    "pt": "Display Programático",
     "en": "Programmatic Display",
     "es": "Display Programático"
    },
    "tagline": {
-    "pt": "DV360, Drive to Store e Amazon DSP",
-    "en": "DV360, Drive to Store and Amazon DSP",
-    "es": "DV360, Drive to Store y Amazon DSP"
+    "pt": "Banners estáticos e animados em medidas-padrão",
+    "en": "Static and animated banners in standard sizes",
+    "es": "Banners estáticos y animados en medidas estándar"
    },
-   "keywords": "display banner dv360 dts drive to store amazon dsp",
+   "keywords": "display banner banners programatico programática",
    "source": {
-    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 4–8",
-    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 4–8",
-    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 4–8"
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 4–6",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 4–6",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 4–6"
    },
    "formats": [
     {
-     "id": "dv360-display",
+     "id": "display-banners",
      "name": {
-      "pt": "DV360 Display",
-      "en": "DV360 Display",
-      "es": "DV360 Display"
+      "pt": "Display (banners)",
+      "en": "Display (banners)",
+      "es": "Display (banners)"
      },
      "intro": {
       "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
@@ -224,163 +223,21 @@
        "Jpg/JPEG, png, gif."
       ]
      ]
+    }
+   ],
+   "version": "1.1",
+   "updated": "2026-11-18",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
     },
     {
-     "id": "dts",
-     "name": {
-      "pt": "Drive to Store (DTS)",
-      "en": "Drive to Store (DTS)",
-      "es": "Drive to Store (DTS)"
-     },
-     "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
-     },
-     "table": {
-      "cols": [
-       {
-        "pt": "Dimensões",
-        "en": "Dimensions",
-        "es": "Dimensiones"
-       }
-      ],
-      "rows": [
-       [
-        "250x250"
-       ],
-       [
-        "300x50"
-       ],
-       [
-        "300x600"
-       ],
-       [
-        "320x250"
-       ],
-       [
-        "320x480"
-       ],
-       [
-        "320x50"
-       ],
-       [
-        "336x280"
-       ],
-       [
-        "728x90"
-       ]
-      ]
-     },
-     "specs": [
-      [
-       {
-        "pt": "Peso recomendado",
-        "en": "Recommended file size",
-        "es": "Peso recomendado"
-       },
-       {
-        "pt": "Até 200kb",
-        "en": "Up to 200kb",
-        "es": "Hasta 200kb"
-       }
-      ],
-      [
-       {
-        "pt": "Peso máximo",
-        "en": "Maximum file size",
-        "es": "Peso máximo"
-       },
-       {
-        "pt": "até 500KB",
-        "en": "up to 500KB",
-        "es": "hasta 500KB"
-       }
-      ],
-      [
-       {
-        "pt": "Extensões aceitas",
-        "en": "Accepted file types",
-        "es": "Extensiones aceptadas"
-       },
-       "Jpg/JPEG, png, gif."
-      ]
-     ]
-    },
-    {
-     "id": "amazon-display",
-     "name": {
-      "pt": "Amazon DSP Display",
-      "en": "Amazon DSP Display",
-      "es": "Amazon DSP Display"
-     },
-     "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
-     },
-     "table": {
-      "cols": [
-       {
-        "pt": "Dimensões",
-        "en": "Dimensions",
-        "es": "Dimensiones"
-       },
-       {
-        "pt": "Peso máximo",
-        "en": "Maximum file size",
-        "es": "Peso máximo"
-       }
-      ],
-      "rows": [
-       [
-        "120x600",
-        "40kb"
-       ],
-       [
-        "160x600",
-        "40kb"
-       ],
-       [
-        "250x250",
-        "40kb"
-       ],
-       [
-        "300x50",
-        "40kb"
-       ],
-       [
-        "300x600",
-        "50kb"
-       ],
-       [
-        "320x50",
-        "50kb"
-       ],
-       [
-        "336x280",
-        "40kb"
-       ],
-       [
-        "728x90",
-        "40kb"
-       ],
-       [
-        "970x250",
-        "200kb"
-       ]
-      ]
-     },
-     "specs": [
-      [
-       {
-        "pt": "Extensões aceitas",
-        "en": "Accepted file types",
-        "es": "Extensiones aceptadas"
-       },
-       "Jpg/JPEG, png, gif."
-      ]
-     ]
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Separado do pacote anterior para seleção individual"
     }
    ],
    "general": [
@@ -458,45 +315,420 @@
      ]
     }
    ],
-   "version": "1.0",
-   "updated": "2026-11-12",
+   "order": 1
+  },
+  {
+   "id": "drive-to-store",
+   "name": "Drive to Store (DTS)",
+   "cat": "display",
+   "names": {
+    "pt": "Drive to Store (DTS)",
+    "en": "Drive to Store (DTS)",
+    "es": "Drive to Store (DTS)"
+   },
+   "tagline": {
+    "pt": "Banners para levar o público à loja física",
+    "en": "Banners that drive audiences to physical stores",
+    "es": "Banners para llevar al público a la tienda física"
+   },
+   "keywords": "drive to store dts loja fisica geolocalizacao",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 5–7",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 5–7",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 5–7"
+   },
+   "formats": [
+    {
+     "id": "dts-banners",
+     "name": {
+      "pt": "Banners Drive to Store",
+      "en": "Drive to Store banners",
+      "es": "Banners Drive to Store"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       }
+      ],
+      "rows": [
+       [
+        "250x250"
+       ],
+       [
+        "300x50"
+       ],
+       [
+        "300x600"
+       ],
+       [
+        "320x250"
+       ],
+       [
+        "320x480"
+       ],
+       [
+        "320x50"
+       ],
+       [
+        "336x280"
+       ],
+       [
+        "728x90"
+       ]
+      ]
+     },
+     "specs": [
+      [
+       {
+        "pt": "Peso recomendado",
+        "en": "Recommended file size",
+        "es": "Peso recomendado"
+       },
+       {
+        "pt": "Até 200kb",
+        "en": "Up to 200kb",
+        "es": "Hasta 200kb"
+       }
+      ],
+      [
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       },
+       {
+        "pt": "até 500KB",
+        "en": "up to 500KB",
+        "es": "hasta 500KB"
+       }
+      ],
+      [
+       {
+        "pt": "Extensões aceitas",
+        "en": "Accepted file types",
+        "es": "Extensiones aceptadas"
+       },
+       "Jpg/JPEG, png, gif."
+      ]
+     ]
+    }
+   ],
+   "version": "1.1",
+   "updated": "2026-11-18",
    "active": true,
    "log": [
     {
      "date": "2026-11-12",
      "version": "1.0",
      "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Separado do pacote anterior para seleção individual"
     }
-   ]
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Display: especificações para JPEG e PNG",
+      "en": "Display: JPEG and PNG specifications",
+      "es": "Display: especificaciones para JPEG y PNG"
+     },
+     "items": [
+      {
+       "pt": "Peças flutuantes ou pop-up não são aceitos pelo sistema",
+       "en": "Floating or pop-up assets are not accepted by the system",
+       "es": "Piezas flotantes o pop-up no son aceptadas por el sistema"
+      },
+      {
+       "pt": "Todos os cookies de terceiros devem ser declarados",
+       "en": "All third-party cookies must be declared",
+       "es": "Todas las cookies de terceros deben ser declaradas"
+      },
+      {
+       "pt": "As peças precisam ter a logomarca do anunciante. A mesma logomarca deve estar na página de destino",
+       "en": "Assets must carry the advertiser's logo. The same logo must appear on the landing page",
+       "es": "Las piezas deben tener el logotipo del anunciante. El mismo logotipo debe estar en la página de destino"
+      },
+      {
+       "pt": "As peças precisam ser envolvidas por uma borda de 1 pixel na cor preta",
+       "en": "Assets must be framed by a 1-pixel black border",
+       "es": "Las piezas deben estar enmarcadas por un borde de 1 píxel en color negro"
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "Display: especificações para GIF",
+      "en": "Display: GIF specifications",
+      "es": "Display: especificaciones para GIF"
+     },
+     "items": [
+      {
+       "pt": "Animações podem durar no máximo 15 segundos e posteriormente a peça deve permanecer estática",
+       "en": "Animations may last up to 15 seconds, after which the asset must remain static",
+       "es": "Las animaciones pueden durar como máximo 15 segundos y luego la pieza debe permanecer estática"
+      },
+      {
+       "pt": "São permitidos apenas 3 loops. Não é permitido looping infinito",
+       "en": "Only 3 loops are allowed. Infinite looping is not allowed",
+       "es": "Se permiten solo 3 loops. No se permite looping infinito"
+      },
+      {
+       "pt": "Páginas de destino (landing page) que contém “formulários” devem utilizar Certificado de Segurança (https://)",
+       "en": "Landing pages containing “forms” must use a Security Certificate (https://)",
+       "es": "Las páginas de destino (landing page) que contienen “formularios” deben usar Certificado de Seguridad (https://)"
+      },
+      {
+       "pt": "Peças flutuantes ou pop-up não são aceitos pelo sistema",
+       "en": "Floating or pop-up assets are not accepted by the system",
+       "es": "Piezas flotantes o pop-up no son aceptadas por el sistema"
+      },
+      {
+       "pt": "Todos os cookies de terceiros devem ser declarados",
+       "en": "All third-party cookies must be declared",
+       "es": "Todas las cookies de terceros deben ser declaradas"
+      },
+      {
+       "pt": "As peças precisam ter a logomarca do anunciante. A mesma logomarca deve estar na página de destino",
+       "en": "Assets must carry the advertiser's logo. The same logo must appear on the landing page",
+       "es": "Las piezas deben tener el logotipo del anunciante. El mismo logotipo debe estar en la página de destino"
+      },
+      {
+       "pt": "As peças precisam ser envolvidas por uma borda de 1 pixel que contraste com o background",
+       "en": "Assets must be framed by a 1-pixel border that contrasts with the background",
+       "es": "Las piezas deben estar enmarcadas por un borde de 1 píxel que contraste con el fondo"
+      }
+     ]
+    }
+   ],
+   "order": 2
+  },
+  {
+   "id": "amazon-dsp-display",
+   "name": "Amazon DSP — Display",
+   "cat": "display",
+   "names": {
+    "pt": "Amazon DSP — Display",
+    "en": "Amazon DSP — Display",
+    "es": "Amazon DSP — Display"
+   },
+   "tagline": {
+    "pt": "Banners na Amazon DSP",
+    "en": "Banners on Amazon DSP",
+    "es": "Banners en Amazon DSP"
+   },
+   "keywords": "amazon dsp display banner amazon",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 5–6, 8",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 5–6, 8",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 5–6, 8"
+   },
+   "formats": [
+    {
+     "id": "amazon-display-banners",
+     "name": {
+      "pt": "Banners Amazon DSP",
+      "en": "Amazon DSP banners",
+      "es": "Banners Amazon DSP"
+     },
+     "intro": {
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
+      "en": "Assets must be produced in one of the standard sizes below.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+     },
+     "table": {
+      "cols": [
+       {
+        "pt": "Dimensões",
+        "en": "Dimensions",
+        "es": "Dimensiones"
+       },
+       {
+        "pt": "Peso máximo",
+        "en": "Maximum file size",
+        "es": "Peso máximo"
+       }
+      ],
+      "rows": [
+       [
+        "120x600",
+        "40kb"
+       ],
+       [
+        "160x600",
+        "40kb"
+       ],
+       [
+        "250x250",
+        "40kb"
+       ],
+       [
+        "300x50",
+        "40kb"
+       ],
+       [
+        "300x600",
+        "50kb"
+       ],
+       [
+        "320x50",
+        "50kb"
+       ],
+       [
+        "336x280",
+        "40kb"
+       ],
+       [
+        "728x90",
+        "40kb"
+       ],
+       [
+        "970x250",
+        "200kb"
+       ]
+      ]
+     },
+     "specs": [
+      [
+       {
+        "pt": "Extensões aceitas",
+        "en": "Accepted file types",
+        "es": "Extensiones aceptadas"
+       },
+       "Jpg/JPEG, png, gif."
+      ]
+     ]
+    }
+   ],
+   "version": "1.1",
+   "updated": "2026-11-18",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Separado do pacote anterior para seleção individual"
+    }
+   ],
+   "general": [
+    {
+     "title": {
+      "pt": "Display: especificações para JPEG e PNG",
+      "en": "Display: JPEG and PNG specifications",
+      "es": "Display: especificaciones para JPEG y PNG"
+     },
+     "items": [
+      {
+       "pt": "Peças flutuantes ou pop-up não são aceitos pelo sistema",
+       "en": "Floating or pop-up assets are not accepted by the system",
+       "es": "Piezas flotantes o pop-up no son aceptadas por el sistema"
+      },
+      {
+       "pt": "Todos os cookies de terceiros devem ser declarados",
+       "en": "All third-party cookies must be declared",
+       "es": "Todas las cookies de terceros deben ser declaradas"
+      },
+      {
+       "pt": "As peças precisam ter a logomarca do anunciante. A mesma logomarca deve estar na página de destino",
+       "en": "Assets must carry the advertiser's logo. The same logo must appear on the landing page",
+       "es": "Las piezas deben tener el logotipo del anunciante. El mismo logotipo debe estar en la página de destino"
+      },
+      {
+       "pt": "As peças precisam ser envolvidas por uma borda de 1 pixel na cor preta",
+       "en": "Assets must be framed by a 1-pixel black border",
+       "es": "Las piezas deben estar enmarcadas por un borde de 1 píxel en color negro"
+      }
+     ]
+    },
+    {
+     "title": {
+      "pt": "Display: especificações para GIF",
+      "en": "Display: GIF specifications",
+      "es": "Display: especificaciones para GIF"
+     },
+     "items": [
+      {
+       "pt": "Animações podem durar no máximo 15 segundos e posteriormente a peça deve permanecer estática",
+       "en": "Animations may last up to 15 seconds, after which the asset must remain static",
+       "es": "Las animaciones pueden durar como máximo 15 segundos y luego la pieza debe permanecer estática"
+      },
+      {
+       "pt": "São permitidos apenas 3 loops. Não é permitido looping infinito",
+       "en": "Only 3 loops are allowed. Infinite looping is not allowed",
+       "es": "Se permiten solo 3 loops. No se permite looping infinito"
+      },
+      {
+       "pt": "Páginas de destino (landing page) que contém “formulários” devem utilizar Certificado de Segurança (https://)",
+       "en": "Landing pages containing “forms” must use a Security Certificate (https://)",
+       "es": "Las páginas de destino (landing page) que contienen “formularios” deben usar Certificado de Seguridad (https://)"
+      },
+      {
+       "pt": "Peças flutuantes ou pop-up não são aceitos pelo sistema",
+       "en": "Floating or pop-up assets are not accepted by the system",
+       "es": "Piezas flotantes o pop-up no son aceptadas por el sistema"
+      },
+      {
+       "pt": "Todos os cookies de terceiros devem ser declarados",
+       "en": "All third-party cookies must be declared",
+       "es": "Todas las cookies de terceros deben ser declaradas"
+      },
+      {
+       "pt": "As peças precisam ter a logomarca do anunciante. A mesma logomarca deve estar na página de destino",
+       "en": "Assets must carry the advertiser's logo. The same logo must appear on the landing page",
+       "es": "Las piezas deben tener el logotipo del anunciante. El mismo logotipo debe estar en la página de destino"
+      },
+      {
+       "pt": "As peças precisam ser envolvidas por uma borda de 1 pixel que contraste com o background",
+       "en": "Assets must be framed by a 1-pixel border that contrasts with the background",
+       "es": "Las piezas deben estar enmarcadas por un borde de 1 píxel que contraste con el fondo"
+      }
+     ]
+    }
+   ],
+   "order": 3
   },
   {
    "id": "video-programatico",
-   "name": "Mídia Programática Vídeo",
+   "name": "Vídeo Programático",
    "cat": "video",
-   "order": 2,
    "names": {
-    "pt": "Mídia Programática Vídeo",
+    "pt": "Vídeo Programático",
     "en": "Programmatic Video",
     "es": "Video Programático"
    },
    "tagline": {
-    "pt": "DV360, Amazon DSP e criativos dinâmicos",
-    "en": "DV360, Amazon DSP and dynamic creatives",
-    "es": "DV360, Amazon DSP y creativos dinámicos"
+    "pt": "Vídeo em medidas-padrão, com banner companheiro opcional",
+    "en": "Standard video, with optional companion banner",
+    "es": "Video en medidas estándar, con banner acompañante opcional"
    },
-   "keywords": "video vídeo dv360 amazon dsp asin component based creative criativos dinamicos banner companheiro",
+   "keywords": "video vídeo programatico banner companheiro",
    "source": {
-    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 9–12",
-    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 9–12",
-    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 9–12"
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 9–10",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 9–10",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 9–10"
    },
    "formats": [
     {
-     "id": "dv360-video",
+     "id": "video-programatico-video",
      "name": {
-      "pt": "Vídeo DV360",
-      "en": "DV360 Video",
-      "es": "Video DV360"
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
      },
      "intro": {
       "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
@@ -699,11 +931,11 @@
      ]
     },
     {
-     "id": "dv360-companion",
+     "id": "video-programatico-companion",
      "name": {
-      "pt": "Banner companheiro (DV360)",
-      "en": "Companion banner (DV360)",
-      "es": "Banner acompañante (DV360)"
+      "pt": "Banner companheiro (opcional)",
+      "en": "Companion banner (optional)",
+      "es": "Banner acompañante (opcional)"
      },
      "specs": [
       [
@@ -737,19 +969,58 @@
         "es": "Referencia"
        },
        {
-        "pt": "Especificações de Mídia Programática Display (DV360 Display e especificações gerais JPEG/PNG/GIF)",
-        "en": "Programmatic Display specifications (DV360 Display and general JPEG/PNG/GIF rules)",
-        "es": "Especificaciones de Display Programático (DV360 Display y reglas generales JPEG/PNG/GIF)"
+        "pt": "Especificações de Display Programático (medidas e especificações gerais JPEG/PNG/GIF)",
+        "en": "Programmatic Display specifications (sizes and general JPEG/PNG/GIF rules)",
+        "es": "Especificaciones de Display Programático (medidas y reglas generales JPEG/PNG/GIF)"
        }
       ]
      ]
+    }
+   ],
+   "version": "1.1",
+   "updated": "2026-11-18",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
     },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Separado do pacote anterior para seleção individual"
+    }
+   ],
+   "order": 4
+  },
+  {
+   "id": "amazon-dsp-video",
+   "name": "Amazon DSP — Vídeo",
+   "cat": "video",
+   "names": {
+    "pt": "Amazon DSP — Vídeo",
+    "en": "Amazon DSP — Video",
+    "es": "Amazon DSP — Video"
+   },
+   "tagline": {
+    "pt": "Vídeo na Amazon DSP",
+    "en": "Video on Amazon DSP",
+    "es": "Video en Amazon DSP"
+   },
+   "keywords": "amazon dsp video vídeo amazon",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 11",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 11",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 11"
+   },
+   "formats": [
     {
      "id": "amazon-video",
      "name": {
-      "pt": "Vídeo Amazon DSP",
-      "en": "Amazon DSP Video",
-      "es": "Video Amazon DSP"
+      "pt": "Vídeo",
+      "en": "Video",
+      "es": "Video"
      },
      "intro": {
       "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
@@ -880,13 +1151,52 @@
        "url": "https://advertising.amazon.com/resources/ad-specs/dsp/video/online-video-ads?ref_=a20m_us_spcs_adsp_spcs_ovaas"
       }
      ]
+    }
+   ],
+   "version": "1.1",
+   "updated": "2026-11-18",
+   "active": true,
+   "log": [
+    {
+     "date": "2026-11-12",
+     "version": "1.0",
+     "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
     },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Separado do pacote anterior para seleção individual"
+    }
+   ],
+   "order": 5
+  },
+  {
+   "id": "amazon-dsp-cbc",
+   "name": "Amazon DSP — Criativos dinâmicos",
+   "cat": "video",
+   "names": {
+    "pt": "Amazon DSP — Criativos dinâmicos",
+    "en": "Amazon DSP — Dynamic creatives",
+    "es": "Amazon DSP — Creativos dinámicos"
+   },
+   "tagline": {
+    "pt": "Anúncios montados a partir dos produtos (ASINs) na Amazon",
+    "en": "Ads built from Amazon products (ASINs)",
+    "es": "Anuncios generados a partir de los productos (ASINs) en Amazon"
+   },
+   "keywords": "amazon dsp asin component based creative criativos dinamicos",
+   "source": {
+    "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 12",
+    "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 12",
+    "es": "Presentación master E/UP — Especificaciones Técnicas (12/11/2026), p. 12"
+   },
+   "formats": [
     {
      "id": "amazon-cbc",
      "name": {
-      "pt": "Amazon DSP — Criativos dinâmicos (Component-Based Creative)",
-      "en": "Amazon DSP — Dynamic creatives (Component-Based Creative)",
-      "es": "Amazon DSP — Creativos dinámicos (Component-Based Creative)"
+      "pt": "Criativos dinâmicos (Component-Based Creative)",
+      "en": "Dynamic creatives (Component-Based Creative)",
+      "es": "Creativos dinámicos (Component-Based Creative)"
      },
      "intro": {
       "pt": "Os component based creatives promovem produtos ou brand stores na Amazon. Para rodar esse formato não é obrigatório desdobrar criativos, pois as imagens são extraídas diretamente da página do produto na Amazon.",
@@ -957,24 +1267,30 @@
      ]
     }
    ],
-   "version": "1.0",
-   "updated": "2026-11-12",
+   "version": "1.1",
+   "updated": "2026-11-18",
    "active": true,
    "log": [
     {
      "date": "2026-11-12",
      "version": "1.0",
      "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Separado do pacote anterior para seleção individual"
     }
-   ]
+   ],
+   "order": 6
   },
   {
    "id": "audio-programatico",
-   "name": "Mídia Programática Áudio",
+   "name": "Áudio Programático",
    "cat": "audio",
-   "order": 3,
+   "order": 7,
    "names": {
-    "pt": "Mídia Programática Áudio",
+    "pt": "Áudio Programático",
     "en": "Programmatic Audio",
     "es": "Audio Programático"
    },
@@ -1098,11 +1414,11 @@
   },
   {
    "id": "native",
-   "name": "Mídia Programática Native",
+   "name": "Native Programático",
    "cat": "native",
-   "order": 4,
+   "order": 8,
    "names": {
-    "pt": "Mídia Programática Native",
+    "pt": "Native Programático",
     "en": "Programmatic Native",
     "es": "Native Programático"
    },
@@ -1451,7 +1767,7 @@
    "id": "spotify",
    "name": "Spotify e Plataformas de Áudio",
    "cat": "audio",
-   "order": 5,
+   "order": 9,
    "names": {
     "pt": "Spotify e Plataformas de Áudio",
     "en": "Spotify & Audio Platforms",
@@ -1638,7 +1954,7 @@
    "id": "netflix",
    "name": "Netflix",
    "cat": "streaming",
-   "order": 6,
+   "order": 10,
    "names": {
     "pt": "Netflix",
     "en": "Netflix",
@@ -1895,7 +2211,7 @@
    "id": "globoplay",
    "name": "Globoplay",
    "cat": "streaming",
-   "order": 7,
+   "order": 11,
    "names": {
     "pt": "Globoplay",
     "en": "Globoplay",
@@ -2012,7 +2328,7 @@
    "id": "prime-video",
    "name": "Prime Video",
    "cat": "streaming",
-   "order": 8,
+   "order": 12,
    "names": {
     "pt": "Prime Video",
     "en": "Prime Video",
@@ -2189,7 +2505,7 @@
    "id": "disney-plus",
    "name": "Disney+",
    "cat": "streaming",
-   "order": 9,
+   "order": 13,
    "names": {
     "pt": "Disney+",
     "en": "Disney+",
@@ -2468,7 +2784,7 @@
    "id": "hbo",
    "name": "HBO+",
    "cat": "streaming",
-   "order": 10,
+   "order": 14,
    "names": {
     "pt": "HBO+",
     "en": "HBO+",
@@ -2685,7 +3001,7 @@
    "id": "ctv",
    "name": "CTV",
    "cat": "streaming",
-   "order": 11,
+   "order": 15,
    "names": {
     "pt": "CTV",
     "en": "CTV",
@@ -2802,7 +3118,7 @@
    "id": "twitch",
    "name": "Twitch",
    "cat": "streaming",
-   "order": 12,
+   "order": 16,
    "names": {
     "pt": "Twitch",
     "en": "Twitch",
@@ -2919,20 +3235,20 @@
   },
   {
    "id": "youtube",
-   "name": "YouTube (DV360)",
+   "name": "YouTube",
    "cat": "google",
-   "order": 13,
+   "order": 17,
    "names": {
-    "pt": "YouTube (DV360)",
-    "en": "YouTube (DV360)",
-    "es": "YouTube (DV360)"
+    "pt": "YouTube",
+    "en": "YouTube",
+    "es": "YouTube"
    },
    "tagline": {
     "pt": "Vídeo e criativo complementar",
     "en": "Video and companion creative",
     "es": "Video y creativo complementario"
    },
-   "keywords": "youtube yt youtube dv360 video youtube",
+   "keywords": "youtube yt video youtube",
    "source": {
     "pt": "Apresentação master E/UP — Especificações Técnicas (12/11/2026), p. 31–33",
     "en": "E/UP master deck — Technical Specifications (12/11/2026), p. 31–33",
@@ -3209,14 +3525,19 @@
      ]
     }
    ],
-   "version": "1.0",
-   "updated": "2026-11-12",
+   "version": "1.1",
+   "updated": "2026-11-18",
    "active": true,
    "log": [
     {
      "date": "2026-11-12",
      "version": "1.0",
      "note": "Base oficial inicial (apresentação master e ficha ChatGPT Ads)"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.1",
+     "note": "Nome sem referência à plataforma de compra"
     }
    ]
   },
@@ -3224,7 +3545,7 @@
    "id": "demand-gen",
    "name": "Google Demand Gen",
    "cat": "google",
-   "order": 14,
+   "order": 18,
    "names": {
     "pt": "Google Demand Gen",
     "en": "Google Demand Gen",
@@ -3593,7 +3914,7 @@
    "id": "google-ads-search",
    "name": "Google Ads — Pesquisa",
    "cat": "google",
-   "order": 15,
+   "order": 19,
    "names": {
     "pt": "Google Ads — Pesquisa",
     "en": "Google Ads — Search",
@@ -3963,7 +4284,7 @@
    "id": "tinder",
    "name": "Tinder",
    "cat": "social",
-   "order": 16,
+   "order": 20,
    "names": {
     "pt": "Tinder",
     "en": "Tinder",
@@ -4197,7 +4518,7 @@
    "id": "meta-ads",
    "name": "Meta Ads",
    "cat": "social",
-   "order": 17,
+   "order": 21,
    "names": {
     "pt": "Meta Ads",
     "en": "Meta Ads",
@@ -4885,7 +5206,7 @@
    "id": "tiktok-ads",
    "name": "TikTok Ads",
    "cat": "social",
-   "order": 18,
+   "order": 22,
    "names": {
     "pt": "TikTok Ads",
     "en": "TikTok Ads",
@@ -5162,7 +5483,7 @@
    "id": "linkedin-ads",
    "name": "LinkedIn Ads",
    "cat": "social",
-   "order": 19,
+   "order": 23,
    "names": {
     "pt": "LinkedIn Ads",
     "en": "LinkedIn Ads",
@@ -5590,7 +5911,7 @@
    "id": "push",
    "name": "Push",
    "cat": "push",
-   "order": 20,
+   "order": 24,
    "names": {
     "pt": "Push",
     "en": "Push",
@@ -5687,7 +6008,7 @@
    "id": "chatgpt-ads",
    "name": "ChatGPT Ads",
    "cat": "ai",
-   "order": 21,
+   "order": 25,
    "names": {
     "pt": "ChatGPT Ads",
     "en": "ChatGPT Ads",
