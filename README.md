@@ -8,3 +8,10 @@ Site estático do Media Kit Digital da E.UP (páginas 16:9).
 
 Publicação: Netlify conectado a este repositório. Cada commit na branch `main` publica automaticamente.
 Sem etapa de build: diretório de publicação = raiz do repositório.
+
+## Versão em inglês
+
+- `en.html` + `data/kit.en.json` são **gerados** a partir da versão em português.
+- Depois de qualquer alteração em `index.html` ou `data/kit.json`, rode `python3 tools/build_en.py`.
+- Traduções de conteúdo ficam em `tools/en_map.json`; o script lista os textos que ainda não têm tradução.
+- Endereços: `/` (português) e `/en.html` (inglês). O botão PT | EN no topo alterna mantendo a página atual.
