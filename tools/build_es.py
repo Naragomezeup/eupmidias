@@ -64,7 +64,7 @@ UI = [
  ('assets/kv-miolo.webp', 'assets/kv-miolo-es.webp'),
  ('E.UP. Simplesmente diferente. Mais de 36 soluções de mídia em seis frentes de atuação.', 'E.UP. Simplemente diferente. 19 soluciones de medios en seis frentes de actuación.'),
  ('E.UP Mídias, ir para a capa', 'E.UP Mídias, ir a la portada'), ('aria-label="Páginas"', 'aria-label="Páginas"'),
- ('>Quem somos<', '>Quiénes somos<'), ('>Nosso jeito<', '>Nuestra forma<'), ('>Números<', '>Números<'), ('>Frentes<', '>Frentes<'), ('>Soluções<', '>Soluciones<'),
+ ('>Quem somos<', '>Quiénes somos<'), ('>Nosso jeito<', '>Nuestra forma<'), ('>Números<', '>Números<'), ('>Frentes<', '>Frentes<'), ('>Soluções<', '>Soluciones<'), ('>Specs<', '>Specs<'),
  ('>Baixar PDF<', '>Descargar PDF<'), ('>Fale com a E.UP<', '>Habla con E.UP<'), ('>Notas de revisão<', '>Notas de revisión<'),
  ('Gire o celular para ver as páginas maiores.', 'Gira el celular para ver las páginas más grandes.'), ('<b>Revisão:</b>', '<b>Revisión:</b>'),
  ('Não foi possível carregar os dados do media kit', 'No fue posible cargar los datos del media kit'),
