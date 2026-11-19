@@ -1,6 +1,6 @@
 # Central de Especificações Técnicas E/UP
 
-Endereço público: https://eupmidiakit.netlify.app/especificacoes/
+Endereço público: https://midiakit.e-up.tech/especificacoes/
 
 - `index.html` — interface (biblioteca, busca, filtros, PT | EN | ES, campanha e geração de PDFs no navegador). Não precisa ser editado para mudar especificações.
 - `data/specs.json` — base oficial: mídias, formatos, especificações, tutoriais de acesso, versões e histórico de alterações (`log`).

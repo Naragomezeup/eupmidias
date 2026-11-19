@@ -1,9 +1,2 @@
 [build]
   publish = "."
-
-# Central de Especificações no subdomínio próprio: specs.e-up.tech → /especificacoes/
-[[redirects]]
-  from = "https://specs.e-up.tech/*"
-  to = "/especificacoes/:splat"
-  status = 200
-  force = true
