@@ -15,3 +15,5 @@ Fontes: apresentação master "ESPECIFICAÇÕES TÉCNICAS 17.pdf" (12/11/2026) e
 5. Versões anteriores ficam no histórico do Git (cada commit) e podem ser recuperadas.
 
 Regras: nunca inventar especificações; informação ausente = "Informação técnica pendente de validação"; não traduzir medidas, extensões e siglas.
+
+Guia completo de atualização (modelo de produto, regras e passo a passo): `COMO_ATUALIZAR.md`.
