@@ -74,7 +74,7 @@ Guia para qualquer conversa do Claude no projeto "ESPECIFICAÇÕES TECNICAS EUP"
 3. Cada produto é individual, sem pacotes (ex.: Display Programático, Drive to Store e Amazon DSP — Display são produtos separados).
 4. Não usar "DV360" em nomes de produtos. Amazon pode ser nomeada.
 5. Formatos de uma mesma plataforma ficam separados (o cliente escolhe formato a formato).
-6. Banner companheiro nunca é formato separado: entra junto com a peça principal. Em áudio é obrigatório; no vídeo programático é altamente recomendado.
+6. Banner companheiro/complementar nunca é formato separado: entra junto com a peça principal. Obrigatório em Áudio Programático, Spotify e YouTube; altamente recomendado no Vídeo Programático.
 7. Não usar o Canva: tutoriais e materiais de apoio ficam dentro da Central.
 8. Nada interno no site (notas internas, links de edição, observações de bastidor). O repositório é público.
 9. Áudio Programático e Spotify e Plataformas de Áudio são produtos diferentes.

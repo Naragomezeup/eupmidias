@@ -3223,9 +3223,9 @@
     "es": "YouTube"
    },
    "tagline": {
-    "pt": "Vídeo e criativo complementar",
-    "en": "Video and companion creative",
-    "es": "Video y creativo complementario"
+    "pt": "Vídeo com banner complementar obrigatório",
+    "en": "Video with required companion banner",
+    "es": "Video con banner complementario obligatorio"
    },
    "keywords": "youtube yt video youtube",
    "source": {
@@ -3235,16 +3235,16 @@
    },
    "formats": [
     {
-     "id": "youtube-video",
+     "id": "youtube-video-banner",
      "name": {
-      "pt": "Vídeo",
-      "en": "Video",
-      "es": "Video"
+      "pt": "Vídeo + banner complementar",
+      "en": "Video + companion banner",
+      "es": "Video + banner complementario"
      },
      "intro": {
-      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir.",
-      "en": "Assets must be produced in one of the standard sizes below.",
-      "es": "Las piezas deben producirse en una de las medidas estándar a continuación."
+      "pt": "As peças precisam ser confeccionadas em uma das medidas-padrão a seguir. Entrega em conjunto: o vídeo e o banner complementar (obrigatório) formam uma única peça.",
+      "en": "Assets must be produced in one of the standard sizes below. Delivered together: the video and the companion banner (required) make up a single asset.",
+      "es": "Las piezas deben producirse en una de las medidas estándar a continuación. Entrega en conjunto: el video y el banner complementario (obligatorio) forman una única pieza."
      },
      "specs": [
       [
@@ -3406,30 +3406,20 @@
         "en": "Per the US IAB specification of -24 LKFS +/- 2 LKFS (Campaign Manager 360 will normalize audio to the target loudness of -24 LKFS)",
         "es": "Según la especificación IAB de EE. UU. de -24 LKFS +/- 2 LKFS (Campaign Manager 360 normalizará el audio al volumen objetivo de -24 LKFS)"
        }
-      ]
-     ]
-    },
-    {
-     "id": "youtube-companion",
-     "name": {
-      "pt": "Criativo complementar (banner)",
-      "en": "Companion creative (banner)",
-      "es": "Creativo complementario (banner)"
-     },
-     "specs": [
+      ],
       [
        {
-        "pt": "Peso",
-        "en": "File size",
-        "es": "Peso"
+        "pt": "Banner complementar (obrigatório) — Peso",
+        "en": "Companion banner (required) — File size",
+        "es": "Banner complementario (obligatorio) — Peso"
        },
        "20 KB"
       ],
       [
        {
-        "pt": "Tipo",
-        "en": "Type",
-        "es": "Tipo"
+        "pt": "Banner complementar (obrigatório) — Tipo",
+        "en": "Companion banner (required) — Type",
+        "es": "Banner complementario (obligatorio) — Tipo"
        },
        {
         "pt": "Imagem ou HTML5",
@@ -3439,9 +3429,9 @@
       ],
       [
        {
-        "pt": "Animação",
-        "en": "Animation",
-        "es": "Animación"
+        "pt": "Banner complementar (obrigatório) — Animação",
+        "en": "Companion banner (required) — Animation",
+        "es": "Banner complementario (obligatorio) — Animación"
        },
        {
         "pt": "15 segundos",
@@ -3450,7 +3440,11 @@
        }
       ],
       [
-       "FPS",
+       {
+        "pt": "Banner complementar (obrigatório) — FPS",
+        "en": "Companion banner (required) — FPS",
+        "es": "Banner complementario (obligatorio) — FPS"
+       },
        {
         "pt": "18 a 24 FPS",
         "en": "18 to 24 FPS",
@@ -3459,9 +3453,9 @@
       ],
       [
        {
-        "pt": "Dimensões",
-        "en": "Dimensions",
-        "es": "Dimensiones"
+        "pt": "Banner complementar (obrigatório) — Dimensões",
+        "en": "Companion banner (required) — Dimensions",
+        "es": "Banner complementario (obligatorio) — Dimensiones"
        },
        "300 × 250, 728 × 90, 300 × 60"
       ]
@@ -3504,7 +3498,7 @@
      ]
     }
    ],
-   "version": "1.1",
+   "version": "1.2",
    "updated": "2026-11-18",
    "active": true,
    "log": [
@@ -3517,6 +3511,11 @@
      "date": "2026-11-18",
      "version": "1.1",
      "note": "Nome sem referência à plataforma de compra"
+    },
+    {
+     "date": "2026-11-18",
+     "version": "1.2",
+     "note": "Vídeo e banner complementar unificados em uma única peça; banner complementar obrigatório (confirmado pela E/UP)"
     }
    ]
   },
